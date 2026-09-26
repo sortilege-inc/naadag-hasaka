@@ -112,7 +112,8 @@ window.CnCDice = (function () {
     return el('span', { class: 'd12' + (cls ? ' ' + cls : ''), title: title || null }, [String(v)]);
   }
 
-  // opts: { pool, sn, legendary, mind, label, onResolve(result) }
+  // opts: { pool, sn, legendary, mind, label, onResolve(result) }. The box it returns has
+  // set({ pool, sn, legendary, mind, label }) — a sheet presets it from a Skill.
   function roller(opts) {
     const o = opts || {};
     const box = el('div', { class: 'roller' });
@@ -127,6 +128,8 @@ window.CnCDice = (function () {
     const stage = el('div', { class: 'roll-stage' });
     let chk = null;
     let step = null;   // 'legendary' | 'focus' | 'done'
+    let label = o.label || null;
+    const labelEl = el('div', { class: 'roll-label' }, [label || '']);
 
     const val = (f) => Math.max(0, parseInt(f.input.value, 10) || 0);
     function start() {
@@ -143,7 +146,7 @@ window.CnCDice = (function () {
       step = 'done';
       draw();
       const t = tally(chk);
-      if (o.onResolve) o.onResolve({ check: chk, tally: t, summary: summary(chk), label: o.label || null, legendary: chk.legendaryUsed, focus: chk.focusUsed });
+      if (o.onResolve) o.onResolve({ check: chk, tally: t, summary: summary(chk), label, legendary: chk.legendaryUsed, focus: chk.focusUsed });
     }
     function draw() {
       stage.innerHTML = '';
@@ -182,6 +185,17 @@ window.CnCDice = (function () {
         if (chk.focusUsed) stage.appendChild(el('div', { class: 'muted small' }, [chk.focusUsed + ' Mind spent on Focus']));
       }
     }
+    box.set = (v) => {
+      if (v.pool != null) fPool.input.value = String(v.pool);
+      if (v.sn != null) fSn.input.value = String(v.sn);
+      if (v.legendary != null) fLeg.input.value = String(v.legendary);
+      if (v.mind != null) fMind.input.value = String(v.mind);
+      if ('label' in v) { label = v.label || null; labelEl.textContent = label || ''; }
+      chk = null;
+      step = null;
+      draw();
+    };
+    box.appendChild(labelEl);
     box.appendChild(el('div', { class: 'roller-inputs' }, [fPool.node, fSn.node, fLeg.node, fMind.node,
       el('button', { class: 'btn primary', type: 'button', onclick: start }, ['Roll'])]));
     box.appendChild(stage);
@@ -195,9 +209,9 @@ window.CnCDice = (function () {
       el('div', {}, [entry.summary]),
     ]);
   }
-  function logEntry(r, who) {
+  function logEntry(r, who, memberId) {
     return {
-      who, label: r.label, summary: r.summary, sn: r.check.sn,
+      who, memberId: memberId || null, label: r.label, summary: r.summary, sn: r.check.sn,
       dice: r.check.dice.map((d) => (d.v !== d.rolled ? d.rolled + '→' + d.v : String(d.v))),
       crits: [].concat.apply([], r.check.crits).map(String),
     };
