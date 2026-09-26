@@ -127,10 +127,19 @@ def main():
     for f in ("Name", "Type", "Category", "Skill Check", "Stat Line", "Initiative", "Skills", "Abilities",
               "Equipment", "Special Abilities", "Gifts and Burdens", "Description"):
         check("ACTOR Icon declares %s" % f, prop(icon, f) is not None, True)
+    char = actors.get("Character") or {}
+    for f in ("Name", "Age", "Archetype", "Path", "Motivation", "Other Identifiers", "Nation", "Background",
+              "Short Term Goals", "Long Term Goal", "Legendary Ranks", "Wealth Rank", "Stat Line", "Initiative",
+              "Body (current)", "Mind (current)", "Soul (current)", "Skills", "Abilities", "Gifts and Burdens",
+              "Equipment", "States and Effects", "Notes", "Description"):
+        check("ACTOR Character declares %s" % f, prop(char, f) is not None, True)
+    check("Character's Wealth Rank DEFAULT", (prop(char, "Wealth Rank") or {}).get("default"), 4)
     pre = actors.get("Pregenerated Character") or {}
-    check("Pregenerated Character EXTENDS Icon", pre.get("type"), "Icon")
-    for f in ("Archetype", "Nation"):
-        check("ACTOR Pregenerated Character declares %s" % f, prop(pre, f) is not None, True)
+    check("Pregenerated Character EXTENDS Character", pre.get("type"), "Character")
+    # every property a pregen prints is one its ACTOR chain declares (the gap D1 closed)
+    declared = {p["name"] for p in char.get("props", [])} | {p["name"] for p in pre.get("props", [])}
+    check("pregen properties no ACTOR declares", sorted({p["name"] for e in typed("Pregenerated Character")
+                                                         for p in e.get("props", []) if p["name"] not in declared}), [])
     stat_line = next((e for e in E.values() if e["name"] == "Stat Line" and e["file"] == base["file"]), {})
     check("Stat Line declares fifteen fields", len(stat_line.get("props", [])), 15)
     stat = next((e for e in E.values() if e["name"] == "Stat" and e["file"] == base["file"]), {})

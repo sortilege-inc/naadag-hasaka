@@ -26,7 +26,7 @@ verified by the main session.
 | Input | State |
 |---|---|
 | `~/Sortilege/VTT/sortilege-vtt-coyotecrow` | cloned empty 2026-09-26; remote `sortilege-inc/sortilege-vtt-coyotecrow` (**PRIVATE**); identity Jordan Peacock <jordan@sortilege.online> set per repo |
-| `~/Sortilege/Titterpig/DSL/titterpig-dsl-coyotecrow/0.5` | 40 files, 1.3 MB of DSL, clean at `47f3b39`: 8 `.ttrpg`, 31 `.actor` (25 in `icons/`, 6 in `pregens/`), 1 `.arc`; its `./gates.sh` last run 2026-09-23: validator 40 files 0/0, coverage 519/519 |
+| `~/Sortilege/Titterpig/DSL/titterpig-dsl-coyotecrow/0.5` | 40 files, 1.3 MB of DSL, clean at `47f3b39`, then `7738abe` (D1): 8 `.ttrpg`, 31 `.actor` (25 in `icons/`, 6 in `pregens/`), 1 `.arc`; its `./gates.sh` last run 2026-09-23: validator 40 files 0/0, coverage 519/519 |
 | The art | **none.** No Coyote & Crow art exists on disk outside the PDF (`~/Sortilege/Titterpig/RAW/Coyote & Crow/`); see D4 |
 
 **The parser** is L5R5e's (its five 0.5 extensions and `CHOOSE DISTINCT`) plus Daggerheart's
@@ -55,17 +55,14 @@ The BASE (`coyotecrow-0.5-core-base.ttrpg`, 0.5.3) is well typed: 37 types insta
 
 ## Decisions
 
-**D1 — PROPOSED: declare the player character in the BASE.** The corpus declares `ACTOR "Icon"`
-and `ACTOR "Pregenerated Character"` (EXTENDS Icon, adding Archetype and Nation) — and nothing a
-player builds. The sheet is derived from an ACTOR's declarations (PLAYBOOK §1b), and the six
-pregens already print two properties **no ACTOR declares**: `^"Path"` and `^"Motivation"` (6 of 6;
-e.g. Jaya: Path "Snake", Motivation "Heroism"). Recommendation: as VtM5e's D1 and Daggerheart's
-Character did — the conversion adds an `ACTOR "Character"` to the BASE declaring what *Crafting
-Your Hero* and the printed sheet ask for (Name, Archetype, Path, Motivation, Nation, the nine
-Stats, Skills as `Skill Rank`s, Abilities, Gifts and Burdens, Equipment, the Derived Stats), with
-`Pregenerated Character` EXTENDS it; fixed upstream in `titterpig-dsl-coyotecrow`, never in the
-tool. Trade-off: a BASE change and a corpus version bump now, versus a sheet at M4 that reads
-fields no type declares. Needed by M4; M2–M3 do not wait on it.
+**D1 — (owner, 2026-09-26) the player character is declared in the BASE.** The corpus declared
+`ACTOR "Icon"` and `ACTOR "Pregenerated Character"` and nothing a player builds, while the six
+pregens printed `^"Path"` and `^"Motivation"` that no ACTOR declared. Fixed upstream in the
+conversion's `gen_base.py` (corpus `7738abe`, BASE 0.5.4): `ACTOR "Character"` declares what the
+printed sheet and *Steps to Creating a Character* ask for, and `Pregenerated Character` EXTENDS
+it. Only the BASE was regenerated (it reproduced the committed file byte-for-byte first);
+`./gates.sh` rc=0. `data/` rebuilt on it: `check_shape` asserts the Character's 24 fields,
+Pregenerated Character EXTENDS Character, and no pregen property left undeclared.
 
 **D2 — the books are the shelf; a book's chapters are its files** (autonomous, tool/method).
 `build/build_data.py` maps each corpus file to its book by the file-name prefix
@@ -104,7 +101,7 @@ worker/                  the session rooms (Cloudflare Worker + Durable Object);
 | M1 | `build/` generates `data/` from the corpus losslessly; `verify_data.py` both directions **and by count**; `check_shape.py` against counts scanned from the corpus; `build_layer.sh` with a Coyote & Crow fixture | **landed 2026-09-26** — `bash build/build.sh`: 40 corpus files → 1 book, 1,458 entities (0 ids written here), 1,105 records; `verify_data: 3260 strings (15160 occurrences) — 0 uncovered · 0 short · 0 unsourced`; `check_shape: OK (77 assertions)` — every typed set of the BASE by its own EXTENDS lines, both ACTORs and their fields, 31 Stat Lines / 405 fields, Skill Rank / Carried Item / Held Gift or Burden rows, 6 PHASEs, 6 SCENEs, 25 TABLEs, the GUIDANCE entries and DESCRIPTIONs; it failed first (Stat Lines 0 vs 31) and passed after parser extension 6; `node --check` every data file. `build_layer.sh build/fixtures/layer`: 15 strings 0/0/0, references and names resolve; a copy with a mistyped Icon hash and MODIFY name **fails** (exit 1) |
 | M2 | The site: the book (outline, reader, sidebars, tables), the Icons, the pregens, the adventure (its Parts, read-aloud), the setting sets, the glossary and index, the D12 roller, search; the §4b standards (robots, books off by default, the /gm/ gate) | the browser, through the real controls |
 | M3 | The Story Guide's page: Adventure (Station 54's six Parts as a module), Party, Inspector, Cast (Icons into a scene), Dice, Rules & Book, Log, Saga; the GM panes (Notes, Scenes, Threads); the table and the player's page wired | the browser, through the real controls |
-| M4 | The character sheet derived from the player-character ACTOR (D1), the creator (*Steps to Creating a Character* walked over the typed sets), the live sheet (Body/Mind/Soul, Effects, States) and D12 Checks | the browser, through the real controls |
+| M4 | The character sheet derived from `ACTOR "Character"` (D1), the creator (*Steps to Creating a Character* walked over the typed sets), the live sheet (Body/Mind/Soul, Effects, States) and D12 Checks | the browser, through the real controls |
 | M5 | Sessions proven with `wrangler dev` on 8800; deploy is the owner's step (D3) | two pages, two origins, one room |
 
 One commit per milestone; each proven by the main session through the real controls
@@ -122,4 +119,5 @@ One commit per milestone; each proven by the main session through the real contr
 | 6 | The scans read `icons/` and `pregens/` and only DSL files (never `sources.json` or the coverage manifest, which quote the corpus's names) | The first run of `check_shape` read `icons/` as a file |
 | 7 | The layer fixture (`build/fixtures/layer/`) rewritten for this corpus: an Icon with a Skill Rank row, a MODIFY and a CONCERNS by name on *Athletics* | The inherited fixture pointed at L5R5e hashes; the gate must be proven against this corpus |
 | 8 | GM-facing labels in `engine/config.js` say **Story Guide** and **saga** (the gate's title and text, the default campaign's name) | The book's own words |
+| 10 | data/ rebuilt on corpus `7738abe` (D1): 1,459 entities; verify 3,262 strings (15,187 occurrences) 0/0/0; check_shape 102 | — |
 | 9 | Not ported yet: Daggerheart's §4c GM workbench (sectioned nav, layout presets, the beat outline, NPC instances) | Not in the two named sources; a candidate for M3, when the GM page is built |
