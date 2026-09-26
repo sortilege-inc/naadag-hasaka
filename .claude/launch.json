@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "vtt-coyotecrow",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8745"],
+      "port": 8745
+    },
+    {
+      "name": "vtt-coyotecrow-worker",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["wrangler", "dev", "--port", "8800"],
+      "port": 8800,
+      "cwd": "worker"
+    }
+  ]
+}
