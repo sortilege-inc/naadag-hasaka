@@ -1,0 +1,34 @@
+EXTENSION "Fixture_Layer" EXTENDS "coyotecrow" {
+    NAME "The layer build's own fixture"
+    VERSION "0.1.0"
+    SPEC_VERSION "0.5"
+    RELEASE_DATE "2026-09-26"
+
+    # Not game content. The smallest layer that exercises every path of build/build_layer.py: one
+    # character on the corpus's Icon chassis with a Skill Rank row (the references gate), and a
+    # MODIFY and CONCERNS by name on a Skill of the corpus (the names gate). Built only to a
+    # scratch folder by the layer's tests, never into data/.
+
+    MODIFY ^"Athletics" {
+        GUIDANCE {
+            ENTRY ^"fixture-guidance" #FXLayerFixtureGuide01 {
+                CONCERNS [ ^"Athletics" ]
+                TOPICS [ "fixture" ]
+                TEXT "A fixture guidance entry, not a rule."
+            }
+        }
+    }
+
+    #FXLayerFixtureIcon0001 ^"Fixture Icon" DEF {
+        EXTENDS #cnc5Icon00000000001 ^"Icon"
+
+        PROPERTIES {
+            ^"Name" STRING "Fixture Icon"
+            ^"Type" STRING "Icon"
+            ^"Skills" LIST OF #cnc5SkillRank000001 ^"Skill Rank" [
+                DEF { ^"Skill" STRING "Athletics"  ^"Rank" INTEGER 1 }
+            ]
+            ^"Description" STRING "A fixture for the layer build, not a character."
+        }
+    }
+}
