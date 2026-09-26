@@ -10,8 +10,8 @@
     {
       "name": "vtt-coyotecrow-worker",
       "runtimeExecutable": "npx",
-      "runtimeArgs": ["wrangler", "dev", "--port", "8800"],
-      "port": 8800,
+      "runtimeArgs": ["wrangler", "dev", "--port", "8801"],
+      "port": 8801,
       "cwd": "worker"
     }
   ]

@@ -20,5 +20,5 @@ It parses every corpus file, writes `data/`, and gates the result both ways (eve
 corpus prints reaches the data as often as it is printed, and nothing in the data is not in the
 corpus), then checks the shapes the site reads against counts taken from the raw corpus.
 
-Local: the launch entries `vtt-coyotecrow` (8745) and `vtt-coyotecrow-worker` (8800). See
+Local: the launch entries `vtt-coyotecrow` (8745) and `vtt-coyotecrow-worker` (8801). See
 `PLAN.md` for the milestones, the decisions and the proof of each.
