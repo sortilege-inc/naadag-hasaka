@@ -134,6 +134,10 @@ window.VttSystem = (function () {
   // the player makes a Character here, with the site's creator, and it takes its seat (engine/play.js)
   const makeCharacter = (container, seat) => window.CnCCreator.render(container, null, null, { embedded: true, onDone: seat, doneLabel: 'Take my Character to the table' });
 
+  // the book loads with every page that plays (the GM's, the table, the player's): the sheet's Skills,
+  // the Stats' grid and the Icons are all read from it. The player's page had no other caller.
+  D.ensure(D.books().map((b) => b.id)).then(() => Bus.emit('state:remote', { loaded: true }, { local: true }));
+
   return {
     SAGA, moduleId, module, scenes, scene, currentSceneId,
     cast, castIds, castEntries, castRaw, instLabel, addToScene, removeFromScene, namedCast, byId,

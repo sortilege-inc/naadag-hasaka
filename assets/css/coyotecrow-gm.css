@@ -181,6 +181,7 @@ body.play { display: block; }
 .play-head .brand-text { display: flex; flex-direction: column; line-height: 1.1; }
 .play-head .brand-title { font: 700 1.15rem var(--sans); color: #f2ead8; }
 .play-head .brand-sub { font: .75rem var(--sans); color: #9fd6cd; }
+.play-head .btn { background: transparent; color: #e6efe9; border-color: #3b5a63; }
 .play-status { display: flex; align-items: center; gap: 8px; font: .85rem var(--sans); }
 .play-main { max-width: 1000px; margin: 0 auto; padding: 18px; }
 .play-card { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 22px; }

@@ -2,7 +2,7 @@
   "name": "sortilege-vtt-coyotecrow-worker",
   "private": true,
   "scripts": {
-    "dev": "wrangler dev --port 8789",
+    "dev": "wrangler dev --port 8801",
     "deploy": "wrangler deploy"
   },
   "devDependencies": {
