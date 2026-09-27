@@ -2,16 +2,25 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "vtt-coyotecrow",
+      "name": "naadag",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8745"],
-      "port": 8745
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8754"
+      ],
+      "port": 8754
     },
     {
-      "name": "vtt-coyotecrow-worker",
+      "name": "naadag-worker",
       "runtimeExecutable": "npx",
-      "runtimeArgs": ["wrangler", "dev", "--port", "8801"],
-      "port": 8801,
+      "runtimeArgs": [
+        "wrangler",
+        "dev",
+        "--port",
+        "8804"
+      ],
+      "port": 8804,
       "cwd": "worker"
     }
   ]

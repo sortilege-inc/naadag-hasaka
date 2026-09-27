@@ -1,24 +1,19 @@
-# sortilege-vtt-coyotecrow
+# Naadag Hasaka
 
-A virtual tabletop for **Coyote & Crow** (Connor Alexander, Coyote & Crow LLC), generated from the
-Titterpig corpus `titterpig-dsl-coyotecrow/0.5`: the core rulebook to read, the D12 dice, the
-Icons and Legends, the six pregenerated characters, the introductory adventure *Encounter at
-Station 54*, and live sessions for players on their own devices.
+A **Coyote & Crow** saga played in 2023: a ten-day Seeing in Cahokia for Grandmother Naadag, an elder
+of the Diné Republic who has chosen the day of her own death, and the journey west that her last
+request sets in motion. *Naadag Hasaka* is Chahi for *Crow Mesa*.
 
-- `/` — the site: the book, the Icons, the pregens, the adventure, the dice, making a
-  character, search. Writes nothing. *(M2)*
-- `/gm/` — the Story Guide's table: panels over the saga, the map table (`gm/vtt.html`), the
-  player's page (`gm/play.html`). *(M3)*
-
-No build step for the pages; `data/` is generated:
+This repo is an **instance** of [`sortilege-vtt-coyotecrow`](https://github.com/sortilege-inc/sortilege-vtt-coyotecrow):
+the VTT owns the root (the site at `/`, the Story Guide's table at `/gm/`, the player's page, the
+engine, the generated book data); the saga owns `campaign/` and a few per-deployment root files
+(`.gitattributes`, `merge=ours`).
 
 ```bash
-bash build/build.sh
+git config merge.ours.driver true        # once per clone — the fork boundary needs it
+git fetch upstream && git merge upstream/main   # pull the VTT; a merge, never a rebase
+bash campaign/build/build.sh             # rebuild the saga's pages and the Story Guide's seed
 ```
 
-It parses every corpus file, writes `data/`, and gates the result both ways (every string the
-corpus prints reaches the data as often as it is printed, and nothing in the data is not in the
-corpus), then checks the shapes the site reads against counts taken from the raw corpus.
-
-Local: the launch entries `vtt-coyotecrow` (8745) and `vtt-coyotecrow-worker` (8801). See
-`PLAN.md` for the milestones, the decisions and the proof of each.
+Local: the launch entries `naadag` (8754) and `naadag-worker` (8804). The plan, the decisions and
+the proof of each step are in `campaign/PLAN.md`.
