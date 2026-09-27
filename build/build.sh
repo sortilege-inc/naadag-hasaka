@@ -17,6 +17,8 @@ echo "--- verify (every string, both directions, by count)"
 python3 build/verify_data.py "$CORPUS"
 echo "--- shape (the fields the site reads, against the corpus's own counts)"
 python3 build/check_shape.py "$CORPUS"
+echo "--- the creator's rules (chargen.js against the book's numbers and examples)"
+node build/check_chargen.js
 echo "--- syntax"
 for f in data/*.js; do node --check "$f"; done
 echo "build.sh: OK"

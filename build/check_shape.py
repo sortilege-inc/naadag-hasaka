@@ -134,6 +134,8 @@ def main():
               "Equipment", "States and Effects", "Notes", "Description"):
         check("ACTOR Character declares %s" % f, prop(char, f) is not None, True)
     check("Character's Wealth Rank DEFAULT", (prop(char, "Wealth Rank") or {}).get("default"), 4)
+    held = next((e for e in E.values() if e["name"] == "Held Gift or Burden" and e["file"] == base["file"]), {})
+    check("Held Gift or Burden declares Taken As (Gift, Burden)", (prop(held, "Taken As") or {}).get("options"), ["Gift", "Burden"])
     pre = actors.get("Pregenerated Character") or {}
     check("Pregenerated Character EXTENDS Character", pre.get("type"), "Character")
     # every property a pregen prints is one its ACTOR chain declares (the gap D1 closed)

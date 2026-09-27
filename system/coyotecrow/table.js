@@ -131,12 +131,14 @@ window.VttSystem = (function () {
   const downloadCharacter = (m) => Sheet().downloadMember(m);
   const liveSheet = (m, opts) => Sheet().live(m, opts);
   const memberSubtitle = (m) => Sheet().sentence(m.character || {});
+  // the player makes a Character here, with the site's creator, and it takes its seat (engine/play.js)
+  const makeCharacter = (container, seat) => window.CnCCreator.render(container, null, null, { embedded: true, onDone: seat, doneLabel: 'Take my Character to the table' });
 
   return {
     SAGA, moduleId, module, scenes, scene, currentSceneId,
     cast, castIds, castEntries, castRaw, instLabel, addToScene, removeFromScene, namedCast, byId,
     maps, mapDef, defaultMapId, legend, mapAssets,
     tokenSources, tokenColor, tokenStatus, selectToken, tokenMenu,
-    liveSheet, readCharacter, downloadCharacter, memberSubtitle,
+    liveSheet, readCharacter, downloadCharacter, memberSubtitle, makeCharacter,
   };
 })();

@@ -440,7 +440,7 @@ window.VttSiteTabs = (function () {
     { id: 'dice', label: 'Dice', render: renderDice },
     { id: 'search', label: 'Search', render: renderSearch, books: true },
   ];
-  // the creator adds its tab when it is loaded (M4)
-  if (window.CnCCreator) tabs.splice(3, 0, { id: 'create', label: 'Make a Character', render: window.CnCCreator.render });
+  // the creator adds its tab when it is loaded; it is not the books' text, so it stays with them off
+  if (window.CnCCreator) tabs.splice(3, 0, { id: 'create', label: 'Make a Character', render: (main, path, ctx) => window.CnCCreator.render(page(main), path, ctx) });
   return tabs;
 })();

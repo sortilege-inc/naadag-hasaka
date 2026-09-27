@@ -233,3 +233,50 @@ dl.glossary { display: grid; grid-template-columns: minmax(8rem, 14rem) minmax(0
 dl.glossary dt { font-family: var(--sans); font-weight: 700; }
 dl.glossary dd { margin: 0; }
 @media (max-width: 640px) { dl.glossary { grid-template-columns: minmax(0, 1fr); } dl.glossary dd { margin-bottom: .5rem; } }
+
+/* ── the creator (system/coyotecrow/creator.js) ───────────────────── */
+.creator { margin: 1rem 0 3rem; }
+ol.steps { display: flex; flex-wrap: wrap; gap: .25rem .4rem; list-style: none; padding: 0; margin: 0 0 .8rem; counter-reset: step; font-family: var(--sans); font-size: .86rem; }
+ol.steps li { counter-increment: step; }
+ol.steps li > * { display: inline-block; padding: .25rem .55rem; border-radius: 999px; border: 1px solid var(--line); background: var(--card); color: var(--ink); text-decoration: none; cursor: pointer; font: inherit; }
+ol.steps li > *::before { content: counter(step) '. '; color: var(--ink-2); }
+ol.steps li.on > * { background: var(--teal); border-color: var(--teal); color: #fff; }
+ol.steps li.on > *::before { color: #dff3ef; }
+ol.steps li.bad > * { border-color: var(--clay); }
+.cr-points { position: sticky; top: 3.6rem; z-index: 5; display: flex; flex-wrap: wrap; gap: .4rem 1.2rem; align-items: center; padding: .5rem .8rem; margin-bottom: .8rem;
+  background: var(--night); color: #e6efe9; border-radius: var(--radius); font-family: var(--sans); font-size: .9rem; }
+.cr-points b { font-size: 1.1rem; color: #fff; }
+.cr-points b.over { color: #ffb08a; }
+.cr-points .btn { margin-left: auto; background: transparent; color: #e6efe9; border-color: #3b5a63; }
+.cr-step h2 { margin-top: .4rem; }
+.cr-book { margin: .4rem 0 1rem; padding: .5rem .8rem; background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--teal); border-radius: var(--radius); }
+.cr-book > summary { cursor: pointer; font-family: var(--sans); font-weight: 600; color: var(--ink-2); }
+.cr-picks { display: grid; grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); gap: .6rem; }
+.cr-pick { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: .5rem .7rem; }
+.cr-pick.on { border-color: var(--teal); box-shadow: inset 0 0 0 1px var(--teal); }
+.cr-pick-head { display: block; width: 100%; text-align: left; background: none; border: 0; padding: 0; cursor: pointer; font: 700 1rem var(--sans); color: var(--ink); }
+.cr-radio { color: var(--teal); }
+.cr-more > summary { cursor: pointer; margin-top: .3rem; }
+.cr-field { display: flex; flex-direction: column; gap: .2rem; margin: .6rem 0; max-width: 42rem; }
+.cr-field .text, .creator textarea.text, .creator input.text { font: inherit; font-size: .95rem; padding: .4rem .6rem; border: 1px solid var(--line); border-radius: var(--radius); background: var(--card); color: var(--ink); width: 100%; }
+.cr-gb { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: .5rem .8rem; margin: .5rem 0; }
+.cr-stepper { display: inline-flex; align-items: center; gap: .3rem; }
+.cr-stepper .num { min-width: 1.5ch; text-align: center; font-family: var(--sans); font-size: 1.1rem; }
+.cr-stat { min-width: 8rem; }
+.cr-stat .stat-v { font-size: 1rem; }
+table.cr-skills td { vertical-align: middle; }
+.cr-probs { margin: .8rem 0; padding-left: 1.2rem; font-family: var(--sans); font-size: .9rem; }
+.cr-probs li.bad { color: var(--clay); }
+.cr-probs li.note { color: var(--ink-2); }
+.cr-nav { margin-top: 1.2rem; }
+.cr-pools { display: flex; gap: .6rem; flex-wrap: wrap; }
+.cr-eq > summary { cursor: pointer; font-family: var(--sans); font-weight: 600; padding: .2rem 0; }
+.sheet.preview { margin-top: 1rem; padding: 1rem; background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); }
+.btn.tiny { min-height: 26px; padding: 2px 8px; font-size: .82rem; }
+.chip { display: inline-flex; align-items: center; gap: 4px; padding: 1px 8px; border: 1px solid var(--line); border-radius: 999px; background: var(--card); font: .8rem var(--sans); margin-left: .3rem; }
+.pools { display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 8px 0; }
+.track { display: inline-flex; align-items: center; gap: 6px; }
+.track-k { font: 700 .74rem var(--sans); text-transform: uppercase; letter-spacing: .08em; color: var(--ink-2); }
+.sheet-cols { display: grid; grid-template-columns: minmax(0, 1fr); gap: 14px; }
+.sheet-name { font: 700 1.45rem var(--sans); }
+@media (max-width: 640px) { .cr-points { top: 3.2rem; } .cr-stat { min-width: 0; } }

@@ -133,11 +133,18 @@
     });
     return sel;
   }
+  let making = false;
   function renderParty(container, ctx) {
     const draw = () => {
       container.innerHTML = '';
       const party = S().party || [];
-      container.appendChild(el('div', { class: 'chiprow' }, [characterLoader('Load character file(s)…', ''), pregenPicker()]));
+      container.appendChild(el('div', { class: 'chiprow' }, [characterLoader('Load character file(s)…', ''), pregenPicker(),
+        button(making ? 'Close the creator' : 'Make a Character…', () => { making = !making; draw(); }, 'ghost')]));
+      if (making) {
+        const box = el('div', { class: 'paper party-maker' });
+        container.appendChild(box);
+        window.CnCCreator.render(box, null, null, { embedded: true, doneLabel: 'Add them to the party', onDone: (m) => { State.commit('addPartyMember', [m]); making = false; Panels.select({ kind: 'party', id: m.id }); draw(); } });
+      }
       if (!party.length) container.appendChild(el('div', { class: 'empty' }, ['No one in the party yet.']));
       party.forEach((m) => container.appendChild(el('div', { class: 'member' }, [
         el('button', { class: 'card', type: 'button', onclick: () => Panels.select({ kind: 'party', id: m.id }) }, [
