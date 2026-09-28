@@ -59,7 +59,7 @@ window.VttConfig = {
     leave: 'Turn back',
   },
   worker: {
-    deployed: '',
+    deployed: 'https://naadag-hasaka.sortilege.workers.dev',
     local: 'http://localhost:8804',
   },
 };

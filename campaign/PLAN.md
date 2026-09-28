@@ -11,7 +11,7 @@ nothing reads another campaign repo.
 
 Status words: **PROPOSED** (awaiting the owner), **(owner)** decided, **landed** built and proven.
 
-- **here** — `sortilege-inc/naadag-hasaka` (**PUBLIC on GitHub, empty; nothing pushed** — P4).
+- **here** — `sortilege-inc/naadag-hasaka` (**PUBLIC; LIVE since 2026-09-28** — P4): https://sortilege-inc.github.io/naadag-hasaka/, Worker https://naadag-hasaka.sortilege.workers.dev.
 - **upstream** — `sortilege-inc/sortilege-vtt-coyotecrow` (private), remote `upstream`.
 
 ## What is on disk (read 2026-09-27, the Notion export 2026-09-28)
@@ -73,9 +73,10 @@ Fall of London, Physician and Banes).** No dice, rules or players' names; the tr
 source; nothing is written that the recordings do not show. Unrecorded events (the private meeting that
 set the task) get one line. What was table illustration rather than event is left out.
 
-**P4 — Local only (autonomous, publication).** Nothing is pushed: the GitHub repo is public, and the
-first push publishes upstream's `data/` (the Coyote & Crow book text). Pages and the Worker deploy wait for
-the owner.
+**P4 — (owner, 2026-09-28: "push and deploy") public and live.** `main` pushed to the public repo (this
+publishes upstream's `data/`, the book text, and `campaign/pack/seed.json`, the Story Guide's notes, as
+Banes of Beleriand does); Pages from `main`; the Worker `naadag-hasaka`. Redeploy the Worker
+(`cd worker && npx wrangler deploy`) after any upstream change to `engine/ops.js` or the system's `ops.js`.
 
 ## Milestones
 
@@ -85,7 +86,7 @@ the owner.
 | **M2** | The public pages — `campaign/docs/` → `campaign/build/build_docs.py` → `campaign/data/docs.js`; `campaign/site/site.js`, `campaign.css` | landed 2026-09-27: home, 3 chapters, 6 travellers, 6 people, 5,882 words. Gates: names, private, links, words both ways. **Each proven by a planted fault**: *Enosh* for Ninosh → `names neither the saga nor the books use — ['Enosh']`; "oracle" on Makatooka's page → `tells what is kept in the Story Guide's notes`; a converter that drops emphasis → `words differ … ['crow', 'hasaka', 'mesa']`; Choyan in chapter 4 → `chapter 4 does not exist`. Browser on 8754: tabs *Naadag Hasaka · The Chronicle · The Travellers · Dramatis Personae* ahead of the VTT's (books off); Sign's page with *Path of the Beaver* linking to the book's entry, which opens with the books closed; chapter pages with contents and turn links; the mesa/indigo tokens loaded after the system's; at 375 px no sideways scroll (scrollWidth 375 on a chapter and the party list). Only console error: Google Fonts blocked by the browser pane (upstream's font link) |
 | **M3** | The Story Guide's material — `campaign/source/gm.md` + `prep-note.txt` → `campaign/build/build_seed.py` → `campaign/pack/seed.json` (`defaultCampaign.seed`) | landed 2026-09-27: overview 5, rulings 4, people 9, notes on the characters 6, places 4, threads 12, scenes 8 (6 played, 2 prepped), party 5; 3,174 words, every one in the pack. Gates: unique ids, every `about` a party member, the source's words re-read against the pack. **Proven by planted faults**: a parser that drops subsections → words differ; `about: Tikka` → not in the party; and the real clash it caught on first run (members and notes both `nh-pc-*`). Browser: after the gate, `seeded` 80 ids; nav *Inspector Party · Scenes Threads · Overview People Places · Icons Rules & Book Dice Log · Saga Settings* (no Adventure); Scenes grouped *Session 1–3, Next*; Party lists Suva … Tika with Archetype · Path · Motivation, Body/Mind/Soul "—"; Suva's sheet opens in the Inspector |
 | **M4** | The Notion export and the characters' numbers — `campaign/source/import_notion.py` → `campaign/source/notion/` (9 pages, word for word, players' names removed); the four sheets typed into `campaign/source/sheets.json`, checked by `check_sheets.py`; the saga rebuilt on Notion's names and facts | landed 2026-09-28. **Import**: *9 pages; every word kept but the players' names*; the names are read from the export at run time and never written in the repo (`grep -riw` for each over `campaign/`, `engine/config.js`, `README.md` → 0); **proven by planting a fault** (redaction off → *a player's name survives*). **Sheets**: *check_sheets: OK — 136 checks over 4 sheets* (every Skill's Stat is the higher/lower of its two Related Stats from the corpus, Total = Rank + Stat, `*` Skills 0 at Rank 0, Gift/Burden kinds the book's); **proven by five planted faults** → 7 failures, exit 1. **Browser**, fresh storage, after the gate: 143 ids seeded, six travellers (four with pools: Soova 7/8/12, Daatsu 10/10/7, Tika 7/12/10, Wazawi 9/8/9); the VTT's own sheet computes **every one of 120 printed Totals** (Soova 29, Daatsu 28, Tika 35, Wazawi 28 rows) and does not show *The Long Con*; 0 console errors. Public: Syn's page in they/them; Dramatis Personae 8 |
-| M5 | Deploy — push, Pages, the Worker `naadag-hasaka` | **waits on the owner** (P4) |
+| **M5** | Deploy — push, Pages, the Worker `naadag-hasaka` | **owner, 2026-09-28: "push and deploy"**. `main` pushed; Pages on from `main` (`.nojekyll` in place, HTTPS enforced) → https://sortilege-inc.github.io/naadag-hasaka/; Worker `naadag-hasaka` (version 8e8fabbf) → https://naadag-hasaka.sortilege.workers.dev, `ALLOWED_ORIGIN` the github.io origin: `GET /session/ABCD` from it → 200 `{"exists":false}`, from a foreign origin → 403 `origin not allowed`; `engine/config.js` names it |
 
 ## Decision log
 
