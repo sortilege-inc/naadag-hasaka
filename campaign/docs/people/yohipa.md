@@ -1,6 +1,6 @@
 ---
 name: Yohipa
-order: 4
+order: 7
 role: Tika's sister
 chapters: [3]
 ---

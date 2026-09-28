@@ -8,7 +8,7 @@ keys fill the GM tabs once (VttConfig.defaultCampaign.seed → engine/state.js s
   gm.overview · gm.rules · gm.people · gm.pc · gm.places   sections { id, title, text, sections, about }
   threads                                                   { id, title, text, open, sections }
   arc                                                       scenes { id, title, session, played, text, beats }
-  party                                                     the five characters on ACTOR "Character"
+  party                                                     the six travellers on ACTOR "Character" (four from their sheets)
 
 Gated, exit non-zero on any failure: every entry has a stable id and ids are unique; every word of
 gm.md's body and of the prep note reaches the pack as often as it is written (an independent re-read
@@ -103,9 +103,54 @@ def section(e, pid):
     return s
 
 
+SHEETS = os.path.join(ROOT, 'campaign', 'source', 'sheets.json')
+STAT_NAMES = ['Strength', 'Agility', 'Endurance', 'Intelligence', 'Perception', 'Wisdom', 'Spirit', 'Charisma', 'Will']
+
+
+# What a sheet prints that its player asked to keep from the table (Soova's page in Notion: "I wasn't
+# sure how to make parts hidden"). The Party pane is shared with the session, so these stay in the
+# Story Guide's note on the character (gm.md) and off the shared sheet.
+HIDDEN = {'Soova': {'specialized': {'The Long Con'}, 'held': {'Secrets'}}}
+
+
+def character_from_sheet(sh):
+    """a transcribed sheet (campaign/source/sheets.json, checked by check_sheets.py) as the fields of
+    ACTOR "Character": what the sheet prints, nothing added; an unranked Skill is left out, as the
+    book's own Characters leave it out"""
+    ch = {'Name': sh['name']}
+    for k in ('Age', 'Archetype', 'Path', 'Motivation', 'Other Identifiers', 'Background', 'Initiative'):
+        if sh.get(k):
+            ch[k] = sh[k]
+    line = {k: str(sh['stats'][k]) for k in STAT_NAMES}
+    line.update({k: v for k, v in sh['derived'].items() if v})
+    ch['Stat Line'] = line
+    hide = HIDDEN.get(sh['name'], {})
+    spec = {r['base']: r for r in sh['specialized'] if r['name'] not in hide.get('specialized', ())}
+    rows, used = [], set()
+    for r in sh['skills']:
+        if r['rank'] <= 0 and r['skill'] not in spec:
+            continue
+        row = {'Skill': r['skill'], 'Rank': r['rank']}
+        if r['skill'] in spec:
+            row['Specialization'] = spec[r['skill']]['name']
+            row['Specialization Rank'] = spec[r['skill']]['rank']
+            used.add(r['skill'])
+        rows.append(row)
+    if set(spec) - used:  # noqa: a hidden one is not in spec
+        die('%s: a Specialized Skill on a base Skill the sheet does not list: %s' % (sh['name'], set(spec) - used))
+    ch['Skills'] = rows
+    if sh['Abilities']:
+        ch['Abilities'] = list(sh['Abilities'])
+    ch['Gifts and Burdens'] = [dict(h) for h in sh['held'] if h['Kind'] not in hide.get('held', ())]
+    if not hide:
+        ch['Notes'] = 'Gifts and Burdens as the sheet prints them: ' + ' / '.join(sh['Gifts and Burdens (printed)'])
+    return ch
+
+
 def party():
-    """the five characters as members on ACTOR "Character": the fields their pages state, nothing else
-    (no Stat Line: the recordings do not give one — campaign/PLAN.md)"""
+    """the travellers as members on ACTOR "Character": the four with a sheet in the Notion export from
+    their transcriptions; Syn and Migatuka, who have none, from the fields their pages state"""
+    sheets = {sh['name']: sh for sh in json.load(open(SHEETS, encoding='utf-8'))['sheets']}
     fields = {'name': 'Name', 'age': 'Age', 'archetype': 'Archetype', 'path': 'Path', 'motivation': 'Motivation', 'nation': 'Nation'}
     out = []
     for f in sorted(os.listdir(DOCS)):
@@ -114,13 +159,64 @@ def party():
         for line in re.match(r'^---\n(.*?)\n---', text, re.S).group(1).splitlines():
             k, _, v = line.partition(':')
             meta[k.strip()] = v.strip()
-        if meta.get('companion'):
-            continue   # Wasawi is Suva's companion, not a seat at the table
-        ch = {fields[k]: (meta[k]) for k in fields if meta.get(k)}
-        slug = f[:-3]
-        out.append((int(meta.get('order', 99)), {'id': 'nh-member-' + slug, 'templateId': ACTOR_ID, 'name': ch['Name'],
-                    'source': {'kind': 'saga', 'id': 'campaign/docs/party/' + f}, 'character': ch, 'live': {}, 'notes': ''}))
+        name = meta['name']
+        if name in sheets:
+            ch = character_from_sheet(sheets.pop(name))
+            src = {'kind': 'saga', 'id': 'campaign/source/sheets.json#' + name}
+            sl = ch['Stat Line']
+            live = {k: int(sl[lbl]) for k, lbl in (('body', 'Body'), ('mind', 'Mind'), ('soul', 'Soul')) if str(sl.get(lbl, '')).isdigit()}
+        else:
+            ch = {fields[k]: meta[k] for k in fields if meta.get(k)}
+            src, live = {'kind': 'saga', 'id': 'campaign/docs/party/' + f}, {}
+        out.append((int(meta.get('order', 99)), {'id': 'nh-member-' + f[:-3], 'templateId': ACTOR_ID, 'name': name,
+                    'source': src, 'character': ch, 'live': live, 'notes': ''}))
+    if sheets:
+        die('sheets with no party page: %s' % list(sheets))
     return [m for _, m in sorted(out, key=lambda x: x[0])]
+
+
+# The Notion pages (campaign/source/notion/, import_notion.py), word for word: where each goes.
+NOTION_DIR = os.path.join(ROOT, 'campaign', 'source', 'notion')
+NOTION = [
+    ('naadag-hasaka', 'overview', 'The Notion page, word for word', None),
+    ('soova', 'pc', 'Soova — her Notion page, word for word', 'Soova'),
+    ('syn', 'pc', 'Syn — their Notion page, word for word', 'Syn'),
+    ('daatsu', 'pc', 'Daatsu — his Notion page, word for word', 'Daatsu'),
+    ('migatuka', 'pc', 'Migatuka — her Notion page, word for word', 'Migatuka'),
+    ('tika', 'pc', 'Tika — his Notion page, word for word', 'Tika'),
+    ('makokamit', 'places', 'The Makokamit — the Notion page, word for word', None),
+    ('gambling-with-naasi', 'rules', 'Gambling with Naasi — the Notion page, word for word', None),
+    ('rules-reference', 'rules', 'Rules Reference — the Notion page, word for word', None),
+]
+
+
+def notion_sections():
+    """each page as a section; a page with `## ` headings is split at them into subsections"""
+    out = []
+    for slug, pane, title, about in NOTION:
+        text = open(os.path.join(NOTION_DIR, slug + '.md'), encoding='utf-8').read()
+        parts = re.split(r'^## (.+)$', text, flags=re.M)
+        s = {'id': 'nh-notion-' + slug, 'title': title, 'text': unwrap_notion(parts[0])}
+        subs = [{'id': 'nh-notion-%s-%d' % (slug, i // 2 + 1), 'title': parts[i].strip(), 'text': unwrap_notion(parts[i + 1])}
+                for i in range(1, len(parts), 2)]
+        if subs:
+            s['sections'] = subs
+        if about:
+            s['about'] = [about]
+        out.append((pane, s))
+    return out
+
+
+def unwrap_notion(t):
+    """one Notion block per line already: keep lines, separate the non-list ones as paragraphs"""
+    lines = [l.rstrip() for l in t.strip().splitlines() if l.strip()]
+    out = []
+    for l in lines:
+        if out and out[-1].startswith('- ') and l.startswith('- '):
+            out[-1] += '\n' + l
+        else:
+            out.append(l)
+    return '\n\n'.join(out)
 
 
 WORD = re.compile(r"[A-Za-zÀ-ÿ0-9’'][\w’'-]*")
@@ -148,6 +244,8 @@ def main():
         s['played'] = e['meta'].get('played') == 'true'
         s['beats'] = [dict(x, kind='note') for x in s.pop('sections', [])]
         arc.append(s)
+    for pane, sec in notion_sections():
+        gm[pane].append(sec)
     members = party()
     pack = {'kind': 'sortilege-vtt-campaign', 'version': 1, 'gm': gm, 'threads': threads, 'arc': arc, 'party': members}
 
@@ -166,7 +264,7 @@ def main():
     dup = [i for i, n in Counter(ids).items() if n > 1]
     if dup:
         die('ids used twice: %s' % dup)
-    names = {m['name'] for m in members} | {'Wasawi'}
+    names = {m['name'] for m in members}
     for s in gm['pc'] + gm['people']:
         for a in s.get('about', []):
             if a not in names:
@@ -190,6 +288,9 @@ def main():
             text_of(s)
     for s in threads + arc:
         text_of(s)
+    for slug, *_ in NOTION:
+        src += '\n' + open(os.path.join(NOTION_DIR, slug + '.md'), encoding='utf-8').read().replace('## ', '')
+        src += '\n' + [t for sl, _, t, _ in NOTION if sl == slug][0]
     a, b = words(src), words('\n'.join(got))
     if a != b:
         diff = {w: (a[w], b[w]) for w in set(a) | set(b) if a[w] != b[w]}

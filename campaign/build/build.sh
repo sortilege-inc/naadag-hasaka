@@ -3,6 +3,7 @@
 # upstream's, built by build/build.sh; run that first after pulling a corpus change.
 set -euo pipefail
 cd "$(dirname "$0")/../.."
+python3 campaign/source/check_sheets.py
 python3 campaign/build/build_docs.py
 python3 campaign/build/build_seed.py
 node --check campaign/data/docs.js

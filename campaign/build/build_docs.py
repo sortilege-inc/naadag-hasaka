@@ -9,7 +9,7 @@ failure exits non-zero without writing:
              declares (SAGA_NAMES: its people, from the recordings) or a word the corpus prints
              (data/*.js, the Coyote & Crow books). A misheard or invented name fails the build.
   private  — the public pages must not tell what belongs to the Story Guide's notes only (PRIVATE:
-             Makatooka's lost child and her vision, the prep note's plans). See campaign/PLAN.md.
+             Migatuka's lost child and her vision, the prep note's plans). See campaign/PLAN.md.
   links    — a person's `chapters` name chapters that exist; every party/people file has a name.
   words    — each page's words reach the output as often as they are written (the converter drops
              nothing but markup).
@@ -27,18 +27,19 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 DOCS = os.path.join(ROOT, 'campaign', 'docs')
 OUT = os.path.join(ROOT, 'campaign', 'data', 'docs.js')
 
-# The saga's own people and things, spelled as campaign/PLAN.md records (the recordings were
-# auto-transcribed; the spellings still to confirm are listed there and in the GM's Overview).
+# The saga's own people and things, spelled as the owner's Notion export spells them (campaign/PLAN.md P1).
 SAGA_NAMES = {
-    'Naadag', 'Grandmother', 'Suva', 'Sign', 'Datsu', 'Makatooka', 'Wasawi', 'Zibizin', 'Ninosh',
-    'Choyan', 'Tika', 'Yohipa', 'Wings', 'Seeing', 'Papa',
+    'Naadag', 'Grandmother', 'Soova', 'Syn', 'Daatsu', 'Migatuka', 'Wazawi', 'Zibizin', 'Ninosh',
+    'Choyan', 'Tika', 'Yohipa', 'Winks', 'Seeing', 'Papa', 'Hoyohih', 'Loohok', 'Kii', 'Das',
+    'Misyooyi', 'Minak',
 }
 # Words the chronicle capitalises that are ordinary English at a sentence's middle.
 ENGLISH_OK = {'I', "I'm", "I've", "I'd", "I'll", 'Hey', 'Oh', 'Excellent', 'Welcome', 'Thank', 'Well',
               'Right', 'Would', 'You', 'Come', 'The', 'U'}
 # What the public pages must not tell (campaign/PLAN.md, decision P2): stems, case-insensitive.
 PRIVATE = [r'miscarr', r'\bbaby\b(?! girl)', r'\bunborn', r'\boracle', r'\bpregnan', r'\bstowaway',
-           r'crime famil', r'\bwithdrawal']
+           r'crime famil', r'crime lord', r'\bwithdrawal', r'long con', r'espionage', r'Hiihangaziwag',
+           r'secretly Din', r'\bbetray', r'\bspy\b', r'great-aunt']
 
 
 def die(msg):

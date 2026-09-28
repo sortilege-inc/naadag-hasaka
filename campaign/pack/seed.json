@@ -6,12 +6,17 @@
    {
     "id": "nh-premise",
     "title": "The saga",
-    "text": "Grandmother Naadag, an elder of the Diné Republic who had lived most of her life in Cahokia, chose the day of her own death and held a Seeing for it. The characters came to it by different roads. At its end she asked them, in a private meeting that was not recorded, to carry a box back to the Diné Republic. They leave Cahokia on the morning of the eleventh day with Sign asleep and shaking, and with no way to wake her. [SET]\n\nThe trip is about a week and a half with stops. It is not a busy route, nothing about the delivery is urgent, and they are not trying to rush it. [SET — the prep note] They navigate by a song map. [SET — session 3 recap]\n\n*Naadag Hasaka* is Chahi for *Crow Mesa*: *Naadag*, crow; *Hasaka*, mesa. [SOURCE — the book's glossary]"
+    "text": "Grandmother Naadag, an elder of the Diné Republic who had lived most of her life in Cahokia, chose the day of her own death and held a Seeing for it. The characters came to it by different roads. At its end she asked them, in a private meeting that was not recorded, to carry a box to Oraibi, in the Diné Republic. They leave Cahokia on the morning of the eleventh day with Syn asleep and shaking, and with no way to wake them. [SET]\n\nThe trip is a week, a week and a half with stops. Nothing about the delivery is urgent, and they are not trying to rush it. [SET — Notion] They navigate by a song map. [SET — session 1/C's recap] Daatsu navigates; Tika is hired as an escort and works with him. [SET — Notion]\n\n*Naadag Hasaka* is Chahi for *Crow Mesa*: *Naadag*, crow; *Hasaka*, mesa. [SOURCE — the book's glossary]"
+   },
+   {
+    "id": "nh-sessions",
+    "title": "The sessions",
+    "text": "A home game, begun 3 March 2023. [SET — Notion, the RPG Playlog]\n\n- Session Zero — 3 March 2023\n- 1/A Good Death — 10 March 2023 (recorded: chapter 1)\n- 1/B Good Death — 7 April 2023 (recorded: chapter 2; the recording stops before the private meeting)\n- 1/C Good Death — 5 May 2023 (recorded: chapter 3)\n- 2/A Stabbing Westward — 19 May 2023 (not recorded)\n- 2/B Nakatoo Boys — 16 June 2023 (not recorded; the playlog also lists a \"2/B Stabbing Westward\" with no date)\n- 2/C Coyote & Crow [interrupted] — 30 June 2023 (not recorded)\n\nWhat happened in 2/A–2/C is not in any source on disk. [OPEN]"
    },
    {
     "id": "nh-seeing",
     "title": "The Seeing",
-    "text": "The Story Guide's invention for this saga [YOURS]. A Seeing is for a respected elder choosing their own death, and runs ten days:\n\n- Days 1–2: arrivals, informal greetings, food, games. Nobody has to be there at the start.\n- Days 3–4: the long tables — speeches, stories, the gift-giving and the feast (day 3); the life told by several storytellers, then speeches by leaders and elders (day 4).\n- Days 5–6: the elder withdraws with one or two attendants to prepare; the guests are quieter, reflect, rest. The kitchens close.\n- Day 7: the death at dawn, privately. The attendants take a blocker against the compound burned in the room; it stops the elder's body.\n- Days 8–9: the body is viewed, then buried or cremated; mourning.\n- Day 10: farewells and dispersal. Anyone not gone by the end of it is expected to be.\n\nAbout two hundred people came to Grandmother's, counting children. Not everyone is given a Seeing; her husband's death, about fifteen years earlier, was quiet."
+    "text": "The Story Guide's invention for this saga [YOURS]. A Seeing is for a respected elder choosing their own death, and runs ten days:\n\n- Days 1–2: arrivals, informal greetings, food, games. Nobody has to be there at the start.\n- Days 3–4: the long tables — speeches, stories, the gift-giving and the feast (day 3); the life told by several storytellers, then speeches by leaders and elders (day 4).\n- Days 5–6: the elder withdraws with one or two attendants to prepare; the guests are quieter, reflect, rest. The kitchens close.\n- Day 7: the death at dawn, privately. The attendants take a blocker against the compound burned in the room; it stops the elder's body.\n- Days 8–9: the body is viewed, then buried or cremated; mourning.\n- Day 10: farewells and dispersal. Anyone not gone by the end of it is expected to be.\n\nAbout two hundred people came to Grandmother's, counting children. Not everyone is given a Seeing; her husband Misyooyi's death, in 689, was quiet."
    },
    {
     "id": "nh-world",
@@ -21,22 +26,22 @@
      {
       "id": "nh-world-1",
       "title": "The Black",
-      "text": "Everyone experiences the Black in their own way, and the same person may see it differently at different times. [SET] Sign: a translucent overlay on the world that darkens the deeper she goes, until she loses where she is and stops hearing speech. Suva: a spirit body that moves while her senses are set aside, hazy until she focuses on a place. Makatooka: vivid, dreamlike, first person, and she reads it as her own subconscious rather than anything outside her."
+      "text": "Everyone experiences the Black in their own way, and the same person may see it differently at different times. [SET] Syn: a translucent overlay on the world that darkens the deeper they go, until they lose where they are and stop hearing speech. Soova: a spirit body that moves while her senses are set aside, hazy until she focuses on a place. Migatuka: vivid, dreamlike, first person, and she reads it as her own subconscious rather than anything outside her. The Black is a rhizome: everything touches everything in another dimension, which is how some spooky action at a distance works. [SET — Notion]"
      },
      {
       "id": "nh-world-2",
       "title": "The wild corridor",
-      "text": "A broad north–south stretch of the continent, west of Cahokia, is kept wild by general agreement as a migration path; people go into it only when there is a need. Datsu's people herd near it. Not in the book. [YOURS]"
+      "text": "A broad north–south stripe of unoccupied territory, kept for animal migration, just before the Diné Republic; people go into it only when there is a need. Not in the book. What it is called is a Notion GM question. [YOURS] [OPEN]"
      },
      {
       "id": "nh-world-3",
       "title": "Getting around, keeping in touch",
-      "text": "Few wheeled vehicles; most things float or hover, and there are paths more than roads. Networks are regional and each state runs its own; out in the Free Lands, communities have their own or chain from place to place, and there are long stretches with no signal. Most people wear a small device on the arm that texts and reaches the local network. A Diné device needs reworking to talk to Cahokia's. You always stop for someone on foot. [SET]"
+      "text": "Few wheeled vehicles; most things float or hover (yutsu barges), and there are paths more than roads. The daso is regional: Cahokia has its own, which interconnects with others in the Free Lands; the Diné Republic's is separate. There may be no wireless version — something more like sneakernet or carrier pigeon. A niisi on the wrist texts and reaches the local daso; a Diné niisi needs reworking to talk to Cahokia's. You always stop for someone on foot. [SET — sessions; Notion]"
      },
      {
       "id": "nh-world-4",
-      "title": "Drink, and kalera root",
-      "text": "There is no alcohol culture. The everyday drinks are brewed from herbs and fungus, microdoses that even children take, like weak beer once was; stronger brews and distillations go up to \"don't operate heavy machinery\". [SET] Kalera root is the base of many of them: it raises blood flow, dulls pain, and is mildly hallucinogenic. Kalera root that the Adanadi has marked is the nearest thing to a controlled substance: it cannot be grown reliably (growers make the conditions and hope; there is research into it), and for someone who already carries the Adanadi it has a resonance that heightens what they feel. Makatooka will not have regular access to it. [SET] Substances are not banned as such; someone who is a danger to themselves or others through use can be made to accept support. [SET] Spelling of *kalera* not confirmed. [OPEN]"
+      "title": "Drink, and kelera root",
+      "text": "There is no alcohol culture. The everyday drinks are brewed from herbs and fungus, microdoses that even children take, like weak beer once was; stronger brews and distillations go up to \"don't operate heavy machinery\". [SET] Kelera root is the base of many of them: it raises blood flow, dulls pain, and is mildly hallucinogenic. Kelera-adanadi, the root the Adanadi has marked, is the nearest thing to a controlled substance: it cannot be grown reliably (growers make the conditions and hope; there is research into it), and for someone who already carries the Adanadi it has a resonance that heightens what they feel. Migatuka will not have regular access to it. [SET] Substances are not banned as such; someone who is a danger to themselves or others through use can be made to accept support. [SET]"
      },
      {
       "id": "nh-world-5",
@@ -45,175 +50,386 @@
      },
      {
       "id": "nh-world-6",
-      "title": "The year",
-      "text": "Zibizin went missing in 703, \"seven years ago\", so the Seeing is in 710. [SET — session 1] Wasawi was fourteen in session 1 and sixteen from session 2 on; the table settled on sixteen. [SET]"
+      "title": "The year and the war",
+      "text": "710 is the present. The All Tribes War ran 612–623. If Grandmother was 121, she was born in 589 and was 23 when the war began. The Diné Republic (Dinada) has a National Council, kivas and clans. [SET — Notion]"
      }
     ]
    },
    {
-    "id": "nh-prep-note",
-    "title": "The prep note (recorded)",
-    "text": "The Story Guide's spoken prep note for the next session, auto-transcribed and kept word for word in `campaign/source/prep-note.txt`. What it plans is in Scenes (*Next*) and Threads. [SOURCE]\n\n> Grandmother and a dog is dead. The rest of them pack up, they get ready to head out. Sign has been. Stable. But, You won't wake up. She's going on something of a journey. Suva knows enough, not to wake her. Suvo is pretty upset with wazowi. But this is their secret. How is suva found out? What is it that they want? Sine has been connected within a crime families. Suva is connected within a crime families. And grandmother and a dog. Is from the delay republic. Grandmother nadog has been protecting suva. Unpronounced to her. That protection has faltered. Here's what's going to happen. They're going to get about two days up. It's probably gonna take. Week week and a half with stops. To get into the delay republic. It's not exactly a Heavily traversed transit thing. There's nothing that's urgently needed from that. Correction. Um, and they're not also They're not trying to rush it. Forget about two days and they'll find a stove. The stove is. A five-year-old. Just gives them a chance. Do they go back or not? Do they try to pass the kit off somehow? Make a tuka. Has a bad trip. Pouring water on her miscarried baby. What does that mean? Or miscarried baby is going to be an oracle to her. She's going to have to use deception. To avoid the others figuring out what that's all about. Take us on board with us. Young. Hungry. Kind of nine years. Looking for a get rich quick scheme and they're really isn't on out here. Will definitely be sympathetic. Crime, family stuff. Maybe chica has been given a side job. Make sure that suva speaks with her cousin. Coyote city. How soon until later, tooka hits withdrawal. We're just song map. Take them."
+    "id": "nh-names",
+    "title": "Names",
+    "text": "Spelled as the Notion export spells them. [SET — Notion] The recordings, auto-transcribed, spell them other ways; the variants, for searching the transcripts:\n\n- Soova (Suva, Silva, Soda, Siva, Suvo, Sylva)\n- Syn (Sign, Sine)\n- Daatsu (Datsu, Dotsu, Tatsu, Natsu)\n- Migatuka (Makatooka, Megatooka, Makeatooka, Nigatuka, Takeatoka; \"Tuka\")\n- Wazawi (Wasawi, Wazowi, Wasawhi, Lazawi)\n- Zibizin (\"Zip is in\", \"Zipism\")\n- Winks (Wings), Migatuka's cat\n- Kelera root (kalera, kerela, Calera, cholera, Clara)\n- Ninosh (Enosh) — not in Notion; the recordings only."
    },
    {
-    "id": "nh-names",
-    "title": "Names still to confirm",
-    "text": "The recordings were auto-transcribed and spell names several ways; these are the spellings used here. [OPEN]\n\n- Suva (Silva, Soda, Siva, Suvo, Sylva)\n- Sign (Sine)\n- Datsu (Dotsu, Tatsu, Natsu)\n- Makatooka (Megatooka, Makeatooka, Nigatuka, Takeatoka; \"Tuka\")\n- Wasawi (Wazowi, Wasawhi, Lazawi; once spelled W-A-D-A-W-I)\n- Zibizin (\"Zip is in\", \"Zipism\"; spelled B-I-Z-I-N at the table)\n- Ninosh (Enosh)\n- Kalera root (Calera, cholera, Clara)\n- Tika, Yohipa and Choyan were spelled out at the table."
+    "id": "nh-prep-note",
+    "title": "The prep note (recorded)",
+    "text": "The Story Guide's spoken prep note for 2/A, auto-transcribed and kept word for word in `campaign/source/prep-note.txt`. Its \"Suva\", \"Sine\", \"wazowi\", \"Chica\" and \"tooka\" are Soova, Syn, Wazawi, Tika and Migatuka. What it plans is in Scenes (2/A) and Threads. [SOURCE]\n\n> Grandmother and a dog is dead. The rest of them pack up, they get ready to head out. Sign has been. Stable. But, You won't wake up. She's going on something of a journey. Suva knows enough, not to wake her. Suvo is pretty upset with wazowi. But this is their secret. How is suva found out? What is it that they want? Sine has been connected within a crime families. Suva is connected within a crime families. And grandmother and a dog. Is from the delay republic. Grandmother nadog has been protecting suva. Unpronounced to her. That protection has faltered. Here's what's going to happen. They're going to get about two days up. It's probably gonna take. Week week and a half with stops. To get into the delay republic. It's not exactly a Heavily traversed transit thing. There's nothing that's urgently needed from that. Correction. Um, and they're not also They're not trying to rush it. Forget about two days and they'll find a stove. The stove is. A five-year-old. Just gives them a chance. Do they go back or not? Do they try to pass the kit off somehow? Make a tuka. Has a bad trip. Pouring water on her miscarried baby. What does that mean? Or miscarried baby is going to be an oracle to her. She's going to have to use deception. To avoid the others figuring out what that's all about. Take us on board with us. Young. Hungry. Kind of nine years. Looking for a get rich quick scheme and they're really isn't on out here. Will definitely be sympathetic. Crime, family stuff. Maybe chica has been given a side job. Make sure that suva speaks with her cousin. Coyote city. How soon until later, tooka hits withdrawal. We're just song map. Take them."
+   },
+   {
+    "id": "nh-notion-naadag-hasaka",
+    "title": "The Notion page, word for word",
+    "text": "[image: the saga’s icon]",
+    "sections": [
+     {
+      "id": "nh-notion-naadag-hasaka-1",
+      "title": "Naadag Hasaka",
+      "text": "System/Setting | Coyote & Crow\n\nOrganization/Venue/Event | Home Game\n\nPlayers |\n\nStart Date | 03/04/2023\n\nSessions |\n\n[image: a session icon]\n\nCoyote & Crow: Session Zero,\n\n[image: a session icon]\n\n1/A Good Death,\n\n[image: a session icon]\n\n1/B Good Death,\n\n[image: a session icon]\n\n1/C Good Death, 2/A Stabbing Westward, 2/B Stabbing Westward, 2/B Nakatoo Boys, 2/C Coyote & Crow [interrupted]"
+     },
+     {
+      "id": "nh-notion-naadag-hasaka-2",
+      "title": "Player Characters",
+      "text": "Soova (secretly? Diné) - Path of the Snake, Healer, 62\n\n- Husband is Hoyohih, takes care of Loohok (10yo)\n- Speaks Chahi, Diné\n- Motivated by family\n- Face was scarred by father ‘for the debt to family’\n- Walk the Black\n- [ ] Did Soova ever reveal to Grandmother Naadag her intended betrayal?\n\nWazawi - Scout, Path of the Fox, 16yo, motived by curiosity and tech.\n\nDaatsu (Makokamit) - Path of the Raccoon, Scout, 32\n\nMahokamit\n\n- Knows Chachi, Plains sign, Makokamit\n- River’s Flow\n\nSyn (Diné) - Path of the Beaver, Seeker, 42\n\n- Keepers of the Ancient Ones (Acolyte)\n- Quiet Mind\n- Spirit World Connection\n- Tahood\n\nMigatuka (Minak - Cahokia)\n\n- Migatuka has a hairless cat named Winks\n- Addicted to kerela root/kelera adanadi\n- Suffered a miscarriage\n- Devastated by Zibizin’s disappearance\n- Worked in trauma care\n\nTika (Unlad)\n\n- Tika: 19, gangly, frail. Cybernetic eye. Small drone that follows.\n- Sister running a restaurant.\n- Gambling addict. Obsessed with games. Lost a lot of money (30k ish?)\n- “Martial artist”; have the knowledge but not great strength.\n- Cooking, cybernetics with adanadi."
+     },
+     {
+      "id": "nh-notion-naadag-hasaka-3",
+      "title": "Unlad",
+      "text": "At the bottom are the Unlad, primarily migratory descendants of Cree and Anishinabe peoples who have taken on roles as international traders and domestic workers without fully integrating into the rest of the Nation."
+     },
+     {
+      "id": "nh-notion-naadag-hasaka-4",
+      "title": "RPG Playlog",
+      "text": "Name | Date\n\n2/C Coyote & Crow [interrupted] | June 30, 2023\n\n2/B Nakatoo Boys | June 16, 2023\n\n2/A Stabbing Westward | May 19, 2023\n\n[image: a session icon]\n\n1/C Good Death | May 5, 2023\n\n[image: a session icon]\n\n1/B Good Death | April 7, 2023\n\n[image: a session icon]\n\n1/A Good Death | March 10, 2023\n\n[image: a session icon]\n\nCoyote & Crow: Session Zero | March 3, 2023\n\n2/B Stabbing Westward |"
+     },
+     {
+      "id": "nh-notion-naadag-hasaka-5",
+      "title": "Todo",
+      "text": "- [ ] Tika is paid 1/3 up front\n- [ ] Put together simple glossary\n- [ ] Purchase packages\n- [ ] Figure out timelines\n- [ ] Check in with Syn re: Suyata armor and kit; they would not have these.\n- [ ] Finish up Migatuka’s character sheet\n- [ ] Confirm how much kelera root Migatuka has\n- [ ] The villains who get away, are the main villains\n\nTravel time: week, week and a half with stops to get to the Dine republic.\n\nNot trying to rush it.\n\nFind a stowaway a couple days in. A seven-year-old. Mute. Autistic.\n\nMigatuka’s miscarried baby is going to be an oracle to her.\n\nHow soon until Migatuka hits withdrawal?\n\n[image: a page of the book (Animals of Cahokia)]\n\n[image: a page of the book (People of Cahokia)]"
+     },
+     {
+      "id": "nh-notion-naadag-hasaka-6",
+      "title": "GM Questions",
+      "text": "- [ ] What languages do everyone speak, besides Chahi?\n- [ ] What did Grandmother Naadag ask them to bring to Oraibi? Why?\n- [ ] What do we call the A large stripe of unoccupied territory for animal migration, north-south, just before the Dine Republic.\n- [ ] Why did Tika’s parents choose not to assimilate?\n- [ ] What happened to Zibizin?\n- ↳ What if they are a spy, deep undercover in Dinada?\n- ↳ Or taken in lieu of Soova?\n- ↳ Could they have been taken by the Suyata?\n- [ ] Does Soova learn that Grandmother Naadag was in fact related to her (great-aunt)?\n- [ ] How does Wazawi feel about her missing parent? Her dead mother?\n- [ ] Why is sending Soova intended to be a pardon?\n- [ ] Flesh out the criminal families\n- [ ] What did Soova do as a youth that required her family’s protection?\n- [ ]"
+     },
+     {
+      "id": "nh-notion-naadag-hasaka-7",
+      "title": "Keep in Mind",
+      "text": "Gambling with Naasi\n\n- Migatuka’s blanket, transitioned from falcon to fox\n- Soova is distrusting of Tika with Wazawi\n- Wazawi is 16, not 14\n- Grandmother Naadag related to the Ancients in Oraiba\n- Soova’s family supposedly died in a fire; this isn’t true.\n- Gats and woyi (blueprints)\n\n-"
+     },
+     {
+      "id": "nh-notion-naadag-hasaka-8",
+      "title": "GM Setting/Lore",
+      "text": "[image: a d12]\n\nRules Reference\n\n- Yutsu barges\n- Kelera root\n- Kelera-adanadi\n- Grandmother Naadag\n- ↳ If she’s 121, born in 589, she would be 23 at the start of war. National Council, Kivas, clans in Dine Republic (Dinada)\n- ↳ 710 = present\n- ↳ 612-623: All tribes war (98 years ago start of war; 87 years ago end of war)\n- Coyote Crime Lords in Coyote City; seven clans\n- ↳ Soova’s connected\n- ↳ Syn is connected\n- ↳ Grandmother Naadag is connected\n- The Black is a rhizome, everything touches everything in another dimension. This is how some of the 'spooky action at a distance' works.\n- Daso: Cahokia has its own, which interconnects with others in the Free Lands. Dine’s is separate.\n- ↳ Is there a wireless version? Maybe not. Maybe it’s like sneakernet/carrier pigeon.\n- Tahood (not male or female)\n- West coast in particular; increase of old age has ossified politics. Insistence on unanimty is a repressive force for the status quo."
+     },
+     {
+      "id": "nh-notion-naadag-hasaka-9",
+      "title": "Palette",
+      "text": "Player Death - PC doesn’t die unless the player allows it."
+     },
+     {
+      "id": "nh-notion-naadag-hasaka-10",
+      "title": "GM Rules Reminders",
+      "text": "- Rank 6 item should take 6 sessions, bypassing a wealth check"
+     },
+     {
+      "id": "nh-notion-naadag-hasaka-11",
+      "title": "Ideas",
+      "text": "- Prevent hostilities from breaking out (what is going on? Why?)\n- A physical Henge, a spiritual Wards of Paraa?"
+     },
+     {
+      "id": "nh-notion-naadag-hasaka-12",
+      "title": "Unsorted",
+      "text": "Legendary Ranks, add Group Burdens\n\nEach player should have 2 short-term goals, and a long-term goal. Must use the skill in question. May be mentored to expedite.\n\nIdea: a spirit of the black that manifests in a way that interferes with the equipment.\n\nKayazan (Purple Cancer); pg 398\n\nGichigami (lake)\n\n- Oraibi; where Grandmother wants them to go; associated with the Ancients?"
+     }
+    ]
    }
   ],
   "rules": [
    {
     "id": "nh-rule-stats",
     "title": "Stats for a Skill",
-    "text": "A Skill with Ranks uses the higher of its two Stats; a Skill at 0 uses the lower. [SET — as played, sessions 1 and 3]"
+    "text": "A Skill with Ranks uses the higher of its two Stats; a Skill at 0 uses the lower. [SET — as played, 1/A and 1/C; the book]"
    },
    {
     "id": "nh-rule-survival",
     "title": "Finding your way in a new city",
-    "text": "Orienting in an unfamiliar city is Survival with Intelligence instead of Endurance. [SET — session 1]"
+    "text": "Orienting in an unfamiliar city is Survival with Intelligence instead of Endurance. [SET — 1/A]"
    },
    {
     "id": "nh-rule-critical",
     "title": "Net below zero",
-    "text": "A Check with net fewer than zero Successes is a critical failure: the character does not get what they wanted and makes things worse for themselves. [SET — session 2]"
+    "text": "A Check with net fewer than zero Successes is a critical failure: the character does not get what they wanted and makes things worse for themselves. [SET — 1/B; the book]"
+   },
+   {
+    "id": "nh-rule-death",
+    "title": "Player death",
+    "text": "A PC doesn't die unless the player allows it. [SET — Notion, Palette]"
+   },
+   {
+    "id": "nh-rule-goals",
+    "title": "Goals and Legendary Ranks",
+    "text": "Each player should have two short-term goals and a long-term goal; a goal must use the Skill in question and may be mentored to expedite. Legendary Ranks; add Group Burdens. A Rank 6 item should take six sessions, bypassing a Wealth check. [SET — Notion]"
    },
    {
     "id": "nh-rule-stars",
     "title": "Stars and wishes",
     "text": "At the end of a session anyone may name a star (a moment they loved) and a wish (something they'd like to see). [SET]"
+   },
+   {
+    "id": "nh-notion-gambling-with-naasi",
+    "title": "Gambling with Naasi — the Notion page, word for word",
+    "text": "",
+    "sections": [
+     {
+      "id": "nh-notion-gambling-with-naasi-1",
+      "title": "Gambling with Naasi",
+      "text": "One of my adversary NPC's has the Addiction (gambling) burden, and is going to secretly attempt to wager the evidence against the party that they are being hunted for against one of the PC's surrendering. As such, I made rules for using Naasii as a gambling game in Coyote and Crow proper:\n\nNaasii is played between 2-4 players.\n\n- All players agree on each player’s stake. Normally, this is an even nizi stake, but items and favors can also be wagered. All games of Naasii are winner-takes-all\n- The game takes place over 2-5 rounds. Winner is the first person who wins two rounds.\n- First roller is determined by a single D12 roll, the highest number goes first, play proceeds clockwise until all players have scored or busted that round. In the event of a tie on first player roll, players keep rolling until one rolls a higher number\n- On their turn, the roller rolls 3 white dice. They are attempting to make runs (numbers in ascending order) or sets (instances of the same number). After rolling their dice, they have the option of scoring their dice or rolling again.\n\na. If they roll again, they lock at least one of their dice, then pick up their unlocked dice and reroll them. To that roll, they add 2 white dice and 1 black die. They then have the option of scoring or rolling a 3rd time. They can roll again after that a 4th and final time. Each time they roll, the reroll the unlocked dice and add 2 white and 1 black die. Any white die showing a 12 is wild\n\ni. Characters may use Legendary Ranks and Mind to increase or decrease the value of any white die in any roll after black dice are resolved. White dice cannot be increased to a 12, and black dice cannot be affected\n\nb. In rolls 2-4, before scoring or rolling again, each player must resolve their black dice. If any black die shows a 12, the player BUSTS and their turn ends with no points scored unless they also show a 12 among their unlocked dice. Otherwise, the player may not score one die matching their black die (but may score all but one die if multiple white dice show that number). A Bust may be avoided if the player has also rolled a white 12 to counter it.\n\ni. An unscrupulous player may also attempt to cheat their way out of a Bust using a Skulduggery check. The SN is the highest Mental Defense of their opponents with the following modifiers:\n\n1. +1 SN for each opponent beyond the first\n\n2. +1 SN for every 3 neutral or opposed onlookers\n\na. Each +1 can be counteracted with a success from a simultaneous Charm or Deception as a distraction by an allied onlooker. A critical success may be used to remove a +1 from an opponent beyond the first, or give -1 SN if there are only 2 players\n\n3. +1 SN for every other Bust a player has averted this game using this method\n\nii. On a success, the player may change their black die showing a 12 to match one of their unlocked white dice. On a critical success, they may change it to any number. On a failure, they still Bust. On a critical failure, the players attempt to cheat is discovered by their opponents.\n\n- The winner of the round is the player who has the most dice scored as part of a set or run. In the case of a tie, each player rolls their unscored white dice again simultaneously and scores them to their run or set. Continue until one player has more scored dice than another.\n\na. If two or more players score a set or run of 9 dice, the round restarts with only those players participating\n\nb. If all players before the final player in a round have busted, the last player may score a run or set of 1 on their first roll to win the round.\n\n- In the situation that all players have won 1 round, the last round occurs simultaneously. All players roll at the same time, resolve any black dice, then secretly select one of their white or black dice that has yet to be rolled. They reveal the selected dice simultaneously. A white die designates that the player will score their dice, a black die designates that the player will roll again\n\na. In the case that all remaining players bust on the same roll during a simultaneous round, all dice in that roll are re-rolled.\n\n- Sidebets are popular in games of Naasii as well. These are played in a pool system, and usually overseen by the house in gambling dens. Onlookers pay into a pool, usually a 10, 50, or 100 nizi buy-in, and are assigned a number. A tracker notes all numbers rolled every roll (if it matters, this occurs in the step after Legendary Ranks and Mind are assigned but before dice are scored/locked) and keeps a running tally. Numbers are divided as evenly as possible, and the pool is split evenly with the winners (or co-winners if two or more numbers are at the top). In professional gambling dens, it is customary for the house to always take 12 and no payout be awarded to patrons should 12 be the most common roll."
+     }
+    ]
+   },
+   {
+    "id": "nh-notion-rules-reference",
+    "title": "Rules Reference — the Notion page, word for word",
+    "text": "[image: a d12]",
+    "sections": [
+     {
+      "id": "nh-notion-rules-reference-1",
+      "title": "Rules Reference",
+      "text": "Dice Check Quick Reference\n\nSkill Checks over Time (SCOT)\n\nInvention:\n\nInitiative\n\nRound\n\nSocial Encounters\n\nContested Skill Checks\n\nCombat\n\nSurprise Attacks\n\nRange\n\nChase\n\nConditional Modifiers\n\nDamage\n\nFortitude\n\nEffects\n\nStates\n\nRest and Healing\n\nCost Ranks\n\nEquipment"
+     },
+     {
+      "id": "nh-notion-rules-reference-2",
+      "title": "Dice Check Quick Reference",
+      "text": "- Create a Dice Pool\n- ↳ For Abilities, follow the rules for the specific Ability, then go to step 2\n- ↳ For a Skill, use the following formula:\n\nSkill Rank + Higher of Related Stats (Unless Skill Rank = 0, in which case, use the lower Related Stat) + Any additional dice modifiers (such as weapons) = Total Dice Pool\n\n- Determine Success Number\n- ↳ Default is 8\n- ↳ Can be modified by Skills, Abilities, States, Effects, Conditional Modifiers or the Story Guide.\n- ↳ Story Guide determines final Success Number\n- Roll Dice\n- ↳ Success Number or higher: 1 Success\n- ↳ Lower than Success Number: 0 Successes\n- ↳ “1” is a Fail: -1 Success\n- ↳ “12” is a Critical Success: 1 Success and activates Critical Die\n- (Optional) Use Legendary Rank\n- (Optional) Use Focus\n- (Optional) Resolve Critical Dice\n- ↳ For every “12” rolled or created through Legendary Rank or Focus, roll a Critical (Black) Dice Pool.\n- ↳ Each Critical die that rolls below the Success Number, add 1 Success to the Pool. For each Critical die that rolls equal to or higher than the Success Number, add 2 Successes to the Pool.\n- ↳ For each “12” rolled with a Critical Die, roll an additional Critical Die. Repeat until no more “12’s” are rolled.\n- Determine Success or Failure\n- ↳ Calculate total number of Successes\n- ↳ ↳ 1+ Successes: Success\n- ↳ ↳ 0 Successes: Failure\n- ↳ ↳ < 0 Successes: Critical Failure"
+     },
+     {
+      "id": "nh-notion-rules-reference-3",
+      "title": "Skill Checks over Time (SCOT)",
+      "text": "- Crafting\n- Training animals\n- Some investigation, research\n\nOption 1 (easier): Need 1 success per interval (usually 1 hour). Retest each hour.\n\nOption 2 (harder): Need X cumulative successes over a set number of intervals."
+     },
+     {
+      "id": "nh-notion-rules-reference-4",
+      "title": "Invention:",
+      "text": "- Requires a critical success\n- Must be part of a Long Term Goal"
+     },
+     {
+      "id": "nh-notion-rules-reference-5",
+      "title": "Initiative",
+      "text": "Derived stat. for PCs.\n\nStory Guide picks initiative for each side of a conflict.\n\nPlayers choose initiative for themselves equal or lower than their Initiative score, not higher than 12.\n\nStory Guide reveals list. Higher numbers go first."
+     },
+     {
+      "id": "nh-notion-rules-reference-6",
+      "title": "Round",
+      "text": "Primary Action: Dice checks, activate abilities, delay action and secondary actions. May also spend it to change initiative score. May move a second time.\n\nSecondary Action: Things like moving short distances, reloading a weapon, and talking to someone are all examples of Secondary Actions. Most Secondary Actions do not require Dice Checks, outside of some Abilities.\n\n- Move\n- Defend: Define what you are defending against. May potentially add a relevant Skill or Stat to your defense score for the incoming attack.\n- Take Cover: Temporary bump to Physical Defense.\n- Dodge: Choose Range; add Acrobatics Rank to Physical Defense for attacks from that Range this round.\n- Reaction Rolls: Count as secondary actions, cannot use the same type of secondary action within a round.\n- Reload or draw a weapon\n- Check a computer screen\n- Flip a switch\n- Speak to an ally"
+     },
+     {
+      "id": "nh-notion-rules-reference-7",
+      "title": "Social Encounters",
+      "text": "- When there are crossed or competing purposes.\n- Initiative, back-and-forth dice checks.\n- Define what ‘success’ is for each.\n- Minor advantage/disadvantage: +1/-1. Major is +2/-2. Critical is +3/-3.\n- Winning a social encounter awards 1 point of Mind at the completion of the encounter.\n- ↳ If it was contested, the loser loses a point of Mind and a point of Soul."
+     },
+     {
+      "id": "nh-notion-rules-reference-8",
+      "title": "Contested Skill Checks",
+      "text": "- Must be declared.\n- Compare total of two pools.\n- Consider tug of war: how many net successes do you need?\n- Either one party is successful, or a party cedes."
+     },
+     {
+      "id": "nh-notion-rules-reference-9",
+      "title": "Combat",
+      "text": "- Emphasize cunning, strategic plans, etc."
+     },
+     {
+      "id": "nh-notion-rules-reference-10",
+      "title": "Surprise Attacks",
+      "text": "- Stealth Skill check against opponent’s Mental Defense.\n- If a group, Character with lowest Stealth rolls for the group. Mental Defense is the highest in the opponent’s group."
+     },
+     {
+      "id": "nh-notion-rules-reference-11",
+      "title": "Range",
+      "text": "- Short: Within reach in a single move\n- Medium: Out of range of Melee/Unarmed attacks. Two move actions to go from Medium to Short. Close enough to see. Four move actions to Long Range.\n- Long: Really far/horizon."
+     },
+     {
+      "id": "nh-notion-rules-reference-12",
+      "title": "Chase",
+      "text": "- Contested Running (Athletics) Skill or Piloting if in Vehicles."
+     },
+     {
+      "id": "nh-notion-rules-reference-13",
+      "title": "Conditional Modifiers",
+      "text": "» Speed: +1 to +3\n\n» Terrain: +1 to +4 » Weather: +1 to +4 » Sensory Impairment: +1 to +4 » Physical Impairment: +1 to X\n\n» Water and other Substances: +1 to +3"
+     },
+     {
+      "id": "nh-notion-rules-reference-14",
+      "title": "Damage",
+      "text": "- Success number is the relevant defense stat of the target.\n- Number of Successes is amount of damage.\n- Special effects (pg 314)\n- ↳ Fire: adds Burning effect\n- ↳ Cold\n- ↳ Electrical\n- ↳ Falling\n- ↳ Non-Lethal\n- Mental Damage\n- ↳ Fatigue\n- ↳ Psychological Trauma\n- Spiritual Damage\n- ↳ Affects core essence; will to live, drive, conviction, heart\n- Stat Damage"
+     },
+     {
+      "id": "nh-notion-rules-reference-15",
+      "title": "Fortitude",
+      "text": "- Any time a character takes Body Damage, it may instead be taken from the Soul (in whole or part)."
+     },
+     {
+      "id": "nh-notion-rules-reference-16",
+      "title": "Effects",
+      "text": "- Environmental\n- Poison\n- Bleeding\n- Stun\n- Burning"
+     },
+     {
+      "id": "nh-notion-rules-reference-17",
+      "title": "States",
+      "text": "- Conscious\n- Unconscious\n- ↳ Every Round that a Character has zero or less in Body, Mind, or Soul, they must make a Will Check to stay Conscious. The Character needs 1 Success with a Success Number of 8. If they make the Check, then they are Conscious but may only take Secondary Actions. Once Unconscious, a Character will stay Unconscious until Body, Mind, and Soul are all at a minimum of 1.\n- ↳ If a Character is Unconscious at the end of an Encounter, the Character automatically begins a Short Rest unless otherwise decided by the Story Guide.\n- ↳ An Unconscious Character receives no sensory information and cannot take any Actions, Primary or Secondary. Their Endurance, Agility, Wisdom, Perception, Will and Charisma no longer contribute to their Defenses.\n- Sleeping\n- Altered\n- Panic\n- Dying\n- ↳ Every Round during the Character's turn, they make a Reaction Roll for each Derived Stat (Body, Mind, and Soul) below zero to determine what happens next in regards to their Dying state. This Dice Check is based on either their Will or their Endurance, the Player can choose, regardless of which Derived Stat is below zero. The Success Number is 8. After the Check, consult the following table:\n- ↳ ↳ » Critical Failure: Lose 2 points » Failure: Lose 1 point\n- ↳ ↳ » 1+ Success: No Change\n- ↳ ↳ » 1+ Critical Success: Stabilized\n- ↳ Lose 2 Points indicates that the Player is continuing to worsen. They take 2 points of Damage in the appropriate category (Body, Mind, or Soul). If this reduces them to the point where they would die, see Death. Otherwise, they will continue to be Dying in the next Round.\n- ↳ Lose 1 Point indicates that the Player is continuing to worsen. They take a point of Damage in the appropriate category (Body, Mind, or Soul). If this reduces them to the point where they would die, see Death. Otherwise, they will continue to be Dying in the next Round.\n- ↳ No change indicates that the Character is still in a Dying state and they will have to make another Check the following Round. There is no other effect.\n- ↳ Stabilized indicates that the appropriate Stat (Body, Mind, or Soul) has stabilized, the Player does not have to make additional Checks in subsequent Rounds, and that they are no longer considered Dying if this was their only Derived Stat below zero. They do not gain or lose any more points unless they take Damage from a subsequent attack.\n- ↳ If another Character spends a Primary Action to make a First Aid Check on a Dying Character and gets any Successes, the Character does not lose any Body points that Round. If the Character making the First Aid Check gets a Critical Success, the Character stabilizes and does not need further medical attention to keep from dying. If the Character attempting the Skill Check gets a Critical Failure, they do a point of Body Damage to the subject. It is important to note that First Aid only affects Body. Only a Dying Character can Stabilize themselves from loss of Mind and Soul\n- Death\n- ↳"
+     },
+     {
+      "id": "nh-notion-rules-reference-18",
+      "title": "Rest and Healing",
+      "text": "There are five ways that a Character can regain lost Mind, Body, and Spirit:\n\n- Various Skills (Medicine, Ceremony, etc)\n- Abilities\n- Drugs\n- Short Rest\n- Long Rest\n\nEach Character in a Short Rest makes three Checks upon completion of the Short Rest; an Endurance Check, a Wisdom Check, and a Will Check. Every Success gained on those rolls returns one point of corresponding Body, Mind, and Spirit.\n\nShort Rests can only be taken a maximum of twice a day, and can only be taken after an Encounter\n\nA Long Rest allows for the regaining of Body, Mind and Spirit. A Character that has taken a Long Rest makes Checks, as with a Short Rest. In addition to the gains listed in a Short Rest, the Character taking a Long Rest also gains Body, Mind, and Soul points equal to their Endurance, Wisdom, and Will Stat.\n\nHealing Stat Damage: see page 330"
+     },
+     {
+      "id": "nh-notion-rules-reference-19",
+      "title": "Cost Ranks",
+      "text": "1 = minimal\n\n8 = astronomical\n\n» Cost Rank < Wealth Rank = No Check needed, Character gets item automatically\n\n» Cost Rank = Wealth Rank = Check (see below)\n\n» Cost Rank = Wealth Rank +1 = Check and Debt, or Short Term Goal\n\n» Cost Rank = Wealth Rank +2 = No Check, only available through Long Term Goal\n\n» Cost Rank = Wealth Rank +3 = No Check, only available through Long Term Goal and Debt\n\n» Cost Rank = Wealth Rank +4 or more = Unavailable\n\nDebt: The Character must take on a Debt of some sort. A Debt is a form of a Rank 1 Burden that can only be gained through Wealth Checks. The form of Debt will be determined by the situation, but in general, Debts make it more difficult to make future Wealth Checks. Additionally, the Story Guide may make the Debt something beyond financial. The Character may owe favors to unsavory types or be made to do labor in exchange for goods or any other form of compensation that the Story Guide thinks fits the scenario."
+     },
+     {
+      "id": "nh-notion-rules-reference-20",
+      "title": "Equipment",
+      "text": "Concealed: The default state of this item when worn is hidden from view. It can’t be seen by a casual observer.\n\nUnconcealable: A Character cannot hide this item from public view.\n\nTwo Handed: Requires a Character to use both hands to employ. Anything Two Handed is also Unconcealable.\n\nLarge: This item is big enough that it cannot be carried. It takes up a portion of a room or vehicle.\n\n+/-X Stat: The Character’s Stat is modified by the value.\n\n+/-X PD: The Character’s Physical Defense Derived Stat is modified by this value.\n\n+/- SN: An increase or reduction in the needed Success Number for either a specific Skill or any Skill Check related to a Stat.\n\n+X: Number of dice added to a Dice Pool when using this item.\n\nX/X/X: Modifications to the needed Success Number based on Short, Medium or Long Range. An X in the slot indicates the weapon cannot be used at that Range.\n\nCritical: On a Successful Critical, the effect is applied.\n\nSuccess: On a Successful Check, the effect is applied"
+     }
+    ]
    }
   ],
   "people": [
    {
     "id": "nh-p-naadag",
     "title": "Grandmother Naadag",
-    "text": "Nearly 121 at her death. From the Diné Republic; arrived in Cahokia in late adolescence; husband died about fifteen years before the Seeing; lost children of her own. Ceremonial more than spiritual. Honoured by the Council of Twelve for neighbourhood work copied across the city. [SET]\n\nThe early part of her life, as the family tells it, has deliberate gaps. Sign came away convinced they concern Grandmother and the Black: something she met there and has been getting away from, dangerous enough that it is better not to know there is anything to avoid. That reading came from a critical failure and may be wrong. [OPEN]\n\nShe was protecting Suva without Suva's knowledge, and that protection has faltered. [SET — the prep note] Who reached Sign through the Black with the family's name is not established. [OPEN]"
+    "text": "Nearly 121 at her death; born 589 in the Diné Republic. Arrived in Cahokia in late adolescence; married Misyooyi, who died in 689; lost children of her own. Ceremonial more than spiritual. Honoured by the Council of Twelve for neighbourhood work copied across the city. Related to the Ancients in Oraibi. [SET — Notion; the recordings]\n\nShe knew Soova's past for many years and protected her, largely without Soova's knowledge, from the people who came to make her finish her work; she told Soova so before she died (in a letter, or in the last days — Notion leaves it open). [SET — Notion] Connected to the Coyote crime lords, as Soova and Syn are. [SET — Notion]\n\nNotion GM questions: Was she Soova's great-aunt, and does Soova learn it? Why is sending Soova intended to be a pardon? What did she ask them to bring to Oraibi, and why? [OPEN]\n\nThe early part of her life, as the family tells it, has deliberate gaps. Syn came away convinced they concern Grandmother and the Black: something she met there and has been getting away from, dangerous enough that it is better not to know there is anything to avoid. That reading came from a critical failure and may be wrong. Who reached Syn through the Black with the family's name is not established. [OPEN]"
    },
    {
-    "id": "nh-p-ninosh",
-    "title": "Ninosh",
-    "text": "An accomplished cook, vegetarian, interested in where her food comes from. Flirted with Datsu all of day 2; he did not notice until Makatooka said it aloud. \"Seek me out if you're ever so inclined.\" [SET]"
+    "id": "nh-p-family",
+    "title": "Grandmother's family",
+    "text": "Soova's tree of the family she married into. [SET — Notion, Soova's page]\n\n- Grandmother Naadag and Misyooyi (died 689)\n- Hoyohih — their son; Soova's husband; farmer, responsible, 71\n- Yatchig — their son; Warrior, protective, 67\n- Wahoova — their daughter; Tinkerer, status, 52; her wife Tatooma, 58\n- Kii Das — Soova and Hoyohih's daughter, born 676; married Zibizin 695; died 708, at 32\n- Zibizin — did not return from exploring (set off 703)\n- Wazawi — Kii Das and Zibizin's daughter, born 696\n- Loohok — Kii Das and Zibizin's son, born 702; enjoys farming; Hoyohih's mentee\n- Abayi — Wahoova's; Healer, altruism, 27, female\n- Zaptahi — Wahoova's; Warrior, status, 21, non-binary\n- Tasu — Wahoova's; Tinkerer, family, 25; with Thiikun; their child Na Sooma, an infant\n\nThe tree gives Wazawi 14 and Loohok 8; the Notion GM page gives 16 and 10. The GM page is used. [SET]"
    },
    {
-    "id": "nh-p-choyan",
-    "title": "Choyan",
-    "text": "Early fifties, knows current cybernetics research well. Disproved several of Tika's hypotheses in one conversation. Tika has made a note of the name. [SET]"
-   },
-   {
-    "id": "nh-p-yohipa",
-    "title": "Yohipa",
-    "text": "Tika's older sister, about 25. Runs a successful restaurant in Cahokia that Grandmother helped her start; her kitchen was one of several feeding the Seeing. Owes Tika money she can't pay before he leaves. The Story Guide suggested an indirect link: Makatooka may know the restaurant without knowing Tika. [OPEN]"
+    "id": "nh-p-hoyohih",
+    "title": "Hoyohih",
+    "text": "Soova's husband, Grandmother's son, a farmer, 71; Wazawi calls him Papa. Staying in Cahokia with Loohok. Alive; he never found out about Soova's past. If he did, it would feel like a betrayal: their life together was based on a lie. [SET — Notion]"
    },
    {
     "id": "nh-p-zibizin",
     "title": "Zibizin",
-    "text": "Wasawi's father, partner of Suva's daughter. Taught Makatooka to fly. Went missing in 703, seven years before the Seeing, exploring. [SET] Whether Suva's daughter went with Zibizin or died later is told both ways in session 1 (\"both my daughter and her partner are missing\"; \"my daughter died two years ago\"); Grandmother and the chronicle treat the daughter as dead. [OPEN]"
+    "text": "Kii Das's partner; Wazawi and Loohok's parent. Taught Migatuka to fly. Set off to explore in 703 and did not return. [SET] Notion GM questions: What happened to Zibizin? A spy, deep undercover in Dinada? Taken in lieu of Soova? Taken by the Suyata? How does Wazawi feel about her missing parent, and her dead mother? [OPEN]"
    },
    {
-    "id": "nh-p-papa",
-    "title": "Suva's husband",
-    "text": "Grandmother Naadag's grandson; a farmer. Wasawi calls him Papa. Staying in Cahokia with their grandson, who is eight. [SET]"
+    "id": "nh-p-ninosh",
+    "title": "Ninosh",
+    "text": "An accomplished cook, vegetarian, interested in where her food comes from. Flirted with Daatsu all of day 2; he did not notice until Migatuka said it aloud. \"Seek me out if you're ever so inclined.\" [SET — 1/B; not in Notion]"
+   },
+   {
+    "id": "nh-p-choyan",
+    "title": "Choyan",
+    "text": "Early fifties, knows current cybernetics research well. Disproved several of Tika's hypotheses in one conversation. Tika has made a note of the name. [SET — 1/C]"
+   },
+   {
+    "id": "nh-p-yohipa",
+    "title": "Yohipa",
+    "text": "Tika's older sister, about 25; responsible and solid. Runs a restaurant in Cahokia that Tika used to work in; Grandmother helped her start it, in part out of sympathy for those coming from outside the Free Lands. She asked Grandmother to include Tika on the trip, to keep him out of the gambling dens, and told her his martial arts would help keep the group safe. Owes Tika money she can't pay before he leaves. [SET — Notion; 1/C]"
+   },
+   {
+    "id": "nh-p-crime",
+    "title": "The Coyote crime lords",
+    "text": "The Coyote crime lords of Coyote City: seven clans. Soova, Syn and Grandmother Naadag are connected. The Notion GM questions ask to flesh out the criminal families, and what Soova did as a youth that required her family's protection. The villains who get away are the main villains. [SET — Notion] [OPEN]"
    },
    {
     "id": "nh-p-partner",
     "title": "The attending healer",
-    "text": "Attended Grandmother's last two days with Suva, and took the first long watch. Not named. Suva kept Wasawi's presence from them. [SET]"
+    "text": "Attended Grandmother's last two days with Soova, and took the first long watch. Not named. Soova kept Wazawi's presence from them. [SET — 1/C]"
    },
    {
     "id": "nh-p-uncles",
     "title": "The uncles",
-    "text": "A trio at the dice table, a day and a half of play by day 2. Took Sign as their luck; did not make room for Tika. [SET]"
+    "text": "A trio at the dice table, a day and a half of play by day 2. Took Syn as their luck; did not make room for Tika. [SET — 1/B, 1/C]"
    },
    {
     "id": "nh-p-colleague",
-    "title": "Makatooka's colleague",
-    "text": "A colleague from Makatooka's hospital she never got on with, still working there; met on day 2. Not named. [SET]"
+    "title": "Migatuka's colleague",
+    "text": "A colleague from Migatuka's hospital she never got on with, still working there; met on day 2. Not named. [SET — 1/B]"
    }
   ],
   "pc": [
    {
-    "id": "nh-pc-suva",
-    "title": "Suva",
+    "id": "nh-pc-soova",
+    "title": "Soova",
     "text": "",
     "sections": [
      {
-      "id": "nh-pc-suva-1",
-      "title": "At the table",
-      "text": "62, Healer, Path of the Snake (\"pack of the steak\" in the transcript), Motivation Family. Married into the family forty years ago; her own family died in a fire in her early twenties. Raising Wasawi and her eight-year-old brother with her husband. First Seeing she has led. Wears Grandmother's heirloom jewellery. Path not confirmed. [OPEN]"
+      "id": "nh-pc-soova-1",
+      "title": "Who she is",
+      "text": "62, Healer, Path of the Snake, Motivation Family. Speaks Chahi and Diné. Walk the Black. Married into Grandmother's family; with Hoyohih she raises Wazawi and Loohok. First Seeing she has led. Wears Grandmother's heirloom jewellery. Her sheet is on the Party pane. [SET — Notion]"
      },
      {
-      "id": "nh-pc-suva-2",
-      "title": "Numbers heard in play",
-      "text": "Ceremony Rank 3, rolled with 8 dice (Spirit the higher Stat, so Spirit 5); Wisdom 3; Perception 3; Charisma 3; Intelligence 2; Music 0. Has Walk The Black (costs a point of Mind and a point of Soul, as played). [SOURCE — the recordings]"
+      "id": "nh-pc-soova-2",
+      "title": "The secret",
+      "text": "Only the Story Guide and her player know this; the public pages tell the cover story. [NOTE]\n\nBorn 648 in the Diné Republic, into a Coyote City crime family. Her Adanadi, Walk the Black, came in 662. She proved herself spying on people through it and crafting cybernetics, got into trouble in her late teens and was protected by the family's power; her father scarred her face \"to remember the family and the debt\". In 673 she was sent to Cahokia on a long con: to use Grandmother's family's connections and status (the Story Guide's guess: espionage, exfiltrating the woyi stored on the gats). She fell in love with Hoyohih and never finished it. The family never contacted her; she thinks they wrote her off as dead or captured. Everyone in Cahokia believes her family died in a fire that scarred her. [SET — Notion]\n\nGrandmother knew for years and protected her from the people who came to make her finish; she told Soova before she died. Soova is still in shock, going back over their years together. She does not know whom she is afraid of meeting on her return. [SET — Notion]\n\nHeld back from her sheet on the Party pane, which the table shares: the Specialized Skill The Long Con (Deception; Stat 4, Rank 3, Total 7) and the Burden Secret 2 (the sheet prints \"Secert - 2\"). Her sheet's Gifts and Burdens as printed: \"Gifts: Spirit Connection - 3, Noteriety - 1, Family - 2, Wealth - 1\" / \"Burdens: Secert - 2, Companion Granddaughter - 2, Family - 2\". [SET — Notion, her sheet]\n\nNotes on the sheet's page: Hiihangaziwag (The Unshadowed) — one half all have Walk the Black; they believe that everyone died. [SET — Notion] Notion GM questions: Did Soova ever reveal to Grandmother her intended betrayal? Does she learn Grandmother was her great-aunt? [OPEN]"
      },
      {
-      "id": "nh-pc-suva-3",
-      "title": "What she carries",
-      "text": "Wasawi hid in the closet on the last night; Suva gave her the blocker and kept it from the attending healer and the family. It is their secret; Suva is angry with her. [SET]\n\nFrom the prep note: Grandmother had been protecting Suva without her knowledge, and that protection has faltered. \"How is Suva found out? What is it that they want?\" The note also connects someone to \"crime families\" — it names both Sign and Suva, and which is meant is not clear. Suva may be asked to speak with a cousin in Coyote City. [YOURS — the prep note] [OPEN]"
+      "id": "nh-pc-soova-3",
+      "title": "Wazawi in the closet",
+      "text": "Wazawi hid in the closet on the last night; Soova gave her the blocker and kept it from the attending healer and the family. It is their secret; Soova is angry with her. She is distrustful of Tika around Wazawi. [SET — 1/C; Notion]"
      }
     ],
     "about": [
-     "Suva"
+     "Soova"
     ]
    },
    {
-    "id": "nh-pc-sign",
-    "title": "Sign",
+    "id": "nh-pc-syn",
+    "title": "Syn",
     "text": "",
     "sections": [
      {
-      "id": "nh-pc-sign-1",
-      "title": "At the table",
-      "text": "42, from the Diné Republic, Seeker, Path of the Beaver, Motivation Justice. Past involvement with criminal organisations. Was investigating a wrong done to a poor man in Coyote City; dropped it after the vision. Has Quiet Mind. Grandmother's gift: a necklace connected to the spirit world. [SET]"
+      "id": "nh-pc-syn-1",
+      "title": "Who they are",
+      "text": "42, Diné, Tahood (not male or female), Seeker, Path of the Beaver, Motivation Justice. An acolyte of the Keepers of the Ancient Ones. Quiet Mind; Spirit World Connection. Past involvement with criminal organisations; connected to the Coyote crime lords. Was investigating a wrong done to a poor man in Coyote City; dropped it after the vision. Grandmother's gift: a necklace connected to the spirit world. [SET — Notion; the recordings] No sheet in the export."
      },
      {
-      "id": "nh-pc-sign-2",
+      "id": "nh-pc-syn-2",
+      "title": "Kit",
+      "text": "The Notion page gives Suyata Armor (+1 PD, concealable) and a Suyata Kit (-1 SN to Survival); the Notion to-do says to check in with Syn: they would not have these. [OPEN]"
+     },
+     {
+      "id": "nh-pc-syn-3",
       "title": "Numbers heard in play",
-      "text": "Survival Rank 2; Investigation with Intelligence came to 10 dice; Wisdom 3; Charm rolled 2 dice. [SOURCE — the recordings, loosely heard] [OPEN]"
+      "text": "Survival Rank 2; Investigation with Intelligence came to 10 dice; Wisdom 3; Charm rolled 2 dice. [SOURCE — the recordings, loosely heard]"
      },
      {
-      "id": "nh-pc-sign-3",
+      "id": "nh-pc-syn-4",
       "title": "Asleep",
-      "text": "On day 10 she would not wake, and shook at intervals; otherwise healthy. Prep note: \"She's going on something of a journey. Suva knows enough not to wake her.\" [YOURS — the prep note]"
+      "text": "On day 10 Syn would not wake, and shook at intervals; otherwise healthy. Prep note: they are \"going on something of a journey\"; \"Soova knows enough not to wake her\". [YOURS — the prep note]"
      }
     ],
     "about": [
-     "Sign"
+     "Syn"
     ]
    },
    {
-    "id": "nh-pc-datsu",
-    "title": "Datsu",
+    "id": "nh-pc-daatsu",
+    "title": "Daatsu",
     "text": "",
     "sections": [
      {
-      "id": "nh-pc-datsu-1",
-      "title": "At the table",
-      "text": "32, Scout, Path of the Raccoon, Motivation Independence. Herds buffalo with his people near the wild corridor; good with animals; a survivalist. His people's long business friendship with the family is why they supplied the Seeing. Oblivious to Ninosh. Handles food and shelter for the journey; takes what is provided and scrounges the rest. [SET]"
+      "id": "nh-pc-daatsu-1",
+      "title": "Who he is",
+      "text": "32, male, Makokamit, Scout, Path of the Raccoon, Motivation Independence. Speaks Chahi, Plains sign and Makokamit. River's Flow. Gift Animal Connection; Burden Spirit World Connection. His people's long business friendship with the family is why they supplied the Seeing. Oblivious to Ninosh. Navigates the journey and handles food and shelter; takes what is provided and scrounges the rest. His sheet is on the Party pane. [SET — Notion; the recordings]\n\nThe Story Guide asked his player whether he might be related to another character (a cousin), unrevealed until it comes up in play. [OPEN — Notion]"
      }
     ],
     "about": [
-     "Datsu"
+     "Daatsu"
     ]
    },
    {
-    "id": "nh-pc-makatooka",
-    "title": "Makatooka",
+    "id": "nh-pc-migatuka",
+    "title": "Migatuka",
     "text": "",
     "sections": [
      {
-      "id": "nh-pc-makatooka-1",
-      "title": "At the table",
-      "text": "28, Healer, Motivation Altruism. A physician on leave of absence because of her addiction; strongest in Knowledge, with science and medicine, some herbalism; can pilot (Zibizin taught her). Gift: Spirit World Connection. Burden: Addiction (\"uppers and downers\", \"the good stuff\"; now kalera). Companion: a hairless cat, Wings. Packed a trauma kit, her herbal knowledge in her wrist device, a raven keepsake. Left Grandmother's blanket in safe keeping. Performance 0, Spirit 4. [SET]"
+      "id": "nh-pc-migatuka-1",
+      "title": "Who she is",
+      "text": "28, Minak, of Cahokia; Healer, Motivation Altruism. Worked in trauma care; on leave of absence because of her addiction. Strongest in Knowledge, with science and medicine, some herbalism; can pilot (Zibizin taught her). Gift: Spirit World Connection. Burden: Addiction — kelera root, kelera-adanadi. A hairless cat, Winks. Devastated by Zibizin's disappearance. Packed a trauma kit, her herbal knowledge in her niisi, a raven keepsake; left Grandmother's blanket in safe keeping. Performance 0, Spirit 4 as played. [SET — Notion; the recordings] No sheet in the export; the Notion to-do says to finish it and to confirm how much kelera root she has. [OPEN]"
      },
      {
-      "id": "nh-pc-makatooka-2",
+      "id": "nh-pc-migatuka-2",
       "title": "Private: the lost child",
-      "text": "Only the Story Guide and her player know this; the public pages do not tell it. [NOTE]\n\nShe miscarried about seven years ago, close to when Zibizin vanished, and her addiction took hold then. Grandmother's blanket — a falcon reworked into a fox — is understood by Makatooka in connection with that. On day 5, on a doubled kalera tea, she saw the tea overflow a bowl and, under it, the child she imagines she would have had, rising for air; she threw the tea and the bowl was empty. She tried to hide it and did not manage. [SET]\n\nPrep note: the miscarried child \"is going to be an oracle to her\", and she \"will have to use deception to avoid the others figuring out what that's all about\". \"How soon until Makatooka hits withdrawal.\" In session 3 the Story Guide checked with the table about discussing the miscarriage in play; confirm before bringing it forward. [YOURS — the prep note] [OPEN]"
+      "text": "Only the Story Guide and her player know this; the public pages do not tell it. [NOTE]\n\nShe suffered a miscarriage, close to when Zibizin vanished, and her addiction took hold then. Grandmother's blanket — a falcon reworked into a fox — is understood by Migatuka in connection with that. On day 5, on a doubled kelera tea, she saw the tea overflow a bowl and, under it, the child she imagines she would have had, rising for air; she threw the tea and the bowl was empty. She tried to hide it and did not manage. [SET — 1/C; Notion]\n\nNotion and the prep note: the miscarried baby \"is going to be an oracle to her\"; she \"will have to use deception to avoid the others figuring out what that's all about\". How soon until she hits withdrawal? In 1/C the Story Guide checked with the table about discussing the miscarriage in play; confirm before bringing it forward. [YOURS] [OPEN]"
      }
     ],
     "about": [
-     "Makatooka"
+     "Migatuka"
     ]
    },
    {
@@ -223,13 +439,18 @@
     "sections": [
      {
       "id": "nh-pc-tika-1",
-      "title": "At the table",
-      "text": "19, Tinkerer, Path of the Raccoon; can inspire others. From the Haudenosaunee Confederacy (a family that kept its own ways, so second-tier there). Cybernetic eye (an orb, not made to look natural; he pushes it and could break it), a small drone, some judo, a cook. Gambling habit; about thirty thousand won and lost; broke. Dream: electronics that reproduce the Adanadi. Won the apprentice-mechanic slot on the barge west in his own bluffing dice game. Wealth 3. Motivation not heard clearly. [SET] [OPEN]"
+      "title": "Who he is",
+      "text": "19, Unlad (Haudenosaunee Confederacy), Tinkerer, Path of the Raccoon, Motivation Wealth. Gangly, frail; cybernetic eyes (perhaps born blind, the government's eyes tinkered for AR), a small drone. Trained in martial arts under a master; the technique but not the strength or speed, and sensitive about it. A cook. Gambling addict: about thirty thousand won and lost; broke; not above cheating when desperate. Dream: cybernetics that replicate the gifts of the Adanadi; if the Diné Republic has research on cybernetics or the Adanadi, that is a side mission. Wants more freedom from his sister while looking more responsible. Mountain's Inspiration. His sheet is on the Party pane. [SET — Notion]"
      },
      {
       "id": "nh-pc-tika-2",
+      "title": "How he joined",
+      "text": "Notion: Yohipa asked Grandmother to include him; he was not present when the others were tasked, and they are told he has been hired as an escort, coordinating with Daatsu; paid a third up front. In 1/C the job came up through a dice game he won; Notion is followed. [SET — Notion] Why his parents chose not to assimilate is a Notion GM question. [OPEN]"
+     },
+     {
+      "id": "nh-pc-tika-3",
       "title": "From the prep note",
-      "text": "\"Young. Hungry. … Looking for a get rich quick scheme and there really isn't one out here. Will definitely be sympathetic. Crime family stuff. Maybe [Tika] has been given a side job: make sure Suva speaks with her cousin. Coyote City.\" The note's \"Chica\" is read here as Tika. [YOURS] [OPEN]"
+      "text": "\"Young. Hungry. … Looking for a get rich quick scheme and there really isn't one out here. Will definitely be sympathetic. Crime family stuff. Maybe [Tika] has been given a side job: make sure Soova speaks with her cousin. Coyote City.\" [YOURS] [OPEN]"
      }
     ],
     "about": [
@@ -237,18 +458,103 @@
     ]
    },
    {
-    "id": "nh-pc-wasawi",
-    "title": "Wasawi",
+    "id": "nh-pc-wazawi",
+    "title": "Wazawi",
     "text": "",
     "sections": [
      {
-      "id": "nh-pc-wasawi-1",
-      "title": "At the table",
-      "text": "Suva's granddaughter and companion, 16, Scout, Path of the Fox, Motivation Curiosity. Wild; spent night 2 in the forest park. Snuck into Grandmother's rooms before the death and hid in the closet; Suva caught her through the Black and gave her the blocker. Apologised at the viewing. Likely to take to Tika and his cybernetics. [SET]"
+      "id": "nh-pc-wazawi-1",
+      "title": "Who she is",
+      "text": "Soova's granddaughter and companion, 16, Scout, Path of the Fox, Motivation Curiosity and tech. Recently chose her path. Wild; spent night 2 in the forest park. Snuck into Grandmother's rooms before the death and hid in the closet; Soova caught her through the Black and gave her the blocker. Apologised at the viewing. Likely to take to Tika and his cybernetics. Her sheet (made by Soova's player, at 14) is on the Party pane. [SET — Notion; the recordings]"
      }
     ],
     "about": [
-     "Wasawi"
+     "Wazawi"
+    ]
+   },
+   {
+    "id": "nh-notion-soova",
+    "title": "Soova — her Notion page, word for word",
+    "text": "",
+    "sections": [
+     {
+      "id": "nh-notion-soova-1",
+      "title": "Soova (secretly? Diné) - Path of the Snake, Healer, 62",
+      "text": "[image: Soova’s character sheet (in sheets.json)]\n\nI was thinking she could have been raised in a crime lord family from Coyote City (Dine Republic) with skills in cybernetics. She is sent to Cahokia on a long con in her early 20s (still thinking of details but something about gaining power for her crime fam) Instead she falls in love with a farmer and has a family. She becomes a spiritual healer around death and trauma, and never tells anyone about the long con/crime family. After her daughter dies and she takes the majority care of her grandchildren, she struggles with the teenage granddaughter who reminds her a lot of her younger self (a bit wild and very into cybernetics). Granddaughter would companion burden and long con would be a secret burden. I would give my long con background to the rest of the group that my family has died in my early 20s and that's what led me on the path of death/trauma healing. What do you think?\n\nWhat if 'Grandmother' is your relative by marriage? And what if she gives you a task (revealing to you but no one else that she knows your secret), which requires a return to Dine which the other characters will accompany you on?\n\nI'll think about some ideas for what the long con might be. The fact that the different nations have different \"internet\" equivalents, and the fact that the 'woyi' for the 'gats' (basically, recipes for the 3D printers) are usually stored locally on the gats, I'm guessing espionage of some kind, information exfiltration.\n\nQuestion, is your partner still alive? Do/did they know?\n\nMy guess is that Grandmother protected you, largely without your knowledge, from people who tried to come convince you to finish your work\n\nThey are alive, haven't fully figured out their story yet but they never found out.\n\nI like the idea of grandmother protecting from completing the espionage! I have a rough family tree of my partners family since they took me in and I would have been living with them up for the last 40ish years. I'm thinking though that if my partner did find out it would feel like a betrayal since our life together was based on a lie.\n\nAlso thinking the crime family is still alive, though I haven't figured out their tree or anything. Yes, I was thinking the partner and family would stay behind but the granddaughter might tag along. I'm thinking the granddaughter would have recently or soon would go through the ceremony in adolescence.\n\nok, here are the sheets. I wasn't sure how to make parts hidden so I will write a basic description for the group chat. I wanted a general sense of Soova's family by marriage so I made a tree with some general notes. I have family as a gift because I would like to use some of their skills but also a burden because of the role that Soova has in the family dynamic. Kind of playing off the example of the little sister in the book. I created a character sheet for Wazawi (granddaughter) to help me better understand her and how she would interact with Soova, but I used fewer points because she is only 14. Anyway, let me know if I should trim this down or adjust anything\n\n[image: Soova’s timeline (in gm.md)]\n\n[image: Soova’s timeline, as a table (in gm.md)]\n\n[image: Soova’s family by marriage, a tree (in gm.md)]\n\n[image: Wazawi’s character sheet (in sheets.json)]"
+     },
+     {
+      "id": "nh-notion-soova-2",
+      "title": "Walk The Black",
+      "text": "Activation: 1 point of Mind, 1 point of Soul\n\nDice Check: Will Walk the Black allows a person to leave their body and move around in a spirit or astral form, staying either in the physical world or traversing over to The Black. Doing this takes focus and concentration and can only be done outside of an Encounter. While the user is out of their body, their physical form is motionless and considered Unconscious. To Activate the Ability, the Character sits or lies down, and spends a point of Mind and a point of Soul. They then make a Will Check. A Success indicates they have successfully Activated the Ability. When the consciousness leaves the body, the Player decides whether they stay in reality or traverse to The Black. If they choose to keep their essence in reality, the Character makes a Charisma check. Every Success allows the Character access to one sense of the Player’s Choice. If the Character gets six or more Successes, they may receive supernatural sensory input (see Hawk's Eye). Staying in reality in this form requires total focus and every hour the Character must make another Charisma Check, choose their senses again, and spend a further point of Soul and Mind.\n\nWhile in this form, they can travel unseen or heard and are entirely incorporeal. However, they can still be detected with five or more Successes on a Perception Check from another person. The Character cannot interact with the real world except to receive sensory input. They can move at no more than a slow walking speed and can pass through walls, floors, or any physical substance. Their essence cannot take Body Damage, but may take Mind or Spiritual Damage.\n\nAlternatively, the Character may choose to travel to The Black. In this scenario, their essence leaves this plane and travels to a different realm of reality. For more on The Black, see the Chapter “Playing Coyote & Crow.\n\n[image: a page of the book (The Black)]\n\n[image: a page of the book (The Black, continued)]\n\n[image: a page of the book (The Black, continued)]\n\nNotes: Hiihangaziwag (The Unshadowed); one half all have the ‘Walk the Black’ ability, believe that everyone died.\n\n[image: a page of the book (The Wards of Paraa)]\n\nWhat are some memories Soova has of her childhood in the Diné Republic and her family, and their relationship to crime (or if she knew of that at all? Sounds like she might not have?)\n\nWhat was it that led her to follow a man she had recently met out east, never to come back?\n\nWho does she think she'll meet, if anyone, upon return?\n\nNo need to answer in specifics, and \"I don't know\" is also a fine answer\n\nSoova did know her family's crime life. She was sent to Cahokia for a long con by her family in her 20s. She had proven her skill with her ability to walk the black, spying on people, and crafting cybernetics in Dine Republic. She had always wanted acceptance from her family and they encouraged her life of crime. She had gotten into some trouble in her late teens, but remembers that she was protected by the family's power. It was her skills and the fact that she \"owed\" them which made her a good candidate for the longer con. Also sending her to a different city gave things time to cool down in Dine. Her father had scarred her face in order to \"remember the family and the debt\". Soova had fully intended to utilize Grandmother's family's connections and status in order to complete her con. However, she fell in love and learned how different their family was. And the scar started to remind her more of the shame and pain from her crime family. Since they didn't make contact with her through the years she thought her crime family assumed she was dead or captured, signing her off as a failure.\n\nSoova had carried great shame about her original motivates, and thought no one in Grandmother's family knew. She thought they all believed the story that her whole family had died in a fire which left her scarred. However, right before she died Grandmother told her that she knew of Soova's past for many years and had protected her from the people that came looking for her. (I had thought we discussed that this was a letter Grandmother gave Soova, which is why I brought up a letter before. Though if it is not contained in the box, I would think Grandmother told her sometime in the final days of the ceremony)\n\nI don't know who she is worried about seeing on her return. As I think she's still in shock and thinking through her interactions with Grandmother over the years trying to figure out how she didn't know sooner"
+     }
+    ],
+    "about": [
+     "Soova"
+    ]
+   },
+   {
+    "id": "nh-notion-syn",
+    "title": "Syn — their Notion page, word for word",
+    "text": "",
+    "sections": [
+     {
+      "id": "nh-notion-syn-1",
+      "title": "Syn (Diné) - Path of the Beaver, Seeker, 42",
+      "text": "Suyata Armor: +1PD, Concealable (similar to a Skin Suit and is often worn underneath personal clothing)\n\nSuyata Kit: -1SN to Survival Checks (a small pack filled with a variety of common travel and survival gear)"
+     }
+    ],
+    "about": [
+     "Syn"
+    ]
+   },
+   {
+    "id": "nh-notion-daatsu",
+    "title": "Daatsu — his Notion page, word for word",
+    "text": "",
+    "sections": [
+     {
+      "id": "nh-notion-daatsu-1",
+      "title": "Daatsu (Makokamit) - Path of the Raccoon, Scout, 32",
+      "text": "[image: Daatsu’s character sheet (in sheets.json)]"
+     },
+     {
+      "id": "nh-notion-daatsu-2",
+      "title": "River’s Flow",
+      "text": "Activation: Secondary Action, 1 point of Mind\n\nDice Check: None With this Ability your Character may alter the way their own body behaves, down to the cellular level — it can change everything from heart rate to organ function to musculature. Activating this Ability costs a Secondary Action and 1 point of Mind. It may be used in or out of an Encounter. The Character may add one die to any roll involving a chosen Physical or Mental Stat for that Round (Strength, Agility, Endurance, Intelligence, Perception, Wisdom). This doesn't change their Stat nor does it affect Derived Stats, it simply adds one die to their Pool for that roll.\n\nIn addition, your Character can use this Ability to modify their physiology. There are a wide variety of uses for this but here are a few examples:\n\n- Instantly fall asleep, even when circumstances might make it normally difficult.\n- With a Primary Action, slow or stop blood flow in an area, canceling the Bleeding Effect.\n- As a Primary Action, accelerate the body’s healing process. The Character may gain one point of Body this way per day. They may use this function even if they are at zero Body.\n- As a Primary Action, slow pulse and breathing, allowing the Character to hold their breath for an extended time. Add Perception to Endurance Checks.\n- Mimic death. Add Endurance to Performance checks for mimicking death.\n- Control their involuntary muscles to manipulate their facial structure, making them harder to recognize. Add Will to Disguise Checks at Story Guide’s discretion.\n\nOther effects as determined or approved by the Story Guide.\n\nYour Character can only use River’s Flow for one effect at a time. If a Character is unable to focus or is otherwise distracted as determined by the Story Guide, they must make a Will Check to Activate this Ability\n\nLanguages known:\n\n- Chahi\n- Plains sign\n- Tribal language (Makokamit)"
+     }
+    ],
+    "about": [
+     "Daatsu"
+    ]
+   },
+   {
+    "id": "nh-notion-migatuka",
+    "title": "Migatuka — her Notion page, word for word",
+    "text": "",
+    "sections": [
+     {
+      "id": "nh-notion-migatuka-1",
+      "title": "Migatuka (Minak - Cahokia)",
+      "text": ""
+     }
+    ],
+    "about": [
+     "Migatuka"
+    ]
+   },
+   {
+    "id": "nh-notion-tika",
+    "title": "Tika — his Notion page, word for word",
+    "text": "",
+    "sections": [
+     {
+      "id": "nh-notion-tika-1",
+      "title": "Tika (Unlad)",
+      "text": "Left home with my older sister Yohipa as we had no family left there. Yohipa is responsible and solid while I am a bit less disciplined. She is running a restaurant that I used to work in.\n\nI am very good at gambling and games in general, often winning reasonably large sums of money only to push my luck until I lose it all again.\n\nI am not particularly strong or fast but I have trained as a martial artist. I am also quite passionate about cooking. My main passion however is a goal to create cybernetics that can replicate the gifts of the Adanadi for people who don't have it.\n\nBelongings:\n\nphysical/mental medicine - rank2\n\n[image: Tika’s character sheet (in sheets.json)]\n\n- swapped out my healing for skulduggery and performance. It seemed to fit better. I don't think I am above cheating, especially when I am getting desperate. Also card tricks and stuff seems to fit performance. I did this because I saw so many other people with healing as a part of their identity and wanted to let that be their thing.\n\nI also added some gear, staying with the guidelines based on wealth 3.\n\nIs it cool if we say he has cybernetic eyes, so his AR gear is actually a cybernetic implant? (it's out of his price range, but It doesn't confer any mechanical benefit afaik). Maybe he was born blind and it was provided by the government and he just tinkered with it to make it AR capable\n\nAlso he would actively by trying to make himself some advanced cybernetic limbs to improve his perceived physical weakness. He trained martial arts under a master, and while he picked up the techniques and the theory readily, he wasn't as strong or as fast as his peers. This is something he is sensitive about even though his actual loves were more intellectual.\n\nAs to your other questions:\n\n1. I think my sister (whom I removed as an actual gift to simplify things) was close to Grandmother Naadag. Maybe when we we came to Cahokia grandmother helped her start up her restaurant business. She asked grandmother to include me on the trip because she thought I needed something to do that would keep me out of gambling dens (or whatever the equivalent is here) and give me something to do. She told grandma I would be useful to the group to help keep them safe with my martial arts or something like that.\n\n2. While I love my sister I am trying to get out from under her heel a little bit. She is responsible and I want to be a little less restricted by that.\n\n3. I would be fine to leave that up to you. WHatever you think makes more sense. When I picked cybernetics for my character I read that it was distasteful to some and was ok with that.\n\n4. I think I am officially more of a support person but as mentioned my own goal is to get a bit more freedom while having the appearance of being more responsible. If Dine has some sort of info or research on cybernetics or Adanadi that would be a cool side mission to have. I am generally outgoing and friendly though so I like meeting new people and going on adventures too. On the other hand I am a bit more at home in an urban setting.\n\nYes, the cybernetic eyes are fine.\n\nI think Grandmother would have assisted your sister, in part out of sympathy for those coming from outside of the Free Lands (you're still from the Haudenosaunee originally, correct?)\n\nRegarding the support, you were not present when the others were tasked with a mission for Grandmother,\n\nhowever\n\nthey will be informed that you have been hired as an escort to assist; you'll be coordinating primarily with Daatsu (who is more navigation)."
+     }
+    ],
+    "about": [
+     "Tika"
     ]
    }
   ],
@@ -261,73 +567,90 @@
    {
     "id": "nh-pl-dine",
     "title": "The Diné Republic",
-    "text": "Grandmother's homeland and Sign's; where the box goes. A week and a half away with stops. [SET]"
+    "text": "Dinada. Grandmother's homeland, Soova's and Syn's. A week, a week and a half away with stops. National Council, kivas, clans. [SET]"
    },
    {
     "id": "nh-pl-oraibi",
     "title": "Oraibi",
-    "text": "The oldest town in the Diné Republic. Sign saw it in the Black on day 1, as it may have looked before the Awis: a pueblo, people in old clothes. [SET]"
+    "text": "The oldest town in the Diné Republic, and where Grandmother wants them to go; associated with the Ancients, to whom Grandmother was related. Syn saw it in the Black on day 1, as it may have looked before the Awis: a pueblo, people in old clothes. [SET — Notion; 1/A]"
    },
    {
     "id": "nh-pl-coyote-city",
     "title": "Coyote City",
-    "text": "Where Sign was investigating when the vision came. The prep note has Suva speaking with a cousin there. [YOURS] [OPEN]"
+    "text": "In the Diné Republic. Home of the Coyote crime lords, seven clans; Soova's family. Where Syn was investigating when the vision came. The prep note has Soova speaking with a cousin there. [SET] [OPEN]"
+   },
+   {
+    "id": "nh-pl-west",
+    "title": "The west coast",
+    "text": "In particular, the increase of old age has ossified politics; the insistence on unanimity is a repressive force for the status quo. [SET — Notion]"
+   },
+   {
+    "id": "nh-notion-makokamit",
+    "title": "The Makokamit — the Notion page, word for word",
+    "text": "",
+    "sections": [
+     {
+      "id": "nh-notion-makokamit-1",
+      "title": "Mahokamit",
+      "text": "The Makokamit\n\nThe Makokamit people live between Cahokia and the Paha and are primarily occupied with animal\n\nhusbandry, particularly buffalo, antelope, and turkey. The Makokamit have as close a relationship with their various animals as the Nahoonak have with their plants.\n\nThey are also notable cooks. Because of the necessity of managing large herds of animals, the\n\nMakokamit also excel in the production of personal transport vehicles. Theirs is the most rural of the Freelands city-states with the\n\nmost widely dispersed population.\n\nUnlike the other nations, they tend to spend brief rotations living in the city portion of their city\n\nstate. Their government would be considered democratic, but without an authority compelling compliance to group decisions as long as they don’t affect the whole.\n\nThe Makokamit are more male-dominated than most Freeland people, particularly compared to\n\ntheir neighbors the Paha. The Makokamit are also committed gamblers and considered the most oisterous of the Free Lands people. Although the Makokamit are considered somewhat coarse by their Paha neighbors, this is objectively an unfair characterization, as the Makokamit are keenly interested in fashion and personal ornamentation as well as music and\n\ndancing. The Makokamit are nothing if not flashy.\n\nAdditionally, what do you think of the possibility of possibly being related to another character (like a cousin)? Daatsu wouldn't know, and unless you insist, if you say yes I won't reveal who until it comes up in-game."
+     }
+    ]
    }
   ]
  },
  "threads": [
   {
    "id": "nh-t-box",
-   "title": "The box for the Diné Republic",
-   "text": "Grandmother's last request, given in a private meeting that was not recorded. What is in it, and whom it is for, is not written down anywhere. [OPEN]",
+   "title": "The box for Oraibi",
+   "text": "Grandmother's last request, given in a private meeting that was not recorded. What is in it, whom it is for, and why, is not written down anywhere. [OPEN]",
    "open": true
   },
   {
    "id": "nh-t-sign",
-   "title": "Sign will not wake",
-   "text": "\"She's going on something of a journey.\" Stable, shaking at intervals; Suva knows not to wake her. [YOURS — the prep note]",
+   "title": "Syn will not wake",
+   "text": "\"Going on something of a journey.\" Stable, shaking at intervals; Soova knows not to wake them. [YOURS — the prep note]",
    "open": true
   },
   {
    "id": "nh-t-gaps",
    "title": "What Grandmother left out",
-   "text": "The deliberate gaps in her early life; Sign's conviction that they concern the Black and something dangerous there. Who reached Sign through the Black with the family's name. [OPEN]",
+   "text": "The deliberate gaps in her early life; her relation to the Ancients in Oraibi; Syn's conviction that the gaps concern the Black and something dangerous there. Who reached Syn through the Black. [OPEN]",
    "open": true
   },
   {
    "id": "nh-t-protection",
-   "title": "Grandmother's protection, faltering",
-   "text": "Grandmother had been protecting Suva without her knowing; with Grandmother dead it has faltered. How is Suva found out, and what do they want? Crime families. [YOURS — the prep note] [OPEN]",
+   "title": "Soova's past comes back",
+   "text": "Grandmother had been protecting Soova without her knowing; with Grandmother dead it has faltered. How is Soova found out, and what do they want? The Coyote crime lords. Why is sending Soova meant as a pardon? [YOURS — the prep note; Notion] [OPEN]",
    "open": true
   },
   {
    "id": "nh-t-closet",
-   "title": "Wasawi in the closet",
-   "text": "Suva and Wasawi's secret; Suva is upset with her. [SET]",
+   "title": "Wazawi in the closet",
+   "text": "Soova and Wazawi's secret; Soova is upset with her. [SET]",
    "open": true
   },
   {
    "id": "nh-t-addiction",
-   "title": "Makatooka's addiction",
-   "text": "No regular access to kalera on the road; withdrawal is coming. The day-5 vision; the oracle (see the note on Makatooka). [YOURS] [OPEN]",
+   "title": "Migatuka's addiction",
+   "text": "No regular access to kelera on the road; withdrawal is coming. The day-5 vision; the oracle (see the note on Migatuka). [YOURS] [OPEN]",
    "open": true
   },
   {
    "id": "nh-t-zibizin",
-   "title": "Zibizin and Suva's daughter",
-   "text": "Missing seven years, gone exploring; the family keeps it quiet. What became of them. [OPEN]",
+   "title": "What happened to Zibizin",
+   "text": "Missing seven years, gone exploring. A spy in Dinada? Taken in lieu of Soova? Taken by the Suyata? [OPEN]",
    "open": true
   },
   {
    "id": "nh-t-stowaway",
    "title": "The stowaway",
-   "text": "Planned: about two days out they find a stowaway, a five-year-old. Do they go back? Try to pass the child on? [YOURS — the prep note]",
+   "text": "A couple of days in they find a stowaway: a seven-year-old, mute, autistic. (The recorded prep note said five.) Do they go back? Try to pass the child on? [YOURS — Notion]",
    "open": true
   },
   {
    "id": "nh-t-tika",
    "title": "Tika's debts and dreams",
-   "text": "Yohipa owes him; he owes nobody yet. Gambling. Choyan as a contact. The cybernetic Adanadi. [SET]",
+   "text": "Yohipa owes him; he owes nobody yet. Gambling. Choyan as a contact. Cybernetics with the Adanadi; what the Diné Republic knows of it. [SET]",
    "open": true
   },
   {
@@ -338,14 +661,20 @@
   },
   {
    "id": "nh-t-hospital",
-   "title": "Makatooka's hospital",
+   "title": "Migatuka's hospital",
    "text": "On leave of absence; the colleague expects she may never be back. [SET]",
    "open": true
   },
   {
    "id": "nh-t-case",
-   "title": "Sign's case in Coyote City",
-   "text": "The wrong done to a poor man that Sign dropped when the vision came, and the deeper thing she found under it. [OPEN]",
+   "title": "Syn's case in Coyote City",
+   "text": "The wrong done to a poor man that Syn dropped when the vision came, and the deeper thing they found under it. [OPEN]",
+   "open": true
+  },
+  {
+   "id": "nh-t-ideas",
+   "title": "Ideas on the shelf",
+   "text": "From the Notion page, not yet used. [YOURS]\n\n- Prevent hostilities from breaking out (what is going on? Why?)\n- A physical Henge, a spiritual Wards of Paraa?\n- A spirit of the Black that manifests in a way that interferes with the equipment.\n- Kayazan (the Purple Cancer), the book's page 398.\n- Gichigami (the lake).\n- Naasii as a gambling game: an adversary with the Addiction (gambling) Burden wagers the evidence against the party against one of the PCs surrendering (the house rules are in Rules).",
    "open": true
   }
  ],
@@ -353,62 +682,62 @@
   {
    "id": "nh-s1-arrival",
    "title": "Arrival",
-   "text": "Suva asked to attend Grandmother; Datsu called in from the herds; Sign's vision and the ride; Sign alone in Cahokia; Oraibi in the Black; Suva and Makatooka; Sign meets Grandmother (\"I have a gift for you, but it will need to wait\"). Chapter 1.",
-   "session": "Session 1",
+   "text": "Soova asked to attend Grandmother; Daatsu called in from the herds; Syn's vision and the ride; Syn alone in Cahokia; Oraibi in the Black; Soova and Migatuka; Syn meets Grandmother (\"I have a gift for you, but it will need to wait\"). Chapter 1.",
+   "session": "1/A Good Death · 10 March 2023",
    "played": true,
    "beats": []
   },
   {
    "id": "nh-s2-day2",
    "title": "The second day",
-   "text": "Ninosh and Datsu; Makatooka and her colleague; Wasawi's night in the forest; Sign and the uncles' dice; Suva's preparations.",
-   "session": "Session 2",
+   "text": "Ninosh and Daatsu; Migatuka and her colleague; Wazawi's night in the forest; Syn and the uncles' dice; Soova's preparations.",
+   "session": "1/B Good Death · 7 April 2023",
    "played": true,
    "beats": []
   },
   {
    "id": "nh-s2-day3",
    "title": "The third day",
-   "text": "The long tables, the Council of Twelve, Suva's story; the gifts — Sign's necklace, Makatooka's blanket, Suva's jewellery; the feast.",
-   "session": "Session 2",
+   "text": "The long tables, the Council of Twelve, Soova's story; the gifts — Syn's necklace, Migatuka's blanket, Soova's jewellery; the feast.",
+   "session": "1/B Good Death · 7 April 2023",
    "played": true,
    "beats": []
   },
   {
    "id": "nh-s2-day4",
    "title": "The fourth day",
-   "text": "The life told with its gaps; Sign's reading of them; the speeches. Then the private meeting and the box (not recorded). Chapter 2.",
-   "session": "Session 2",
+   "text": "The life told with its gaps; Syn's reading of them; the speeches. Then the private meeting and the box for Oraibi (not recorded). Chapter 2.",
+   "session": "1/B Good Death · 7 April 2023",
    "played": true,
    "beats": []
   },
   {
    "id": "nh-s3-death",
    "title": "The fifth to the seventh days",
-   "text": "Tika's first days (Choyan, the dice game, the job). Makatooka's doubled tea. Suva's two days with Grandmother; Wasawi in the closet; Tika sparring at dawn; the death.",
-   "session": "Session 3",
+   "text": "Tika's first days (Choyan, the dice game). Migatuka's doubled tea. Soova's two days with Grandmother; Wazawi in the closet; Tika sparring at dawn; the death. Grandmother tells Soova she knew (Notion).",
+   "session": "1/C Good Death · 5 May 2023",
    "played": true,
    "beats": []
   },
   {
    "id": "nh-s3-leaving",
    "title": "The eighth to the tenth days",
-   "text": "The viewing and the burial; packing, the barge west, Tika meets Datsu; the credit for the trip; Sign will not wake. Chapter 3. Next session was set for Friday the 19th.",
-   "session": "Session 3",
+   "text": "The viewing and the burial; packing, the barge west, Tika meets Daatsu; the credit for the trip; Syn will not wake. Chapter 3.",
+   "session": "1/C Good Death · 5 May 2023",
    "played": true,
    "beats": []
   },
   {
    "id": "nh-n-leaving",
    "title": "Leaving Cahokia",
-   "text": "Day 11, morning. The barge west with Sign aboard and asleep. [YOURS — the prep note]",
-   "session": "Next",
-   "played": false,
+   "text": "Played; not recorded. What the Story Guide prepared for it: day 11, morning, the barge west with Syn aboard and asleep. [YOURS — the prep note; Notion]",
+   "session": "2/A Stabbing Westward · 19 May 2023",
+   "played": true,
    "beats": [
     {
      "id": "nh-n-leaving-1",
-     "title": "Suva and Wasawi",
-     "text": "Suva is still upset with her; their secret.",
+     "title": "Soova and Wazawi",
+     "text": "Soova is still upset with her; their secret.",
      "kind": "note"
     },
     {
@@ -421,55 +750,187 @@
   },
   {
    "id": "nh-n-stowaway",
-   "title": "Two days out",
-   "text": "They find a stowaway, a five-year-old. Go back or not? Pass the child off somehow? [YOURS — the prep note]",
-   "session": "Next",
-   "played": false,
+   "title": "A couple of days in",
+   "text": "Prepared: they find a stowaway, a seven-year-old, mute, autistic. Go back or not? Pass the child off somehow? [YOURS — Notion]",
+   "session": "2/A Stabbing Westward · 19 May 2023",
+   "played": true,
    "beats": [
     {
      "id": "nh-n-stowaway-1",
-     "title": "Makatooka",
+     "title": "Migatuka",
      "text": "Withdrawal, and how soon. The oracle: she must use deception so the others don't work out what it is.",
      "kind": "note"
     },
     {
      "id": "nh-n-stowaway-2",
      "title": "Tika's side job",
-     "text": "Make sure Suva speaks with her cousin in Coyote City. [OPEN]",
+     "text": "Make sure Soova speaks with her cousin in Coyote City. [OPEN]",
      "kind": "note"
     }
    ]
+  },
+  {
+   "id": "nh-n-nakatoo",
+   "title": "Nakatoo Boys",
+   "text": "Played; not recorded, and no notes. [OPEN]",
+   "session": "2/B Nakatoo Boys · 16 June 2023",
+   "played": true,
+   "beats": []
+  },
+  {
+   "id": "nh-n-interrupted",
+   "title": "Interrupted",
+   "text": "Played, and interrupted; not recorded, and no notes. [OPEN]",
+   "session": "2/C Coyote & Crow [interrupted] · 30 June 2023",
+   "played": true,
+   "beats": []
   }
  ],
  "party": [
   {
-   "id": "nh-member-suva",
+   "id": "nh-member-soova",
    "templateId": "#cnc5Character000001",
-   "name": "Suva",
+   "name": "Soova",
    "source": {
     "kind": "saga",
-    "id": "campaign/docs/party/suva.md"
+    "id": "campaign/source/sheets.json#Soova"
    },
    "character": {
-    "Name": "Suva",
+    "Name": "Soova",
     "Age": "62",
     "Archetype": "Healer",
-    "Path": "Path of the Snake",
-    "Motivation": "Family"
+    "Path": "Snake",
+    "Motivation": "Family",
+    "Background": "Family died in a fire in late teens leaving her on her own, she met her partner moving in with their family and is known as a trauma/death healer",
+    "Stat Line": {
+     "Strength": "2",
+     "Agility": "2",
+     "Endurance": "3",
+     "Intelligence": "2",
+     "Perception": "3",
+     "Wisdom": "3",
+     "Spirit": "5",
+     "Charisma": "3",
+     "Will": "4",
+     "Body": "7",
+     "Mind": "8",
+     "Soul": "12"
+    },
+    "Skills": [
+     {
+      "Skill": "Ceremony",
+      "Rank": 3
+     },
+     {
+      "Skill": "Charm",
+      "Rank": 2
+     },
+     {
+      "Skill": "Coercion",
+      "Rank": 2
+     },
+     {
+      "Skill": "Cooking",
+      "Rank": 3
+     },
+     {
+      "Skill": "Cybernetics",
+      "Rank": 1
+     },
+     {
+      "Skill": "Deception",
+      "Rank": 2
+     },
+     {
+      "Skill": "Herbalism",
+      "Rank": 2
+     },
+     {
+      "Skill": "Medicine",
+      "Rank": 2,
+      "Specialization": "Spiritual Medicine",
+      "Specialization Rank": 4
+     },
+     {
+      "Skill": "Skulduggery",
+      "Rank": 1
+     },
+     {
+      "Skill": "Stealth",
+      "Rank": 2
+     },
+     {
+      "Skill": "Survival",
+      "Rank": 1
+     },
+     {
+      "Skill": "Tracking",
+      "Rank": 1
+     },
+     {
+      "Skill": "Unarmed Combat",
+      "Rank": 1
+     }
+    ],
+    "Abilities": [
+     "Walk the Black"
+    ],
+    "Gifts and Burdens": [
+     {
+      "Taken As": "Gift",
+      "Kind": "Spirit World Connection",
+      "Name": "Spirit Connection",
+      "Level": 3
+     },
+     {
+      "Taken As": "Gift",
+      "Kind": "Notoriety",
+      "Name": "Noteriety",
+      "Level": 1
+     },
+     {
+      "Taken As": "Gift",
+      "Kind": "Family",
+      "Name": "Family",
+      "Level": 2
+     },
+     {
+      "Taken As": "Gift",
+      "Kind": "Financial",
+      "Name": "Wealth",
+      "Level": 1
+     },
+     {
+      "Taken As": "Burden",
+      "Kind": "Companions",
+      "Name": "Companion Granddaughter",
+      "Level": 2
+     },
+     {
+      "Taken As": "Burden",
+      "Kind": "Family",
+      "Name": "Family",
+      "Level": 2
+     }
+    ]
    },
-   "live": {},
+   "live": {
+    "body": 7,
+    "mind": 8,
+    "soul": 12
+   },
    "notes": ""
   },
   {
-   "id": "nh-member-sign",
+   "id": "nh-member-syn",
    "templateId": "#cnc5Character000001",
-   "name": "Sign",
+   "name": "Syn",
    "source": {
     "kind": "saga",
-    "id": "campaign/docs/party/sign.md"
+    "id": "campaign/docs/party/syn.md"
    },
    "character": {
-    "Name": "Sign",
+    "Name": "Syn",
     "Age": "42",
     "Archetype": "Seeker",
     "Path": "Path of the Beaver",
@@ -480,33 +941,120 @@
    "notes": ""
   },
   {
-   "id": "nh-member-datsu",
+   "id": "nh-member-daatsu",
    "templateId": "#cnc5Character000001",
-   "name": "Datsu",
+   "name": "Daatsu",
    "source": {
     "kind": "saga",
-    "id": "campaign/docs/party/datsu.md"
+    "id": "campaign/source/sheets.json#Daatsu"
    },
    "character": {
-    "Name": "Datsu",
+    "Name": "Daatsu",
     "Age": "32",
     "Archetype": "Scout",
-    "Path": "Path of the Raccoon",
-    "Motivation": "Independence"
+    "Path": "Raccoon",
+    "Motivation": "Independence",
+    "Other Identifiers": "Male",
+    "Initiative": "10",
+    "Stat Line": {
+     "Strength": "3",
+     "Agility": "4",
+     "Endurance": "3",
+     "Intelligence": "4",
+     "Perception": "3",
+     "Wisdom": "3",
+     "Spirit": "2",
+     "Charisma": "3",
+     "Will": "2",
+     "Physical Defense": "7",
+     "Mental Defense": "6",
+     "Spiritual Defense": "5",
+     "Body": "10",
+     "Mind": "10",
+     "Soul": "7"
+    },
+    "Skills": [
+     {
+      "Skill": "Athletics",
+      "Rank": 2
+     },
+     {
+      "Skill": "Charm",
+      "Rank": 1
+     },
+     {
+      "Skill": "Deception",
+      "Rank": 1
+     },
+     {
+      "Skill": "Farming",
+      "Rank": 3
+     },
+     {
+      "Skill": "Herbalism",
+      "Rank": 3
+     },
+     {
+      "Skill": "Investigation",
+      "Rank": 2
+     },
+     {
+      "Skill": "Medicine",
+      "Rank": 3
+     },
+     {
+      "Skill": "Piloting",
+      "Rank": 1
+     },
+     {
+      "Skill": "Ranged Weapons",
+      "Rank": 2
+     },
+     {
+      "Skill": "Survival",
+      "Rank": 3
+     },
+     {
+      "Skill": "Tracking",
+      "Rank": 3
+     }
+    ],
+    "Abilities": [
+     "Rivers Flow"
+    ],
+    "Gifts and Burdens": [
+     {
+      "Taken As": "Gift",
+      "Kind": "Animal Connection",
+      "Name": "Animal Connection",
+      "Level": 2
+     },
+     {
+      "Taken As": "Burden",
+      "Kind": "Spirit World Connection",
+      "Name": "Spirit World Connection",
+      "Level": 1
+     }
+    ],
+    "Notes": "Gifts and Burdens as the sheet prints them: Gifts: Animal Connection +2 / Burden: Spirit World Connection -1"
    },
-   "live": {},
+   "live": {
+    "body": 10,
+    "mind": 10,
+    "soul": 7
+   },
    "notes": ""
   },
   {
-   "id": "nh-member-makatooka",
+   "id": "nh-member-migatuka",
    "templateId": "#cnc5Character000001",
-   "name": "Makatooka",
+   "name": "Migatuka",
    "source": {
     "kind": "saga",
-    "id": "campaign/docs/party/makatooka.md"
+    "id": "campaign/docs/party/migatuka.md"
    },
    "character": {
-    "Name": "Makatooka",
+    "Name": "Migatuka",
     "Age": "28",
     "Archetype": "Healer",
     "Motivation": "Altruism"
@@ -520,16 +1068,241 @@
    "name": "Tika",
    "source": {
     "kind": "saga",
-    "id": "campaign/docs/party/tika.md"
+    "id": "campaign/source/sheets.json#Tika"
    },
    "character": {
     "Name": "Tika",
     "Age": "19",
-    "Archetype": "Tinkerer",
-    "Path": "Path of the Raccoon",
-    "Nation": "Haudenosaunee Confederacy"
+    "Archetype": "Tinker",
+    "Path": "Raccoon",
+    "Motivation": "Wealth",
+    "Stat Line": {
+     "Strength": "2",
+     "Agility": "2",
+     "Endurance": "3",
+     "Intelligence": "5",
+     "Perception": "4",
+     "Wisdom": "3",
+     "Spirit": "3",
+     "Charisma": "5",
+     "Will": "2",
+     "Physical Defense": "4",
+     "Mental Defense": "7",
+     "Spiritual Defense": "5",
+     "Body": "7",
+     "Mind": "12",
+     "Soul": "10"
+    },
+    "Skills": [
+     {
+      "Skill": "Athletics",
+      "Rank": 1
+     },
+     {
+      "Skill": "Charm",
+      "Rank": 2
+     },
+     {
+      "Skill": "Computers",
+      "Rank": 1,
+      "Specialization": "hacking/programming",
+      "Specialization Rank": 2
+     },
+     {
+      "Skill": "Cooking",
+      "Rank": 1,
+      "Specialization": "recipes from home region",
+      "Specialization Rank": 3
+     },
+     {
+      "Skill": "Crafting",
+      "Rank": 1,
+      "Specialization": "cybernetics/drones",
+      "Specialization Rank": 2
+     },
+     {
+      "Skill": "Cybernetics",
+      "Rank": 2
+     },
+     {
+      "Skill": "Deception",
+      "Rank": 2
+     },
+     {
+      "Skill": "Husbandry",
+      "Rank": 1
+     },
+     {
+      "Skill": "Investigation",
+      "Rank": 1
+     },
+     {
+      "Skill": "Knowledge",
+      "Rank": 1,
+      "Specialization": "games/game theory",
+      "Specialization Rank": 2
+     },
+     {
+      "Skill": "Language",
+      "Rank": 1
+     },
+     {
+      "Skill": "Medicine",
+      "Rank": 2
+     },
+     {
+      "Skill": "Piloting",
+      "Rank": 1,
+      "Specialization": "drones",
+      "Specialization Rank": 2
+     },
+     {
+      "Skill": "Ranged Weapons",
+      "Rank": 2
+     },
+     {
+      "Skill": "Science",
+      "Rank": 1,
+      "Specialization": "Adanadi",
+      "Specialization Rank": 2
+     },
+     {
+      "Skill": "Skulduggery",
+      "Rank": 1
+     },
+     {
+      "Skill": "Unarmed Combat",
+      "Rank": 1,
+      "Specialization": "martial arts",
+      "Specialization Rank": 3
+     }
+    ],
+    "Abilities": [
+     "mountain's inspiration"
+    ],
+    "Gifts and Burdens": [
+     {
+      "Taken As": "Gift",
+      "Kind": "Family",
+      "Name": "Family (sister)",
+      "Level": 1
+     },
+     {
+      "Taken As": "Burden",
+      "Kind": "Financial",
+      "Name": "Financial (gambled it away)",
+      "Level": 2
+     },
+     {
+      "Taken As": "Burden",
+      "Kind": "Spirit World Connection",
+      "Name": "Spirit (don't believe in it)",
+      "Level": 3
+     },
+     {
+      "Taken As": "Burden",
+      "Kind": "Addiction",
+      "Name": "Addict (gambling)",
+      "Level": 2
+     }
+    ],
+    "Notes": "Gifts and Burdens as the sheet prints them: Family G1 (sister), Financial B2 (gambled it away) / Spirit B3 (don't believe in it), Addict B2 (gambling)"
    },
-   "live": {},
+   "live": {
+    "body": 7,
+    "mind": 12,
+    "soul": 10
+   },
+   "notes": ""
+  },
+  {
+   "id": "nh-member-wazawi",
+   "templateId": "#cnc5Character000001",
+   "name": "Wazawi",
+   "source": {
+    "kind": "saga",
+    "id": "campaign/source/sheets.json#Wazawi"
+   },
+   "character": {
+    "Name": "Wazawi",
+    "Age": "14",
+    "Archetype": "Scout",
+    "Path": "Fox",
+    "Motivation": "Curiosity",
+    "Background": "Granddaughter and Companion to Soova. Recently choose path",
+    "Stat Line": {
+     "Strength": "2",
+     "Agility": "4",
+     "Endurance": "3",
+     "Intelligence": "3",
+     "Perception": "3",
+     "Wisdom": "2",
+     "Spirit": "4",
+     "Charisma": "2",
+     "Will": "3",
+     "Body": "9",
+     "Mind": "8",
+     "Soul": "9"
+    },
+    "Skills": [
+     {
+      "Skill": "Ceremony",
+      "Rank": 1
+     },
+     {
+      "Skill": "Cooking",
+      "Rank": 2
+     },
+     {
+      "Skill": "Cybernetics",
+      "Rank": 4
+     },
+     {
+      "Skill": "Farming",
+      "Rank": 2
+     },
+     {
+      "Skill": "Herbalism",
+      "Rank": 1
+     },
+     {
+      "Skill": "Medicine",
+      "Rank": 2
+     },
+     {
+      "Skill": "Ranged Weapons",
+      "Rank": 1
+     },
+     {
+      "Skill": "Science",
+      "Rank": 3
+     },
+     {
+      "Skill": "Stealth",
+      "Rank": 2
+     }
+    ],
+    "Gifts and Burdens": [
+     {
+      "Taken As": "Burden",
+      "Kind": "Companions",
+      "Name": "Companion",
+      "Level": 2
+     },
+     {
+      "Taken As": "Gift",
+      "Kind": "Family",
+      "Name": "Family",
+      "Level": 3
+     }
+    ],
+    "Notes": "Gifts and Burdens as the sheet prints them: Burden - Companion - 2 / Gift: Family - 3"
+   },
+   "live": {
+    "body": 9,
+    "mind": 8,
+    "soul": 9
+   },
    "notes": ""
   }
  ]

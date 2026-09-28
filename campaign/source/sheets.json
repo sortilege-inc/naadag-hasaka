@@ -1,0 +1,1002 @@
+{
+ "note": "Transcribed by hand from the character-sheet images in the owner's Notion export (2026-09-28), as printed: typos kept; a blank field is \"\" and an unranked Skill has rank 0. Checked by check_sheets.py.",
+ "sheets": [
+  {
+   "name": "Soova",
+   "source": "the Notion export, Soova’s page, image 1",
+   "Age": "62",
+   "Archetype": "Healer",
+   "Path": "Snake",
+   "Motivation": "Family",
+   "Other Identifiers": "",
+   "Background": "Family died in a fire in late teens leaving her on her own, she met her partner moving in with their family and is known as a trauma/death healer",
+   "Gifts and Burdens (printed)": [
+    "Gifts: Spirit Connection - 3, Noteriety - 1, Family - 2, Wealth - 1",
+    "Burdens: Secert - 2, Companion Granddaughter - 2, Family - 2"
+   ],
+   "held": [
+    {
+     "Taken As": "Gift",
+     "Kind": "Spirit World Connection",
+     "Name": "Spirit Connection",
+     "Level": 3
+    },
+    {
+     "Taken As": "Gift",
+     "Kind": "Notoriety",
+     "Name": "Noteriety",
+     "Level": 1
+    },
+    {
+     "Taken As": "Gift",
+     "Kind": "Family",
+     "Name": "Family",
+     "Level": 2
+    },
+    {
+     "Taken As": "Gift",
+     "Kind": "Financial",
+     "Name": "Wealth",
+     "Level": 1
+    },
+    {
+     "Taken As": "Burden",
+     "Kind": "Secrets",
+     "Name": "Secert",
+     "Level": 2
+    },
+    {
+     "Taken As": "Burden",
+     "Kind": "Companions",
+     "Name": "Companion Granddaughter",
+     "Level": 2
+    },
+    {
+     "Taken As": "Burden",
+     "Kind": "Family",
+     "Name": "Family",
+     "Level": 2
+    }
+   ],
+   "stats": {
+    "Strength": 2,
+    "Agility": 2,
+    "Endurance": 3,
+    "Intelligence": 2,
+    "Perception": 3,
+    "Wisdom": 3,
+    "Spirit": 5,
+    "Charisma": 3,
+    "Will": 4
+   },
+   "derived": {
+    "Physical Defense": "",
+    "Mental Defense": "",
+    "Spiritual Defense": "",
+    "Body": "7",
+    "Mind": "8",
+    "Soul": "12"
+   },
+   "Initiative": "",
+   "Legendary Ranks": "",
+   "Abilities": [
+    "Walk the Black"
+   ],
+   "skills": [
+    {
+     "skill": "Art",
+     "stat": 4,
+     "rank": 0,
+     "total": 4
+    },
+    {
+     "skill": "Athletics",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Ceremony",
+     "stat": 5,
+     "rank": 3,
+     "total": 8
+    },
+    {
+     "skill": "Charm",
+     "stat": 3,
+     "rank": 2,
+     "total": 5
+    },
+    {
+     "skill": "Coercion",
+     "stat": 5,
+     "rank": 2,
+     "total": 7
+    },
+    {
+     "skill": "Computers",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Cooking",
+     "stat": 5,
+     "rank": 3,
+     "total": 8
+    },
+    {
+     "skill": "Crafting",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Cybernetics",
+     "stat": 3,
+     "rank": 1,
+     "total": 4
+    },
+    {
+     "skill": "Deception",
+     "stat": 4,
+     "rank": 2,
+     "total": 6
+    },
+    {
+     "skill": "Farming",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Herbalism",
+     "stat": 3,
+     "rank": 2,
+     "total": 5
+    },
+    {
+     "skill": "Husbandry",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Investigation",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Knowledge",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Language",
+     "stat": 3,
+     "rank": 0,
+     "total": 0
+    },
+    {
+     "skill": "Medicine",
+     "stat": 3,
+     "rank": 2,
+     "total": 5
+    },
+    {
+     "skill": "Melee Weapons",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Music",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Performance",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Piloting",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Ranged Weapons",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Science",
+     "stat": 2,
+     "rank": 0,
+     "total": 0
+    },
+    {
+     "skill": "Skulduggery",
+     "stat": 3,
+     "rank": 1,
+     "total": 4
+    },
+    {
+     "skill": "Stealth",
+     "stat": 4,
+     "rank": 2,
+     "total": 6
+    },
+    {
+     "skill": "Survival",
+     "stat": 3,
+     "rank": 1,
+     "total": 4
+    },
+    {
+     "skill": "Tracking",
+     "stat": 3,
+     "rank": 1,
+     "total": 4
+    },
+    {
+     "skill": "Unarmed Combat",
+     "stat": 2,
+     "rank": 1,
+     "total": 3
+    }
+   ],
+   "specialized": [
+    {
+     "name": "Spiritual Medicine",
+     "base": "Medicine",
+     "stat": 3,
+     "rank": 4,
+     "total": 7
+    },
+    {
+     "name": "The Long Con",
+     "base": "Deception",
+     "stat": 4,
+     "rank": 3,
+     "total": 7
+    }
+   ]
+  },
+  {
+   "name": "Daatsu",
+   "source": "the Notion export, Daatsu’s page",
+   "Age": "32",
+   "Archetype": "Scout",
+   "Path": "Raccoon",
+   "Motivation": "Independence",
+   "Other Identifiers": "Male",
+   "Background": "",
+   "Gifts and Burdens (printed)": [
+    "Gifts: Animal Connection +2",
+    "Burden: Spirit World Connection -1"
+   ],
+   "held": [
+    {
+     "Taken As": "Gift",
+     "Kind": "Animal Connection",
+     "Name": "Animal Connection",
+     "Level": 2
+    },
+    {
+     "Taken As": "Burden",
+     "Kind": "Spirit World Connection",
+     "Name": "Spirit World Connection",
+     "Level": 1
+    }
+   ],
+   "stats": {
+    "Strength": 3,
+    "Agility": 4,
+    "Endurance": 3,
+    "Intelligence": 4,
+    "Perception": 3,
+    "Wisdom": 3,
+    "Spirit": 2,
+    "Charisma": 3,
+    "Will": 2
+   },
+   "derived": {
+    "Physical Defense": "7",
+    "Mental Defense": "6",
+    "Spiritual Defense": "5",
+    "Body": "10",
+    "Mind": "10",
+    "Soul": "7"
+   },
+   "Initiative": "10",
+   "Legendary Ranks": "",
+   "Abilities": [
+    "Rivers Flow"
+   ],
+   "skills": [
+    {
+     "skill": "Art",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Athletics",
+     "stat": 3,
+     "rank": 2,
+     "total": 5
+    },
+    {
+     "skill": "Ceremony",
+     "stat": 2,
+     "rank": 0,
+     "total": 0
+    },
+    {
+     "skill": "Charm",
+     "stat": 3,
+     "rank": 1,
+     "total": 4
+    },
+    {
+     "skill": "Coercion",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Computers",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Cooking",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Crafting",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Cybernetics",
+     "stat": 3,
+     "rank": 0,
+     "total": 0
+    },
+    {
+     "skill": "Deception",
+     "stat": 3,
+     "rank": 1,
+     "total": 4
+    },
+    {
+     "skill": "Farming",
+     "stat": 4,
+     "rank": 3,
+     "total": 7
+    },
+    {
+     "skill": "Herbalism",
+     "stat": 3,
+     "rank": 3,
+     "total": 6
+    },
+    {
+     "skill": "Husbandry",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Investigation",
+     "stat": 3,
+     "rank": 2,
+     "total": 5
+    },
+    {
+     "skill": "Knowledge",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Language",
+     "stat": 2,
+     "rank": 0,
+     "total": 0
+    },
+    {
+     "skill": "Medicine",
+     "stat": 4,
+     "rank": 3,
+     "total": 7
+    },
+    {
+     "skill": "Melee Weapons",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Music",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Performance",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Piloting",
+     "stat": 4,
+     "rank": 1,
+     "total": 5
+    },
+    {
+     "skill": "Ranged Weapons",
+     "stat": 4,
+     "rank": 2,
+     "total": 6
+    },
+    {
+     "skill": "Science",
+     "stat": 3,
+     "rank": 0,
+     "total": 0
+    },
+    {
+     "skill": "Skulduggery",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Stealth",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Survival",
+     "stat": 3,
+     "rank": 3,
+     "total": 6
+    },
+    {
+     "skill": "Tracking",
+     "stat": 3,
+     "rank": 3,
+     "total": 6
+    },
+    {
+     "skill": "Unarmed Combat",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    }
+   ],
+   "specialized": []
+  },
+  {
+   "name": "Tika",
+   "source": "the Notion export, Tika’s page",
+   "Age": "19",
+   "Archetype": "Tinker",
+   "Path": "Raccoon",
+   "Motivation": "Wealth",
+   "Other Identifiers": "",
+   "Background": "",
+   "Gifts and Burdens (printed)": [
+    "Family G1 (sister), Financial B2 (gambled it away)",
+    "Spirit B3 (don't believe in it), Addict B2 (gambling)"
+   ],
+   "held": [
+    {
+     "Taken As": "Gift",
+     "Kind": "Family",
+     "Name": "Family (sister)",
+     "Level": 1
+    },
+    {
+     "Taken As": "Burden",
+     "Kind": "Financial",
+     "Name": "Financial (gambled it away)",
+     "Level": 2
+    },
+    {
+     "Taken As": "Burden",
+     "Kind": "Spirit World Connection",
+     "Name": "Spirit (don't believe in it)",
+     "Level": 3
+    },
+    {
+     "Taken As": "Burden",
+     "Kind": "Addiction",
+     "Name": "Addict (gambling)",
+     "Level": 2
+    }
+   ],
+   "stats": {
+    "Strength": 2,
+    "Agility": 2,
+    "Endurance": 3,
+    "Intelligence": 5,
+    "Perception": 4,
+    "Wisdom": 3,
+    "Spirit": 3,
+    "Charisma": 5,
+    "Will": 2
+   },
+   "derived": {
+    "Physical Defense": "4",
+    "Mental Defense": "7",
+    "Spiritual Defense": "5",
+    "Body": "7",
+    "Mind": "12",
+    "Soul": "10"
+   },
+   "Initiative": "",
+   "Legendary Ranks": "",
+   "Abilities": [
+    "mountain's inspiration"
+   ],
+   "skills": [
+    {
+     "skill": "Art",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Athletics",
+     "stat": 3,
+     "rank": 1,
+     "total": 4
+    },
+    {
+     "skill": "Ceremony",
+     "stat": 3,
+     "rank": 0,
+     "total": 0
+    },
+    {
+     "skill": "Charm",
+     "stat": 5,
+     "rank": 2,
+     "total": 7
+    },
+    {
+     "skill": "Coercion",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Computers",
+     "stat": 5,
+     "rank": 1,
+     "total": 6
+    },
+    {
+     "skill": "Cooking",
+     "stat": 5,
+     "rank": 1,
+     "total": 6
+    },
+    {
+     "skill": "Crafting",
+     "stat": 4,
+     "rank": 1,
+     "total": 5
+    },
+    {
+     "skill": "Cybernetics",
+     "stat": 5,
+     "rank": 2,
+     "total": 7
+    },
+    {
+     "skill": "Deception",
+     "stat": 5,
+     "rank": 2,
+     "total": 7
+    },
+    {
+     "skill": "Farming",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Herbalism",
+     "stat": 3,
+     "rank": 0,
+     "total": 0
+    },
+    {
+     "skill": "Husbandry",
+     "stat": 5,
+     "rank": 1,
+     "total": 6
+    },
+    {
+     "skill": "Investigation",
+     "stat": 4,
+     "rank": 1,
+     "total": 5
+    },
+    {
+     "skill": "Knowledge",
+     "stat": 5,
+     "rank": 1,
+     "total": 6
+    },
+    {
+     "skill": "Language",
+     "stat": 4,
+     "rank": 1,
+     "total": 5
+    },
+    {
+     "skill": "Medicine",
+     "stat": 5,
+     "rank": 2,
+     "total": 7
+    },
+    {
+     "skill": "Melee Weapons",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Music",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Performance",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Piloting",
+     "stat": 5,
+     "rank": 1,
+     "total": 6
+    },
+    {
+     "skill": "Ranged Weapons",
+     "stat": 4,
+     "rank": 2,
+     "total": 6
+    },
+    {
+     "skill": "Science",
+     "stat": 5,
+     "rank": 1,
+     "total": 6
+    },
+    {
+     "skill": "Skulduggery",
+     "stat": 5,
+     "rank": 1,
+     "total": 6
+    },
+    {
+     "skill": "Stealth",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Survival",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Tracking",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Unarmed Combat",
+     "stat": 5,
+     "rank": 1,
+     "total": 6
+    }
+   ],
+   "specialized": [
+    {
+     "name": "hacking/programming",
+     "base": "Computers",
+     "stat": 5,
+     "rank": 2,
+     "total": 7
+    },
+    {
+     "name": "recipes from home region",
+     "base": "Cooking",
+     "stat": 5,
+     "rank": 3,
+     "total": 8
+    },
+    {
+     "name": "drones",
+     "base": "Piloting",
+     "stat": 5,
+     "rank": 2,
+     "total": 7
+    },
+    {
+     "name": "Adanadi",
+     "base": "Science",
+     "stat": 5,
+     "rank": 2,
+     "total": 7
+    },
+    {
+     "name": "martial arts",
+     "base": "Unarmed Combat",
+     "stat": 5,
+     "rank": 3,
+     "total": 8
+    },
+    {
+     "name": "cybernetics/drones",
+     "base": "Crafting",
+     "stat": 4,
+     "rank": 2,
+     "total": 6
+    },
+    {
+     "name": "games/game theory",
+     "base": "Knowledge",
+     "stat": 5,
+     "rank": 2,
+     "total": 7
+    }
+   ]
+  },
+  {
+   "name": "Wazawi",
+   "source": "the Notion export, Soova’s page, image 5",
+   "Age": "14",
+   "Archetype": "Scout",
+   "Path": "Fox",
+   "Motivation": "Curiosity",
+   "Other Identifiers": "",
+   "Background": "Granddaughter and Companion to Soova. Recently choose path",
+   "Gifts and Burdens (printed)": [
+    "Burden - Companion - 2",
+    "Gift: Family - 3"
+   ],
+   "held": [
+    {
+     "Taken As": "Burden",
+     "Kind": "Companions",
+     "Name": "Companion",
+     "Level": 2
+    },
+    {
+     "Taken As": "Gift",
+     "Kind": "Family",
+     "Name": "Family",
+     "Level": 3
+    }
+   ],
+   "stats": {
+    "Strength": 2,
+    "Agility": 4,
+    "Endurance": 3,
+    "Intelligence": 3,
+    "Perception": 3,
+    "Wisdom": 2,
+    "Spirit": 4,
+    "Charisma": 2,
+    "Will": 3
+   },
+   "derived": {
+    "Physical Defense": "",
+    "Mental Defense": "",
+    "Spiritual Defense": "",
+    "Body": "9",
+    "Mind": "8",
+    "Soul": "9"
+   },
+   "Initiative": "",
+   "Legendary Ranks": "",
+   "Abilities": [],
+   "skills": [
+    {
+     "skill": "Art",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Athletics",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Ceremony",
+     "stat": 4,
+     "rank": 1,
+     "total": 5
+    },
+    {
+     "skill": "Charm",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Coercion",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Computers",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Cooking",
+     "stat": 4,
+     "rank": 2,
+     "total": 6
+    },
+    {
+     "skill": "Crafting",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Cybernetics",
+     "stat": 3,
+     "rank": 4,
+     "total": 7
+    },
+    {
+     "skill": "Deception",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Farming",
+     "stat": 3,
+     "rank": 2,
+     "total": 5
+    },
+    {
+     "skill": "Herbalism",
+     "stat": 3,
+     "rank": 1,
+     "total": 4
+    },
+    {
+     "skill": "Husbandry",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Investigation",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Knowledge",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Language",
+     "stat": 3,
+     "rank": 0,
+     "total": 0
+    },
+    {
+     "skill": "Medicine",
+     "stat": 3,
+     "rank": 2,
+     "total": 5
+    },
+    {
+     "skill": "Melee Weapons",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Music",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Performance",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Piloting",
+     "stat": 3,
+     "rank": 0,
+     "total": 3
+    },
+    {
+     "skill": "Ranged Weapons",
+     "stat": 4,
+     "rank": 1,
+     "total": 5
+    },
+    {
+     "skill": "Science",
+     "stat": 3,
+     "rank": 3,
+     "total": 6
+    },
+    {
+     "skill": "Skulduggery",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Stealth",
+     "stat": 4,
+     "rank": 2,
+     "total": 6
+    },
+    {
+     "skill": "Survival",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Tracking",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    },
+    {
+     "skill": "Unarmed Combat",
+     "stat": 2,
+     "rank": 0,
+     "total": 2
+    }
+   ],
+   "specialized": []
+  }
+ ]
+}

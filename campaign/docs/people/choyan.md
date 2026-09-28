@@ -1,6 +1,6 @@
 ---
 name: Choyan
-order: 3
+order: 6
 role: A guest who knows cybernetics
 chapters: [3]
 ---

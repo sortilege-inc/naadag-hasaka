@@ -1,9 +1,9 @@
 ---
 name: Zibizin
 order: 5
-role: Wasawi's father, missing
+role: Kii Das's partner, missing
 chapters: [1]
 ---
 
-The partner of Suva's daughter and Wasawi's father. A friend of Makatooka's, who taught her to fly.
-Missing for seven years.
+Kii Das's partner and Wazawi's father, and a friend of Migatuka's who taught her to fly. Zibizin set off
+to explore seven years ago and did not return.
