@@ -38,10 +38,10 @@ window.VttConfig = {
   // What this instance adds to the upstream pages (engine/instance.js): the saga's own pages
   // (campaign/data/docs.js, built by campaign/build/build.sh) and the tabs that show them.
   instance: {
-    styles: [],
+    styles: ['campaign/site/campaign.css'],
     stages: {
       data: [],
-      site: [],
+      site: ['campaign/data/docs.js', 'campaign/site/site.js'],
       gm: [], table: [], play: [],
     },
   },

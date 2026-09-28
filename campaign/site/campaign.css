@@ -1,0 +1,54 @@
+/* campaign/site/campaign.css — Naadag Hasaka's look: the VTT's tokens re-pointed at mesa sandstone and
+   crow-dark indigo (loaded after the system's stylesheet by engine/instance.js), and the saga's own
+   pages (campaign/site/site.js). Upstream files are never edited. */
+:root {
+  --paper: #f5ece0;
+  --card: #fdf6ec;
+  --line: #dcc7ad;
+  --night: #221f33;
+  --teal: #9a4f2c;      /* the accent: red mesa rock */
+  --clay: #3d3a6e;      /* the second accent: crow's-wing indigo */
+  --hit: #9a4f2c;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #17151d;
+    --card: #211e29;
+    --line: #3a3444;
+    --night: #0f0d16;
+    --teal: #e0996a;
+    --clay: #a7a4e6;
+    --hit: #e0996a;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #17151d;
+  --card: #211e29;
+  --line: #3a3444;
+  --night: #0f0d16;
+  --teal: #e0996a;
+  --clay: #a7a4e6;
+  --hit: #e0996a;
+}
+
+.nh-page { max-width: 46rem; margin: 0 auto; padding: 0 16px 3rem; }
+.nh-hero { margin: 2rem 0 1rem; border-bottom: 2px solid var(--teal); padding-bottom: .8rem; }
+.nh-title { font-family: var(--sans); font-size: clamp(2rem, 6vw, 3rem); letter-spacing: .02em; margin: 0; }
+.nh-sub { font-family: var(--sans); color: var(--clay); margin: .3rem 0 0; }
+.nh-prose { font-family: var(--serif); font-size: 1.06rem; line-height: 1.65; }
+.nh-prose h3 { font-family: var(--sans); color: var(--clay); margin: 2rem 0 .6rem; font-size: 1.1rem; letter-spacing: .04em; text-transform: uppercase; }
+.nh-prose blockquote { border-left: 3px solid var(--teal); margin: 1rem 0; padding: .1rem 1rem; }
+.nh-lede p:first-child::first-letter { float: left; font-size: 3.2em; line-height: .9; padding: .06em .08em 0 0; color: var(--teal); font-family: var(--sans); }
+.nh-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: .8rem; margin: 1.6rem 0; }
+.nh-card-t { font-family: var(--sans); font-weight: 600; margin-bottom: .3rem; }
+.nh-toc { font-family: var(--serif); font-size: 1.1rem; line-height: 1.9; padding-left: 1.4rem; }
+.nh-part { font-family: var(--sans); margin: -.3rem 0 1.2rem; }
+.nh-turn { display: flex; justify-content: space-between; gap: 1rem; margin-top: 2.4rem; padding-top: 1rem; border-top: 1px solid var(--line); font-family: var(--sans); }
+.nh-people { display: grid; grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr)); gap: .7rem; margin: 1rem 0; }
+.nh-person { display: block; padding: .8rem 1rem; background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--clay); border-radius: var(--radius); text-decoration: none; color: inherit; }
+.nh-person:hover { border-left-color: var(--teal); }
+.nh-person-n { font-family: var(--sans); font-weight: 600; }
+.nh-facts { border-collapse: collapse; margin: .4rem 0 1.2rem; font-family: var(--sans); }
+.nh-facts th { text-align: left; color: var(--clay); font-weight: 600; padding: .2rem 1rem .2rem 0; vertical-align: top; }
+.nh-facts td { padding: .2rem 0; }
+.nh-in { font-family: var(--sans); }
