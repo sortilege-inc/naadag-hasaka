@@ -7,9 +7,11 @@ motivation: Altruism
 home: Cahokia
 ---
 
-A Minak healer from Cahokia who worked in trauma care, now on leave from her hospital. She is altruistic,
-and she is fighting an addiction to kelera root. She has a hairless cat called Winks.
+A Minak healer, born and raised in Cahokia in a well-off family, who works in emergency medicine. She
+began coping with the pace and the trauma with uppers and downers, and is now on a six-month leave. She
+is altruistic, and she is fighting an addiction to kelera root. She has a hairless cat called Winks.
 
 Years ago she was close to Grandmother Naadag's family through Zibizin, who taught her to fly, and
 Zibizin's disappearance devastated her. She drifted away from the family after that, and came to the
-Seeing to start mending it. Grandmother's gift to her was a blanket.
+Seeing to start mending it. Grandmother's gift to her was Zibizin's blanket, its falcon reworked into a
+fox. Grandmother asked her to see Soova safely home again.

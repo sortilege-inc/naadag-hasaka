@@ -13,6 +13,6 @@ A Makokamit scout. His people live between Cahokia and the Paha and keep buffalo
 they are good cooks and build their own vehicles. He speaks Chahi, Plains sign and Makokamit, is good with
 animals, and prefers being out with the herds to any city.
 
-His people have supplied Grandmother Naadag's family with meat for years. He brought the food for the
-Seeing, gave Syn a ride into Cahokia, and spent the feast day working for the cooks. He is oblivious to
-being flirted with. On the way west he handles navigation and supplies.
+His family has done business with Grandmother Naadag's for generations. He chaperoned the crew that
+catered the Seeing, gave Syn a ride into Cahokia, and spent the feast day working for the cooks. He is
+oblivious to being flirted with. Grandmother sang him an old song-map, and he navigates by it.

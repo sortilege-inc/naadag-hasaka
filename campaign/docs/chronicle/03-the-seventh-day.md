@@ -11,8 +11,8 @@ He and his older sister Yohipa were Unlad, from the Haudenosaunee Confederacy. A
 citizen there, but a family that keeps its own language and ways instead of assimilating gets the
 smaller share of what is going, and theirs had kept theirs. When they had no family left, the two of
 them left and came to Cahokia. Yohipa was about twenty-five now and ran a successful restaurant.
-Grandmother had helped her get it started and find her feet in the neighbourhood. Her kitchen was
-one of several feeding the Seeing.
+Grandmother had helped her get it started and find her feet in the neighbourhood. Yohipa was catering
+part of the Seeing, and Tika came in to help for a while.
 
 Tika had cybernetic eyes, orbs that made no attempt to look like real ones, and a small drone that
 followed him everywhere. He had trained in martial arts under a master and knew the technique better
@@ -25,17 +25,13 @@ Adanadi gives, without the Adanadi.
 
 On the first two days he tried to charm everyone. The eyes started a lot of conversations. One of them
 was with Choyan, someone in their early fifties who knew their way around the kind of work his eyes
-were an example of. He told Choyan his theories. Choyan was kind about it, and by the end of the
-conversation had crossed several of them off: that had been tried, and that one was settled in the journals he
-did not read.
+were an example of. He told Choyan his theories. Choyan was sceptical. They talked him through why
+it would not work, and pointed him at the academic sources he had not read.
 
-The uncles did not make room for him at their table, so he got up a game of his own: dice, but with
-bluffing, a game he thought was better than what people usually played. He won.
-
-Yohipa had asked Grandmother to find him a place on the journey west. She thought it would keep him out
-of the gambling dens and give him something to do, and she told Grandmother his martial arts would help
-keep the others safe. So Tika was hired on as an escort: a third of the pay up front and two thirds at
-the end. It was not glamorous. It was more interesting than cooking the same meals all day.
+The uncles did not make room for him at their naasi games. But betting on sports, for favours, was
+ordinary enough, and Tika's bet came in well. What he won was a job: servicing a yutsu heading west,
+and cooking along the way, a third of the pay up front. It was not glamorous. It was more interesting
+than cooking the same meals all day.
 
 ## The fifth and sixth days
 
@@ -46,69 +42,63 @@ journey would need.
 
 Migatuka went looking for kelera root and could not find any. She drank a strong tea instead, twice
 as strong as she usually took it. She had long since learned to keep her use under a certain limit,
-and this time she went past it. What she saw frightened her. She tried to keep it to herself and did
-not manage it. The others resting in the same hall noticed; one gave her a sideways look, and another
-made a show of noticing nothing at all.
+and this time she went past it. What she saw frightened her. She woke from it with a start, sweating, in
+a room where others were sleeping, reading quietly, meditating. She tried to keep her distress to
+herself and did not manage it. The others clearly noticed, and pretended they had not.
 
-For Soova the fifth and sixth days were the work. She and the other attending healer had two days to
-bring Grandmother, body, mind and spirit, to the point where she was at peace with what would happen
-at dawn on the seventh. They bathed her and massaged her. They burned sage. They braided her hair.
-They meditated with her and fanned her, and chanted, and one or the other of them was nearly always
-singing, a little hum more often than a song, and sometimes Grandmother joined in.
+For Soova the fifth and sixth days were the work. She and Kooyoopi had two days to bring Grandmother,
+body, mind and spirit, to the point where she was at peace with what would happen at dawn on the
+seventh. They bathed her and massaged her. They burned sage. They trimmed her nails and braided her
+hair. They named the spirits and the ancestors as her guides. One or the other of them was nearly
+always singing, a little hum more often than a song, and sometimes Grandmother joined in.
 
 Soova had been nervous about leading it. What she found was that the preparation had done its job:
 each thing led into the next, and she could be there with Grandmother instead of worrying about the
-next step. Once, at the end of a bath, when Soova had her under the arms to help her up, Grandmother
+next step. She felt how much Grandmother was trusting her. Being so close to someone facing death that
+squarely was an emotional marathon. Once, at the end of a bath, when Soova had her under the arms to help her up, Grandmother
 began to sob and leaned into her, and Soova held her until it was done.
 
-On the sixth day Soova noticed that one of the closet doors was ajar. It struck her as odd. Her partner
-was sleeping, and she meant to ask about it later.
+Towards the end of the sixth day Soova noticed that a closet door was ajar. She closed it, and meant
+to ask about it later. They kept vigil through the night in shifts, and sleep came in pieces.
 
-They kept watch through the night in shifts. At about half past four, before dawn, Soova heard a door
-in the next room. Nobody should have been there. The room looked as they had left it.
-She went into the Black, the way she can, with her senses set aside and a self that can move, and
-felt someone close by, in the closet. She moved through the door. Wazawi was sitting inside, crammed
-in, doing muscle-relaxation exercises to keep herself awake.
+The death would come from smoke: a mixture of plants that burns into a fume deadly to anyone who
+breathes it, and harmless to anyone who has taken the right medicine first. It would slow
+Grandmother's body, and then stop it.
 
-In a couple of hours the room would be filled with the compound that would stop Grandmother's heart.
-Wazawi had not taken what the attendants take against it.
+In the last hours, wearing Grandmother's jewellery, Soova sensed that something was off. She went into
+the Black to see whether some spirit was there that might spoil the rite. She could make out auras,
+and pressed her sense forward, and saw an outline in the closet, like heat. Her spirit moved into it.
+Wazawi was inside, stiff and sore, stretching her muscles one at a time, struggling to stay awake.
 
-Soova was furious. She did not want to make it public: it would dishonour the family, and Grandmother.
-She could not leave the room without breaking what they had spent two days making clean. Wazawi was
-already in it. So Soova pulled her out of the closet, gave her the blocker, and told her in a very few
-words how close she had come to ruining everything. She was to go back in, and if Soova heard one
-sound from her, or anyone else found her, she would be in the worst trouble of her life. Wazawi had
-nearly fallen into the room when the door opened. She was exhausted, and she had just understood how
-close she had come to dying. She did what she was told.
+Soova was furious. She also knew that if she had not found her, it would have killed her.
+
+Back in her body, she thought it through. Revealing it would dishonour the family, and she could
+accept that, but she would not compromise the ceremony. She prepared the antidote and opened the
+closet on a dazed Wazawi. In an urgent whisper she gave her the medicine and told her how unacceptable
+this was. Wazawi would stay in the closet until everything was finished. Soova gave her some water and
+closed the door. Wazawi was too exhausted to fight, and did as she was told.
 
 Around the same hour Tika went out to a public place and did martial-arts forms, as showily as he
 could. After a while a few people came over to watch, and one of them offered to spar. It did not last
 long. He tried again, and it ended the same way; they were faster and saw openings he could not. They
 ended up sparring each other and left him to it.
 
-Soova spent the last hours before dawn wearing Grandmother's jewellery, thinking back over their life
-together and how much she owed her.
-
 ## The seventh day
 
-They woke Grandmother, and she went out and saw the dawn. Then she came into the room, and they lit
-the compound. The smoke was thick. The two healers had taken the blocker; to them it was only smoke.
-
-They sat on low cushions facing her and held her hands, the three of them, holding her upright between
-them. Soova told her what she had meant to them, and wished her well in the crossing, and promised they
-would be with her the whole way. Grandmother began to sweat. She sang, and they sang with her. Soova
-found herself singing a song she knew but could not place. She knew it from her own childhood.
+At dawn Soova woke Kooyoopi, and they woke Grandmother, and the three of them greeted the dawn one
+last time. Then they settled in, holding hands, as the first threads of smoke began to fill the room.
+Soova reassured her. She could feel Grandmother sweating. Grandmother sang fragments of melodies, and
+they were melodies Soova knew from her own childhood.
 
 The smoke took her. Her body went slack. Soova felt the pulse at her wrist and then felt nothing. They
-laid her back, and after a little while they dressed her one last time. Then they slept for the rest
-of the day.
+dressed her one last time, for the viewing and the burial. Then Soova got Wazawi out unseen, and slept
+for the rest of the day and the night.
 
 ## The eighth day
 
 On the eighth day the family brought the body out, and people came to say goodbye. At the busiest
 times there was a short line. Some spoke, some sang, some stood in silence. Wazawi went up and told
-her she was sorry. Migatuka went up with the blanket around her shoulders and softly said something
-like a poem. Daatsu waited for a quiet moment and went up to thank her for asking his people to bring
+her she was sorry. Migatuka went up with the blanket around her shoulders and a cup of kelera tea. Daatsu waited for a quiet moment and went up to thank her for asking his people to bring
 the food.
 
 She was buried beside her husband. The burial was short, and most of the guests were there for it.
@@ -116,15 +106,15 @@ Some left as soon as it was over.
 
 ## Packing up
 
-Daatsu's people started packing straight away. The vehicle going west was a yutsu barge, about the
-size of a bus and three times as wide. Daatsu would do the navigating, and the escort would work with
-him.
+Over the next couple of days they gathered what they would need. Daatsu found a yutsu bus going west,
+about the size of a bus and three times as wide, and Tika turned out to be its support crew.
 
 "I'm Tika," Tika told him. "I've been hired on for the trip."
 
 "Excellent. Welcome to the group."
 
-Daatsu looked at the eyes and hoped they meant the kid was good with machines. Tika was a decent pilot
+Daatsu looked at the eyes and hoped they meant the kid was good with machines. He kept thinking: if he
+had known, he would have brought this, and this, and this. Tika was a decent pilot
 in the city, mostly of drones, and he had never been out anywhere really rural. He did not tell his
 sister how he had got the job. She owed him money for his work at the restaurant and could not pay
 it before he left; she said she would have it when he got back.
@@ -145,9 +135,5 @@ of the eleventh, when the last of them had gone.
 
 Late on the morning of the tenth, it occurred to Soova that no one had seen Syn.
 
-Wazawi came back looking worried. Syn was in their room, and they would not wake up. Every so often they
-shook.
-
-The healers who looked at Syn said that they were not in any danger the healers could see. Everything
-about Syn's body was as it should be, except the shaking, and that they would not wake. The others
-decided to take Syn with them and look after them on the way, until they did.
+They found Syn in their room, unconscious and shaking. Soova could tell it was not a medical matter.
+They took Syn with them, and Soova and Migatuka would look after them on the way.

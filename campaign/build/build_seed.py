@@ -190,6 +190,26 @@ NOTION = [
 ]
 
 
+# Each session's Notion page (the RPG Playlog), word for word, as a beat on the first scene of its session.
+SESSION_PAGES = [('Session Zero', ['session-zero']), ('1/A', ['session-1a', 'session-1a-gm-notes']),
+                 ('1/B', ['session-1b']), ('1/C', ['session-1c']), ('2/A', ['session-2a']),
+                 ('2/B', ['session-2b-nakatoo-boys', 'session-2b-stabbing-westward']), ('2/C', ['session-2c'])]
+
+
+def session_beats(arc):
+    for key, slugs in SESSION_PAGES:
+        scene = next((sc for sc in arc if sc['session'].startswith(key)), None)
+        if scene is None:
+            die('no scene for session ' + key)
+        for slug in slugs:
+            text = open(os.path.join(NOTION_DIR, slug + '.md'), encoding='utf-8').read()
+            first = text.strip().splitlines()[0].lstrip('# ').strip()
+            body = re.sub(r'^## (.+)$', r'**\1**', text, flags=re.M)
+            scene['beats'].append({'id': 'nh-notion-' + slug, 'kind': 'note',
+                                   'title': 'The Notion page, word for word: ' + first, 'text': unwrap_notion(body)})
+    return [s for _, ss in SESSION_PAGES for s in ss]
+
+
 def notion_sections():
     """each page as a section; a page with `## ` headings is split at them into subsections"""
     out = []
@@ -246,6 +266,7 @@ def main():
         arc.append(s)
     for pane, sec in notion_sections():
         gm[pane].append(sec)
+    session_slugs = session_beats(arc)
     members = party()
     pack = {'kind': 'sortilege-vtt-campaign', 'version': 1, 'gm': gm, 'threads': threads, 'arc': arc, 'party': members}
 
@@ -291,6 +312,9 @@ def main():
     for slug, *_ in NOTION:
         src += '\n' + open(os.path.join(NOTION_DIR, slug + '.md'), encoding='utf-8').read().replace('## ', '')
         src += '\n' + [t for sl, _, t, _ in NOTION if sl == slug][0]
+    for slug in session_slugs:
+        text = open(os.path.join(NOTION_DIR, slug + '.md'), encoding='utf-8').read()
+        src += '\n' + text.replace('## ', '') + '\nThe Notion page, word for word: ' + text.strip().splitlines()[0].lstrip('# ').strip()
     a, b = words(src), words('\n'.join(got))
     if a != b:
         diff = {w: (a[w], b[w]) for w in set(a) | set(b) if a[w] != b[w]}

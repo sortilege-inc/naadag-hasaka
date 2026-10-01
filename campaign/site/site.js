@@ -31,7 +31,7 @@
     const cards = [
       ['chronicle', 'The Chronicle', DOCS.chronicle.length + ' chapters: ' + DOCS.chronicle.map((c) => c.title).join(', ')],
       ['party', 'The Travellers', DOCS.party.map((c) => c.name).join(', ')],
-      ['people', 'Dramatis Personae', DOCS.people.length + ' met at the Seeing'],
+      ['people', 'Dramatis Personae', DOCS.people.length + ' people they have met'],
     ];
     p.appendChild(el('div', { class: 'nh-cards' }, cards.map((c) => el('a', { class: 'shelf-book nh-card', href: ctx.href(c[0]) }, [el('div', { class: 'nh-card-t' }, [c[1]]), el('div', { class: 'muted small' }, [c[2]])]))));
   }
@@ -86,12 +86,14 @@
     const x = path[0] && DOCS.people.find((c) => c.slug === path[0]);
     if (!x) {
       p.appendChild(el('h2', { class: 'chapter-h' }, ['Dramatis Personae']));
-      p.appendChild(el('div', { class: 'nh-people' }, DOCS.people.map((c) => el('a', { class: 'nh-person', href: ctx.href('people', [c.slug]) }, [
+      p.appendChild(el('div', { class: 'nh-people' }, DOCS.people.map((c) => el('a', { class: 'nh-person' + (c.portrait ? ' has-portrait' : ''), href: ctx.href('people', [c.slug]) }, [
+        c.portrait ? el('img', { class: 'nh-thumb', src: c.portrait, alt: '', loading: 'lazy' }) : null,
         el('div', { class: 'nh-person-n' }, [c.name]), el('div', { class: 'nh-person-s muted small' }, [c.role]),
       ]))));
       return;
     }
     p.appendChild(crumbs(ctx, 'people', 'Dramatis Personae', x.name));
+    if (x.portrait) p.appendChild(el('img', { class: 'nh-portrait', src: x.portrait, alt: 'A portrait of ' + x.name }));
     p.appendChild(el('h2', { class: 'chapter-h' }, [x.name]));
     p.appendChild(el('div', { class: 'nh-part muted' }, [x.role]));
     p.appendChild(prose(x.html));

@@ -31,13 +31,15 @@ OUT = os.path.join(ROOT, 'campaign', 'data', 'docs.js')
 SAGA_NAMES = {
     'Naadag', 'Grandmother', 'Soova', 'Syn', 'Daatsu', 'Migatuka', 'Wazawi', 'Zibizin', 'Ninosh',
     'Choyan', 'Tika', 'Yohipa', 'Winks', 'Seeing', 'Papa', 'Hoyohih', 'Loohok', 'Kii', 'Das',
-    'Misyooyi', 'Minak',
+    'Misyooyi', 'Minak', 'Kooyoopi', 'Kaptaanzi', 'Tawihichik', 'Hiicho', 'Tisimiga', 'Ninosanipan',
+    'Hokawichakun',
 }
 # Words the chronicle capitalises that are ordinary English at a sentence's middle.
 ENGLISH_OK = {'I', "I'm", "I've", "I'd", "I'll", 'Hey', 'Oh', 'Excellent', 'Welcome', 'Thank', 'Well',
-              'Right', 'Would', 'You', 'Come', 'The', 'U'}
+              'Right', 'Would', 'You', 'Come', 'The', 'U', 'January', 'February', 'March', 'April', 'May',
+              'June', 'July', 'August', 'September', 'October', 'November', 'December'}
 # What the public pages must not tell (campaign/PLAN.md, decision P2): stems, case-insensitive.
-PRIVATE = [r'miscarr', r'\bbaby\b(?! girl)', r'\bunborn', r'\boracle', r'\bpregnan', r'\bstowaway',
+PRIVATE = [r'miscarr', r'\bbaby\b(?! girl)', r'\bunborn', r'\boracle', r'\bpregnan',
            r'crime famil', r'crime lord', r'\bwithdrawal', r'long con', r'espionage', r'Hiihangaziwag',
            r'secretly Din', r'\bbetray', r'\bspy\b', r'great-aunt']
 

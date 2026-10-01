@@ -52,3 +52,7 @@
 .nh-facts th { text-align: left; color: var(--clay); font-weight: 600; padding: .2rem 1rem .2rem 0; vertical-align: top; }
 .nh-facts td { padding: .2rem 0; }
 .nh-in { font-family: var(--sans); }
+.nh-portrait { float: right; width: min(40%, 15rem); aspect-ratio: 1; object-fit: cover; margin: .3rem 0 1rem 1.2rem; border-radius: var(--radius); border: 1px solid var(--line); }
+.nh-person.has-portrait { display: grid; grid-template-columns: 3.2rem 1fr; column-gap: .7rem; align-items: center; }
+.nh-person.has-portrait .nh-thumb { grid-row: span 2; width: 3.2rem; height: 3.2rem; object-fit: cover; border-radius: 50%; }
+@media (max-width: 480px) { .nh-portrait { float: none; display: block; width: 100%; max-width: 20rem; margin: .5rem 0 1rem; } }

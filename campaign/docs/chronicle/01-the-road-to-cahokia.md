@@ -36,11 +36,11 @@ Daatsu was thirty-two, a scout on the Path of the Raccoon, and he did not like c
 the Makokamit, live between Cahokia and the Paha and keep buffalo, antelope and turkey. He had been
 out following the buffalo, counting them, out of signal for days. When he came back into range there was a message waiting.
 
-His people had supplied this family with meat for years. It had started as business and turned into
-friendship; they knew what the family liked and the family knew it would get a fair price. So they
-were going to Cahokia together, with gifts and enough food to feed a crowd for more than a week:
-meat, and the things that grow wild and will not grow in a garden, mushrooms above all. Daatsu went
-with them.
+His family had done business with Grandmother Naadag's for generations. It had turned into
+friendship; they knew what the family liked and the family knew it would get a fair price. Now a crew
+of theirs was going to Cahokia to cater the Seeing, with gifts and enough food to feed a crowd for
+more than a week: meat, and the things that grow wild and will not grow in a garden, mushrooms above
+all. His family called him in out of his solitude and asked him to chaperone it.
 
 ## Syn
 
@@ -51,13 +51,16 @@ them.
 
 They had been in Coyote City looking into a wrong done to a poor man. The more they dug the more
 there was, until they were reaching into the Black for it. Then, in a night of bad sleep, they had a
-vision. Someone was reaching back to them through the Black. They did not know who. They knew the
-name of a family, and they felt something pouring off that family, and they felt where it came from:
-an old woman at its centre. They dropped the investigation and went.
+vision that told them to set out east and find Grandmother Naadag. They did not know who she was.
+They knew the name, and they felt something pouring off her family, and they felt where it came from:
+an old woman at its centre. It is unusual to leave the Diné Republic. Syn dropped the investigation
+and went.
 
-Syn did not have a map. They had a direction. When a ride ran out they walked.
+They did not have a map. They had a direction. When a ride ran out they walked.
 
-That is how Daatsu's people found them, walking down a bend in the road. Out there you stop for
+That is how Daatsu's crew found them, walking down a bend in the road. There are no roads as such
+out there: the yutsu hover, so travel is a matter of finding clearance through the forests, and over
+plains and water it is simple. Out there you stop for
 anyone on foot, and they stopped. Syn asked where they were going.
 
 "The Seeing for a family in Cahokia," Daatsu said. "If you want a ride into town, we're going that
@@ -77,9 +80,9 @@ hop off.
 
 Syn had never been to Cahokia. At home they knew every street and whom to ask for a secret; here
 they knew nothing, and they stood out. The Diné dress differently, and people stared, or came over
-to ask, or kept away. Syn wandered and let the city tell them where to go. More than once they
-drifted into places a stranger had no business being, and people let them drift out again, which was
-luck. Their niisi was set up for the Diné Republic's daso and would not talk to Cahokia's, so they
+to ask, or kept away. Syn wandered and let the city tell them where to go, and somewhere along the way
+picked up an outfit that looked more local. More than once they drifted into places a stranger had no
+business being, and people let them drift out again, which was luck. Their niisi was set up for the Diné Republic's daso and would not talk to Cahokia's, so they
 found a public terminal and looked up the Seeing: the place, and when to
 arrive.
 
@@ -97,35 +100,43 @@ something they had not seen before, and went up to the house.
 
 Migatuka was already there, sitting in a corner, and had not come forward to say hello.
 
-She was twenty-eight, a Minak healer who worked in trauma care, on leave from her hospital. Years ago she had been close
-to this family. Zibizin, the partner of Soova's daughter Kii Das, used to bring little Wazawi in to be
-patched up; by the third time it was "you again", and after that the two of them were friends.
-Zibizin taught her to fly. Then Zibizin set off exploring and did not come back, seven years ago now,
-and it devastated her. It was the same year Migatuka's own life came apart. She had not refused the family's calls since. She had not answered
-them either. When the invitation came, she took it because she was trying to mend what she had done.
+She was twenty-eight, a Minak healer born and raised in Cahokia, from a well-off family. She worked
+in emergency medicine. To cope with the pace and the trauma she had started on uppers and downers,
+which is not unheard of in her field, and they had come to affect her enough that she was now on a
+six-month leave. It was humiliating.
 
-Soova saw her and went over slowly. Migatuka was a little younger than Soova's daughter had been when
-she died. There was grief in that, and Soova was worried about where Migatuka had been and what she
-had been doing, but she wanted her in. Migatuka let herself be mothered. There was a hug. She
-wanted to apologise and decided it could wait until there were fewer people watching.
+Years ago she had been close to this family. She met Zibizin, Kii Das's partner, when little Wazawi
+shattered her shin exploring; by the third time Zibizin brought her in it was "you again", and after
+that the two of them were friends. Zibizin taught her to fly. Then Zibizin set off exploring and did not
+come back, seven years ago now, and it devastated her. She stopped answering the family, for all their
+efforts. Later Kii Das died too, and Soova took the children. Migatuka had not seen any of them since.
+When the invitation came, she took it because she was trying to mend what she had done.
 
-Then Syn came in, quiet and a little lost, and asked if they could talk to someone who knew what was
+Soova saw her and went over to say hello. They kept to small talk. Soova tried to be welcoming without
+spooking her; for Migatuka, seeing Soova brought the loss back. When Soova offered an embrace,
+Migatuka took it.
+
+"I don't want to take away from the Seeing," she said, "but I would like to apologise as well. I
+shouldn't have waited this long."
+
+Then Syn came in. They stood out, but people from every part of Grandmother's life were there, and
+nobody expected to know everyone. Quiet and a little lost, Syn asked if they could talk to someone who knew what was
 going on here. They had never met the woman at the centre of this, they said, but they had felt her
 from a long way off.
 
 "The family is usually very welcoming," Soova said. "Right now we're having our Seeing for
 Grandmother Naadag."
 
-The questions Syn asked told Soova two things: that this stranger had never met Grandmother, and
-wanted to, and that they were Diné, like Grandmother. Soova took them over.
+Soova offered to take them to meet Grandmother Naadag. Syn understood then that this was who they had
+been sent to find, and understood something else as well: that Soova was Diné.
 
-Grandmother was doing well for her age. She was mostly clear, and with help she could get up and go
-around the room in her own small orbit, then rest. Most of the time she sat in a comfortable chair
-and people came to her. She was more ceremonial than spiritual. She held that there was something
+Grandmother was doing well for her age, though she was clearly failing. She was mostly clear, and
+with help she could get up and go around the room in her own small orbit, then rest. Most of the time
+she sat on a sedan and people came to her. She was more ceremonial than spiritual. She held that there was something
 rooted in tradition worth keeping, even if not always in the same form, and, now that Soova thought
 about it, the family's rites had always been heavier on form than on spirit.
 
-She took Syn's hand and held it for the whole conversation.
+She clasped Syn's hands as they spoke.
 
 "My name is Syn," Syn said. "I've come all the way from the Diné Republic. There was this feeling.
 It came to me like a lance, from the spirit world. I haven't really understood why. But I know that
@@ -137,9 +148,12 @@ Grandmother looked closely into Syn's eyes. "What is your path?"
 
 "I see you are a Beaver," Grandmother said. "I have a gift for you. But it will need to wait."
 
+"I understand," Syn said. "It was a pleasure meeting you."
+
 After that Syn sat at the edges and watched, and tried to wait properly.
 
-There were about fifty people by then; there would be two hundred when it was full. Migatuka drifted
-from group to group and did not stay anywhere long. Daatsu had a tray of the food his people had
-brought and was carrying it round, bragging about it. He offered Migatuka some fruit leather. In the
-corner a table of uncles had had a dice game going all afternoon.
+There were about fifty people by then; there would be two hundred when it was full. Daatsu was trying
+to make himself useful and had little to do but eat the food and wander. He carried a tray of what his
+people had brought and bragged about it. He bumped into a woman, made small talk, and talked up the
+buffalo; she told him she was vegetarian, and he moved smoothly on to mushroom steaks. In the corner
+three uncles had had a game of naasi going all afternoon.

@@ -35,14 +35,17 @@ navigates; Tika is hired as an escort and works with him. [SET — Notion]
 A home game, begun 3 March 2023. [SET — Notion, the RPG Playlog]
 
 - Session Zero — 3 March 2023
-- 1/A Good Death — 10 March 2023 (recorded: chapter 1)
-- 1/B Good Death — 7 April 2023 (recorded: chapter 2; the recording stops before the private meeting)
-- 1/C Good Death — 5 May 2023 (recorded: chapter 3)
-- 2/A Stabbing Westward — 19 May 2023 (not recorded)
-- 2/B Nakatoo Boys — 16 June 2023 (not recorded; the playlog also lists a "2/B Stabbing Westward" with no date)
-- 2/C Coyote & Crow [interrupted] — 30 June 2023 (not recorded)
+- 1/A Good Death — 10 March 2023 (recorded; session notes and GM notes in Notion: chapter 1)
+- 1/B Good Death — 7 April 2023 (recorded, stopping before the private meeting; the session notes have it: chapter 2)
+- 1/C Good Death — 5 May 2023 (recorded; session notes: chapter 3)
+- 2/A Stabbing Westward — 19 May 2023 (session notes: chapter 4)
+- 2/B Nakatoo Boys — 16 June 2023 (prep notes only: the Nakotoo caravan; what happened is not recorded)
+- 2/B Stabbing Westward — no date; prep notes only (names, the Nakotoo, foods)
+- 2/C Coyote & Crow [interrupted] — 30 June 2023 (no notes)
 
-What happened in 2/A–2/C is not in any source on disk. [OPEN]
+Each session's Notion page is in its card in Scenes, word for word. Where the session notes and the
+recordings differ, the notes are followed (owner, 2026-09-28: Notion is the authority). What happened in
+2/B and 2/C is not in any source on disk. [OPEN] The campaign is marked Hiatus. [SET — Notion]
 
 ## The Seeing
 @ id: seeing
@@ -60,7 +63,10 @@ room; it stops the elder's body.
 - Day 10: farewells and dispersal. Anyone not gone by the end of it is expected to be.
 
 About two hundred people came to Grandmother's, counting children. Not everyone is given a Seeing; her
-husband Misyooyi's death, in 689, was quiet.
+husband Misyooyi's death, about fifteen years before, was quiet. (Soova's timeline puts it in 689; the
+1/B session notes say about fifteen years, and the chronicle follows the notes.) The death is by smoke:
+a mixture of plants burned into a fume that slows and stops the body, trivially negated by the right
+medicine taken first. [SET — 1/C notes]
 
 ## The world at this table
 @ id: world
@@ -74,8 +80,16 @@ another dimension, which is how some spooky action at a distance works. [SET —
 
 ### The wild corridor
 A broad north–south stripe of unoccupied territory, kept for animal migration, just before the Diné
-Republic; people go into it only when there is a need. Not in the book. What it is called is a Notion GM
-question. [YOURS] [OPEN]
+Republic; off limits by treaty. No one lives in it; you can cross it — "Burning Man ethos, leave the
+site"; a DMZ without the extreme penalties? Who is breaching the treaty? What it is called is a Notion
+GM question. Not in the book. [YOURS] [OPEN] (2/A notes; a map of it is on the 2/A page.)
+
+### The way west
+From Cahokia to the destination by way of Coyote City: in our world's terms, Memphis to Albuquerque —
+down the Mississippi and up the Arkansas by water, then across the plains past the Wichita Mountains and
+the Caprock Escarpment, the Sangre de Cristo to the north, to the Rio Grande valley under the Sandias.
+On the plains: migratory caravans, solar-powered pop-up villages, buffalo ranchers, treeless grassland
+with trees only along the streams; circuit justice, gangs, the Suyata. [YOURS — 2/A notes]
 
 ### Getting around, keeping in touch
 Few wheeled vehicles; most things float or hover (yutsu barges), and there are paths more than roads.
@@ -160,8 +174,10 @@ to see). [SET]
 
 ## Grandmother Naadag
 @ id: p-naadag
-Nearly 121 at her death; born 589 in the Diné Republic. Arrived in Cahokia in late adolescence; married
-Misyooyi, who died in 689; lost children of her own. Ceremonial more than spiritual. Honoured by the
+Nearly 121 at her death; born 589 in the Diné Republic. Orphaned at the end of the All Tribes War; the
+man who became her husband, Misyooyi, found her on his way back, and she came to Cahokia with him in her
+adolescence. "I have not been to Diné since I was a child." Misyooyi died about fifteen years before her;
+she lost children of her own. A portrait of her is on the site. Ceremonial more than spiritual. Honoured by the
 Council of Twelve for neighbourhood work copied across the city. Related to the Ancients in Oraibi. [SET
 — Notion; the recordings]
 
@@ -170,8 +186,17 @@ people who came to make her finish her work; she told Soova so before she died (
 last days — Notion leaves it open). [SET — Notion] Connected to the Coyote crime lords, as Soova and Syn
 are. [SET — Notion]
 
+Her plan, from the 1/A GM notes: she understands she can no longer protect Soova from the crime family
+Soova escaped, so she sends the party into Dinada — for several reasons, one being to give Soova a clean
+slate, a pardon. Daatsu gets them there with a song map to an ancient city older than the Diné (their
+devices will not work inside Dinada). Syn and Tika are to be the left and right eyes. Migatuka is told
+to tend Soova's health; really it is a detox trip. In play (1/B) she gave Soova a sealed box to return to
+her ancestral lands, sang Daatsu the song map ("Thank you for guiding my daughter back home"), told Syn
+"I trust your sight", and asked Migatuka to bring Soova home safe and well — then told Soova alone that
+this was "only half true". [SET — Notion]
+
 Notion GM questions: Was she Soova's great-aunt, and does Soova learn it? Why is sending Soova intended to
-be a pardon? What did she ask them to bring to Oraibi, and why? [OPEN]
+be a pardon? What did she ask them to bring to Oraibi, and why? What did she give Syn? [OPEN]
 
 The early part of her life, as the family tells it, has deliberate gaps. Syn came away convinced they
 concern Grandmother and the Black: something she met there and has been getting away from, dangerous
@@ -197,6 +222,9 @@ Soova's tree of the family she married into. [SET — Notion, Soova's page]
 
 The tree gives Wazawi 14 and Loohok 8; the Notion GM page gives 16 and 10. The GM page is used. [SET]
 
+The cousins at the Seeing (1/A notes): Wazawi 14f, Loohok 8m, Zaptahi 21, Na Sooma (infant), Hasoowag 12f,
+Pikichatokiz 16m, Witigat 11m, Woova 5f, Na Mawiipik 6f. [SET — Notion]
+
 ## Hoyohih
 @ id: p-hoyohih
 Soova's husband, Grandmother's son, a farmer, 71; Wazawi calls him Papa. Staying in Cahokia with Loohok.
@@ -205,8 +233,9 @@ together was based on a lie. [SET — Notion]
 
 ## Zibizin
 @ id: p-zibizin
-Kii Das's partner; Wazawi and Loohok's parent. Taught Migatuka to fly. Set off to explore in 703 and did
-not return. [SET] Notion GM questions: What happened to Zibizin? A spy, deep undercover in Dinada? Taken
+Kii Das's partner; Wazawi and Loohok's parent. Taught Migatuka to fly; they met when Wazawi shattered her
+shin exploring. Set off to explore in 703 and did not return. Grandmother's gift to Migatuka was Zibizin's
+blanket, the falcon reworked into a fox. [SET — Notion] Notion GM questions: What happened to Zibizin? A spy, deep undercover in Dinada? Taken
 in lieu of Soova? Taken by the Suyata? How does Wazawi feel about her missing parent, and her dead
 mother? [OPEN]
 
@@ -218,8 +247,8 @@ day 2; he did not notice until Migatuka said it aloud. "Seek me out if you're ev
 
 ## Choyan
 @ id: p-choyan
-Early fifties, knows current cybernetics research well. Disproved several of Tika's hypotheses in one
-conversation. Tika has made a note of the name. [SET — 1/C]
+Early fifties, knows current cybernetics research well; sceptical of Tika's theories about reproducing the
+Adanadi's effects synthetically; pointed him at the academic sources. [SET — 1/C notes]
 
 ## Yohipa
 @ id: p-yohipa
@@ -235,20 +264,48 @@ The Coyote crime lords of Coyote City: seven clans. Soova, Syn and Grandmother N
 Notion GM questions ask to flesh out the criminal families, and what Soova did as a youth that required
 her family's protection. The villains who get away are the main villains. [SET — Notion] [OPEN]
 
-## The attending healer
+## Kooyoopi
 @ id: p-partner
-Attended Grandmother's last two days with Soova, and took the first long watch. Not named. Soova kept
-Wazawi's presence from them. [SET — 1/C]
+Tahood. Performed the ceremony with Soova: attended Grandmother's last two days and took the first long
+watch. Soova kept Wazawi's presence from them. [SET — Notion]
 
 ## The uncles
 @ id: p-uncles
-A trio at the dice table, a day and a half of play by day 2. Took Syn as their luck; did not make room
-for Tika. [SET — 1/B, 1/C]
+Tisimiga, Ninosanipan and Hokawichakun, playing naasi and gambling; a day and a half of play by day 2.
+Took Syn as their luck; did not make room for Tika. [SET — Notion]
 
-## Migatuka's colleague
+## Kaptaanzi
 @ id: p-colleague
-A colleague from Migatuka's hospital she never got on with, still working there; met on day 2. Not
-named. [SET — 1/B]
+Migatuka's colleague; they never really got along. Still working; met on day 2. [SET — Notion]
+
+## Tawihichik
+@ id: p-tawihichik
+A member of the Council of Twelve; came for a few hours on day 3. [SET — Notion]
+
+## Pahkig
+@ id: p-pahkig
+Suyata, a little overzealous. At the Seeing (1/A NPC list); not yet met in play. [SET — Notion]
+
+## Hiicho
+@ id: p-hiicho
+Hichoyasaam; Hiicho. About seven, mute, autistic; signs, and Daatsu reads Plains sign. Stowed away on the
+yutsu to go to the mountains; his family, in Cahokia, cannot travel. An escort is coming for him. [SET —
+2/A notes]
+
+## The Nakotoo caravan
+@ id: p-nakotoo
+Prepared for 2/B (Nakatoo Boys) and its prep page; whether and how they appeared in play is not
+recorded. A caravan everyone in it is hustling; running a scam into the reserved lands. [YOURS] [OPEN]
+
+- Dagamot — the Hermit; Ten of Swords reversed; Four of Pentacles reversed. In his 40s; started in rural
+medicine, on a path to great things in Cahokia until the door was slammed; his children refuse to
+acknowledge him, his partner of twenty years left. Too useful with medicine to be expelled. Migatuka has
+heard how he bombed out. Path of the Badger, Spirit's Covenant.
+- Hasu / Atatikas — the Emperor; Seven of Pentacles; the Abyss. De facto leader; big ideas that never
+quite fail and never quite succeed; drawn to the no-man's land, in breach of treaty.
+- Sanguinet / Nizikoopac — Ace of Wands; Page of Pentacles reversed; Temperance. Everyone loves them; their
+project has no chance.
+- Wipohit and Nakatipik (Suyata); Pawis, Adanko, Wiingaahan.
 
 # pc
 
@@ -294,10 +351,15 @@ Wazawi. [SET — 1/C; Notion]
 @ about: Syn
 ### Who they are
 42, Diné, Tahood (not male or female), Seeker, Path of the Beaver, Motivation Justice. An acolyte of the
-Keepers of the Ancient Ones. Quiet Mind; Spirit World Connection. Past involvement with criminal
-organisations; connected to the Coyote crime lords. Was investigating a wrong done to a poor man in
-Coyote City; dropped it after the vision. Grandmother's gift: a necklace connected to the spirit world.
-[SET — Notion; the recordings] No sheet in the export.
+Keepers of the Ancient Ones, summoned by Grandmother as a spirit guide and escort into Dinada. Quiet Mind
+(in 2/A, Mind up to 14: Mind + 2 × Charisma); Spirit World Connection. Past involvement with criminal
+organisations; connected to the Coyote crime lords. From Coyote City; was investigating a wrong there and
+dropped it after the vision. Grandmother's promised gift is not recorded: the 2/A to-do asks "What did
+Grandmother Naadag give Syn?" (the 1/B recording heard a necklace). [SET — Notion] [OPEN] No sheet.
+
+GM notes (1/A): Syn was approached by someone in Coyote City who encouraged them to seek out Soova and
+tell her that [a family member] was asking after her; if Syn should see her, to encourage or help her to
+go back to her family. [YOURS] [OPEN]
 
 ### Kit
 The Notion page gives Suyata Armor (+1 PD, concealable) and a Suyata Kit (-1 SN to Survival); the
@@ -307,9 +369,11 @@ Notion to-do says to check in with Syn: they would not have these. [OPEN]
 Survival Rank 2; Investigation with Intelligence came to 10 dice; Wisdom 3; Charm rolled 2 dice. [SOURCE
 — the recordings, loosely heard]
 
-### Asleep
-On day 10 Syn would not wake, and shook at intervals; otherwise healthy. Prep note: they are "going on
-something of a journey"; "Soova knows enough not to wake her". [YOURS — the prep note]
+### Asleep, and the quail
+On day 10 Syn would not wake, and shook at intervals; Soova knew it was not medical. In the Black they
+were a quail following a fox to a clearing with an old upright stone; in 2/A Soova reached them there,
+the glyphs on the stones shifted, the stone had a being of its own, and both woke. Syn is worried about
+the box. [SET — 1/C, 2/A notes]
 
 ## Daatsu
 @ id: pc-daatsu
@@ -328,8 +392,10 @@ until it comes up in play. [OPEN — Notion]
 @ id: pc-migatuka
 @ about: Migatuka
 ### Who she is
-28, Minak, of Cahokia; Healer, Motivation Altruism. Worked in trauma care; on leave of absence because of
-her addiction. Strongest in Knowledge, with science and medicine, some herbalism; can pilot (Zibizin
+28, Minak, born and raised in Cahokia, from a wealthier family; Healer, Motivation Altruism. Works in
+emergency medicine (trauma care); coped with the pace and trauma with uppers and downers, and is on a
+six-month leave — humiliating. Used to working in a small team. Does she have a partner, or did she? (a
+1/A to-do) Strongest in Knowledge, with science and medicine, some herbalism; can pilot (Zibizin
 taught her). Gift: Spirit World Connection. Burden: Addiction — kelera root, kelera-adanadi. A hairless
 cat, Winks. Devastated by Zibizin's disappearance. Packed a trauma kit, her herbal knowledge in her niisi,
 a raven keepsake; left Grandmother's blanket in safe keeping. Performance 0, Spirit 4 as played. [SET —
@@ -340,12 +406,13 @@ kelera root she has. [OPEN]
 Only the Story Guide and her player know this; the public pages do not tell it. [NOTE]
 
 She suffered a miscarriage, close to when Zibizin vanished, and her addiction took hold then.
-Grandmother's blanket — a falcon reworked into a fox — is understood by Migatuka in connection with that.
+Grandmother's blanket was Zibizin's: their falcon, reworked into a fox. [SET — 1/B notes]
 On day 5, on a doubled kelera tea, she saw the tea overflow a bowl and, under it, the child she imagines
 she would have had, rising for air; she threw the tea and the bowl was empty. She tried to hide it and did
 not manage. [SET — 1/C; Notion]
 
-Notion and the prep note: the miscarried baby "is going to be an oracle to her"; she "will have to use
+Notion and the prep note: the miscarried baby "is going to be an oracle to her"; the 2/A notes ask why the
+oracle shows as that child, and whether the guilt is because she took an abortifacient; she "will have to use
 deception to avoid the others figuring out what that's all about". How soon until she hits withdrawal? In
 1/C the Story Guide checked with the table about discussing the miscarriage in play; confirm before
 bringing it forward. [YOURS] [OPEN]
@@ -363,10 +430,12 @@ the Adanadi, that is a side mission. Wants more freedom from his sister while lo
 Mountain's Inspiration. His sheet is on the Party pane. [SET — Notion]
 
 ### How he joined
-Notion: Yohipa asked Grandmother to include him; he was not present when the others were tasked, and they
-are told he has been hired as an escort, coordinating with Daatsu; paid a third up front. In 1/C the job
-came up through a dice game he won; Notion is followed. [SET — Notion] Why his parents chose not to
-assimilate is a Notion GM question. [OPEN]
+In play (1/C notes and recording): shut out of the uncles' naasi, he won a sports bet, and the prize was a
+job servicing a yutsu heading west, paid a third up front; he will also cook. Daatsu found that yutsu
+and Tika is its support crew. Before play, his Notion page had Yohipa ask Grandmother to include him as an
+escort; the session is followed. Daatsu may have supplied Yohipa's restaurant, which catered part of the
+Seeing. [SET — Notion] Why his parents chose not to assimilate, and which language he picks (2/A to-do),
+are open. [OPEN]
 
 ### From the prep note
 "Young. Hungry. … Looking for a get rich quick scheme and there really isn't one out here. Will
@@ -431,13 +500,16 @@ gaps concern the Black and something dangerous there. Who reached Syn through th
 
 ## Soova's past comes back
 @ id: t-protection
-Grandmother had been protecting Soova without her knowing; with Grandmother dead it has faltered. How is
-Soova found out, and what do they want? The Coyote crime lords. Why is sending Soova meant as a pardon?
-[YOURS — the prep note; Notion] [OPEN]
+Grandmother had been protecting Soova without her knowing; with Grandmother dead it has faltered. How
+quickly does Soova's family find her, and why are they seeking her out? They need her provably dead, or
+to have given up her inheritance: a political issue, for the minority branch of the family to win her
+support. The Coyote crime lords. Why is sending Soova meant as a pardon? [YOURS — Notion] [OPEN]
 
 ## Wazawi in the closet
 @ id: t-closet
-Soova and Wazawi's secret; Soova is upset with her. [SET]
+Wazawi hid in the closet from the night of day 4, sleeping standing up. Soova found her through the
+Black, gave her the antidote, kept her shut in until it was over, and got her out unseen. Soova and
+Wazawi's secret; Soova is upset with her, and more so when Wazawi tried to defend herself. [SET — Notion]
 
 ## Migatuka's addiction
 @ id: t-addiction
@@ -449,10 +521,10 @@ on Migatuka). [YOURS] [OPEN]
 Missing seven years, gone exploring. A spy in Dinada? Taken in lieu of Soova? Taken by the Suyata?
 [OPEN]
 
-## The stowaway
+## Hiicho
 @ id: t-stowaway
-A couple of days in they find a stowaway: a seven-year-old, mute, autistic. (The recorded prep note said
-five.) Do they go back? Try to pass the child on? [YOURS — Notion]
+Found among the boxes in 2/A: about seven, mute, autistic. Cahokia said stay put, an escort is being sent.
+Do they wait? Go back to Cahokia to return him? [SET — 2/A notes] [OPEN]
 
 ## Tika's debts and dreams
 @ id: t-tika
@@ -485,6 +557,12 @@ From the Notion page, not yet used. [YOURS]
 the party against one of the PCs surrendering (the house rules are in Rules).
 
 # arc
+
+## Session Zero
+@ id: s0-zero
+@ session: Session Zero · 3 March 2023
+@ played: true
+Session Zero. The page has only its date. [SET — Notion]
 
 ## Arrival
 @ id: s1-arrival
@@ -533,29 +611,30 @@ not wake. Chapter 3.
 @ id: n-leaving
 @ session: 2/A Stabbing Westward · 19 May 2023
 @ played: true
-Played; not recorded. What the Story Guide prepared for it: day 11, morning, the barge west with Syn
-aboard and asleep. [YOURS — the prep note; Notion]
-### Soova and Wazawi
-Soova is still upset with her; their secret.
-### The song map
-They navigate by it.
+The supplies; the way west by the song map; Syn's trance (the quail and the fox) and Soova reaching them;
+close quarters on the yutsu (Migatuka asks about Zibizin and wants the drone to find wild kelera; Soova
+annoyed with Wazawi; Wazawi looks up to Tika; bad blood between Soova and Tika); Daatsu's sense of the box.
+Chapter 4. [SET — 2/A notes]
+### Close quarters
+Pick someone, roll: 9–12 bond; 5–8 learn a secret or answer; 1–4 answer a question; 0 bad blood.
+### Still open from the prep
+Migatuka -1 dose; withdrawal, and how soon; the oracle. Tika's side job: make sure Soova speaks with her
+cousin in Coyote City. Someone who wants Migatuka's drugs, who will fake friendship, perhaps a lover.
+[OPEN]
 
-## A couple of days in
+## Hiicho
 @ id: n-stowaway
 @ session: 2/A Stabbing Westward · 19 May 2023
 @ played: true
-Prepared: they find a stowaway, a seven-year-old, mute, autistic. Go back or not? Pass the child off
-somehow? [YOURS — Notion]
-### Migatuka
-Withdrawal, and how soon. The oracle: she must use deception so the others don't work out what it is.
-### Tika's side job
-Make sure Soova speaks with her cousin in Coyote City. [OPEN]
+Making camp, Migatuka finds a boy of about seven among the boxes; Daatsu reads his name in Plains sign:
+Hiicho. Argument. Two other parties near: shippers, and a larger party heading away from Cahokia. A weak
+signal reaches Cahokia; the answer: stay put, an escort is coming. [SET — 2/A notes]
 
 ## Nakatoo Boys
 @ id: n-nakatoo
 @ session: 2/B Nakatoo Boys · 16 June 2023
 @ played: true
-Played; not recorded, and no notes. [OPEN]
+Played; not recorded. The page holds the prep for the Nakotoo caravan (in People). [OPEN]
 
 ## Interrupted
 @ id: n-interrupted

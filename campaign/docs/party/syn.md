@@ -15,8 +15,9 @@ Black when they investigate, sometimes deep enough that they stop hearing what i
 have a quiet mind and a connection to the spirit world.
 
 They were looking into a wrong done to a poor man in Coyote City when someone reached them through the
-Black with the name of a family. They dropped the case and hitchhiked to Cahokia, and arrived in time for
-Grandmother Naadag's Seeing. Grandmother told them she had a gift for them that would have to wait; at the
-long tables she gave them a necklace.
+Black with the name of a family. They dropped the case, left the Diné Republic, which few do, and hitchhiked to Cahokia, and arrived in time for
+Grandmother Naadag's Seeing. Grandmother told them she had a gift for them that would have to wait, and before she died
+she told them she trusted their sight.
 
-On the tenth day Syn would not wake.
+On the tenth day Syn would not wake. On the road they were in the Black, a quail following a fox to a
+standing stone.
