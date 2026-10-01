@@ -16,7 +16,13 @@ Status words: **PROPOSED** (awaiting the owner), **(owner)** decided, **landed**
 
 ## What is on disk (read 2026-09-27, the Notion export 2026-09-28)
 
-Two sources, both **kept outside the repo** (they carry the players' names):
+Two sources, both **kept outside the repo** (they carry the players' names). Since 2026-09-30 both live in
+`../naadag-hasaka-support/archive/`, in Caul's layout (filed by that folder's `scripts/organize_archive.py`):
+`recordings/` and `transcriptions/` (named `2023-03-10 - Coyote & Crow Session 1`, `2023-04-07 - … 2`,
+`2023-05-05 - … 3`, and the undated `Coyote & Crow Notes`) and `notion-export/2026-09-28/{naadag-hasaka,
+rpg-playlog}/`. The `~/Downloads/…` paths below are where they were first read. Re-import with
+`python3 campaign/source/import_notion.py ../naadag-hasaka-support/archive/notion-export/2026-09-28/naadag-hasaka`
+(re-run from the archive 2026-09-30: output identical).
 
 - **The owner's Notion export** (added 2026-09-28), `~/Downloads/b6a4849d-…_ExportBlock-…/Private & Shared/`
   — **the authority** (owner, 2026-09-28: "the notion export is more authoritative"). 9 pages: the saga's
@@ -27,6 +33,9 @@ Two sources, both **kept outside the repo** (they carry the players' names):
   and family tree, six pages of the book, icons.
 - **The recordings**, `~/Downloads/2023 Naadag Hasaka/` (147 MB): the three sessions of *Good Death*
   (1/A 10 March, 1/B 7 April, 1/C 5 May 2023) and a spoken prep note.
+- **The RPG Playlog's session pages** (a second Notion export, filed 2026-09-30, `rpg-playlog/`): Session
+  Zero, 1/A–1/C, 2/A, both 2/Bs and 2/C, with *A Good Death — GM Notes* and images under 1/A, 2/A and 2/B.
+  **Not yet read into the saga.**
 
 | Folder | What it is | Words |
 |---|---|---|
